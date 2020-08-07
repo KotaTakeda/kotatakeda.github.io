@@ -1,7 +1,7 @@
 ---
-layout: page
-# layout: default
-title: About
+# layout: page
+layout: default
+title: about
 permalink: /about/
 ---
 

@@ -4,5 +4,5 @@
 
 layout: home
 # layout: default
-title: Home
+title: home
 ---
