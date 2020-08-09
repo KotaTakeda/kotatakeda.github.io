@@ -3,9 +3,9 @@ layout: default
 ---
 
 <div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+  <h1 class="page-heading">{{ site.title }}</h1>
+
+  <div class="page-description">{{site.description}}</div>
 
   {{ content }}
 
@@ -14,19 +14,19 @@ layout: default
     {%- assign page_paths = site.header_pages | default: default_paths -%}
 
     {%- if page_paths -%}
-      <ul class="">
-        <div class="">
-          {%- for path in page_paths -%}
-            {%- assign my_page = site.pages | where: "path", path | first -%}
-            {%- if my_page.title and my_page.title != "home" -%}
-            <div>
-              <a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-              <p>{{my_page.description}}</p>
-            </div>
-            {%- endif -%}
-          {%- endfor -%}
-        </div>
-      </ul>
+      <div class="page-content flex-container">
+        {%- for path in page_paths -%}
+          {%- assign my_page = site.pages | where: "path", path | first -%}
+          {%- if my_page.title and my_page.title != "home" and my_page.title != "about" -%}
+          <div class="flex-item ">
+            <a class="overlay-button main-button" href="{{ my_page.url | relative_url }}">
+              {{ my_page.title | escape }}
+            </a>
+            <!-- <p>{{my_page.description}}</p> -->
+          </div>
+          {%- endif -%}
+        {%- endfor -%}
+      </div>
     {%- endif -%}
   </div>
 
