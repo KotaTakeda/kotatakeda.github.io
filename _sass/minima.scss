@@ -1,9 +1,11 @@
 @charset "utf-8";
 
 // Import partials.
+@import "minima/setting";
 @import
-  "minima/setting",
   "minima/base",
   "minima/layout",
-  "minima/syntax-highlighting"
+  "minima/syntax-highlighting",
+  "minima/parts",
+  "minima/pages"
 ;
