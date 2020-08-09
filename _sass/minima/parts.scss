@@ -1,3 +1,10 @@
+.gradient-text {
+  background: -webkit-linear-gradient(0deg, $brand-color, $accent-color);//背景色にグラデーションを指定
+  background-clip: text; //テキストでくり抜く
+  -webkit-background-clip: text; //テキストでくり抜く
+  -webkit-text-fill-color: transparent; //くり抜いた部分は背景を表示
+}
+
 .main-button {
   display: flex;
   justify-content: center;
@@ -37,6 +44,6 @@
 .overlay-button {
   &:hover {
     // color: $background-color !important;
-    background-color: $main-color;
+    background-color: $grey-color-light;
   }
 }
