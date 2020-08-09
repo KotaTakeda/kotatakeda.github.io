@@ -28,3 +28,7 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
+
+# upgrade for dependabot alert by github
+# gem "kramdown", ">= 2.3.0" => エラーが出た at 2020/08/09
+
