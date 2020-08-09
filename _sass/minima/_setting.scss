@@ -10,9 +10,20 @@ $base-line-height: 1.5 !default;
 
 $spacing-unit:     30px !default;
 
+// base, main, accentで設計70:25:5
+// $base-color: #fdfdfd; // default
+// $base-color: #fffafa; //snow
+$base-color: #fffaf0; //floral white
+// $base-color: #f8f8ff; //ghost white
+// $main-color: #111; // default
+$main-color: #f8f2e7; //floral gray (original)
+$accent-color: #2a7ae2;
+$season-color: #fffafa;
+
+
 $text-color:       #111 !default;
-$background-color: #fdfdfd !default;
-$brand-color:      #2a7ae2 !default;
+$background-color: $base-color !default;
+$brand-color:      $accent-color !default;
 
 $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
