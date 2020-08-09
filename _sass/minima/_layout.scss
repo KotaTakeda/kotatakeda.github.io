@@ -5,7 +5,7 @@
   border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
-  background-color: $background-color;
+  background-color: $header-color;
 
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -48,7 +48,7 @@
     }
 
     &:hover {
-      background-color: $main-color;
+      background-color: $grey-color-light;
     }
   }
 
@@ -114,7 +114,7 @@
 .site-footer {
   border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
-  background-color: $main-color;
+  background-color: $footer-color;
 }
 
 .footer-heading {
