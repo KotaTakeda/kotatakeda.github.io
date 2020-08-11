@@ -1,8 +1,23 @@
 .home {
+  margin-top: $spacing-unit*3;
   .page-heading {
     text-align: center;
+    font-size: 40px;
   }
   .page-description {
     text-align: center;
+  }
+
+  &.fade{
+    animation: fadeIn 7s ease;
+    // 以下と同値
+    // animation-name: fadeIn;
+    // animation-duration: 7s;
+    // animation-timing-function: ease;
+  }
+  
+  @keyframes fadeIn { /*animetion-nameで設定した値を書く*/
+    0% {opacity: 0} /*アニメーション開始時は不透明度0%*/
+    100% {opacity: 1} /*アニメーション終了時は不透明度100%*/
   }
 }
