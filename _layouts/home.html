@@ -5,11 +5,13 @@ layout: default
 <div class="home">
   <h1 class="page-heading"><span class="gradient-text">{{ site.title }}</span></h1>
 
-  <div class="page-description">{{site.description}}</div>
-
-  {{ content }}
-
   <div class="wrapper">
+    <div class="page-description">{{site.description}}</div>
+
+    <div>
+    {{ content }}
+    </div>
+
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
 
