@@ -3,6 +3,9 @@
   .page-heading {
     text-align: center;
     font-size: 40px;
+    &.first-visit {
+      font-size: 32px;
+    }
   }
   .page-description {
     text-align: center;
