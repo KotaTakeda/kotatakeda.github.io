@@ -6,15 +6,12 @@
 }
 
 .main-button {
-  font-size: 24px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  // width: 200px;
-  height: 35px;
-  padding: 5px;
-  // border: 2px solid $main-color;
   border-radius: 5px;
+  &:hover {
+    @include with-shadow;
+    border: 1px solid #aaa;
+    outline-offset: -1px;
+  }
 }
 
 
@@ -39,12 +36,5 @@
     // &:last-child {
     //   margin-right: 0px;
     // }
-  }
-}
-
-.overlay-button {
-  &:hover {
-    // color: $background-color !important;
-    background-color: $grey-color-light;
   }
 }

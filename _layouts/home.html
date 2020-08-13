@@ -23,7 +23,7 @@ layout: default
           {%- assign my_page = site.pages | where: "path", path | first -%}
           {%- if my_page.title and my_page.title != "home" and my_page.title != "about" -%}
           <div class="flex-item ">
-            <a class="overlay-button main-button" href="{{ my_page.url | relative_url }}">
+            <a class="main-button" href="{{ my_page.url | relative_url }}">
               {{ my_page.title | escape }}
             </a>
             <!-- <p>{{my_page.description}}</p> -->
