@@ -13,4 +13,4 @@
 
 
 # リンク
-[トップページへ](https://kotatakeda.github.io/)
+[ホームページへ](https://kotatakeda.github.io/)
