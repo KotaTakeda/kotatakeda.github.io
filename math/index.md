@@ -6,5 +6,3 @@ dir: math
 description: "数学に関する記事をまとめています．"
 ---
 <!-- todo -->
-
-*製作中

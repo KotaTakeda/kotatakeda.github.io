@@ -5,7 +5,6 @@ permalink: /profile/
 description: "プロフィール"
 ---
 <!-- todo -->
-*製作中
 
 ### 所属
 国立大学法人 京都大学 大学院理学研究科 数学教室
