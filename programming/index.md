@@ -6,5 +6,3 @@ permalink: /programming/
 description: "プログラミングに関する記事をまとめています．"
 ---
 <!-- todo -->
-
-*製作中
