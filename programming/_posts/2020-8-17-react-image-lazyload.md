@@ -28,7 +28,7 @@ $ yarn add react-lazy-load-image-component
 - `<img />`と同じ`props`を渡せる．
 - その他`props`で読み込み方を調整．
 
-```
+```jsx
 import React from 'react';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
 
@@ -36,7 +36,7 @@ const SomeConponent = () => (
   <div>
     ...
     <LazyLoadImage
-    　// <img />のpropsと同様
+    // <img />のpropsと同様
       height={height}
       src={src}
       width={width}
