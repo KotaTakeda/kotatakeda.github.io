@@ -3,13 +3,14 @@
 
   {%- include head.html -%}
 
-  <body>
+  <body class="{{page.name}}">
     {%- if page.title != 'home' -%}
       {%- include header.html -%}
     {%- endif -%}
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
+        {{page.categories | inspect }}
         {{ content }}
       </div>
     </main>
