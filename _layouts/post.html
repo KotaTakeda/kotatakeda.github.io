@@ -18,6 +18,14 @@ layout: default
           {% endif %} -->
         {%- endfor -%}
       </div>
+      <nav id="tags">
+        <h2>tags:</h2>
+        <ul>
+          {% for tag in page.tags %}
+          <li><a href="/tags/index.html#tag_{{ tag }}">{{ tag }}</a></li>
+          {% endfor %}
+        </ul>
+      </nav>      
       {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
       {%- endif -%}</p>
