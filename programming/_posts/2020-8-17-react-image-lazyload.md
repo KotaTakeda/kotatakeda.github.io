@@ -3,6 +3,7 @@ layout: post
 title:  "Reactで画像のLazyLoad"
 date:   2020-08-17 14:06:00 +0900
 dir: /programming/
+tags: React
 ---
 ### 目的
 ReactでSeoのために画像をスクロールに沿って遅延読み込みしたい．
