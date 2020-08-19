@@ -11,49 +11,25 @@ layout: default
     <div class="page-description">{{site.description}}</div>
 
     <div>
-    {{ content }}
+      {{ content }}
     </div>
 
-    {%- assign default_paths = site.pages | map: "path" -%}
-    {%- assign page_paths = site.header_pages | default: default_paths -%}
-
-    {%- if page_paths -%}
-      <div class="page-content flex-container">
-        {%- for path in page_paths -%}
-          {%- assign my_page = site.pages | where: "path", path | first -%}
-          {%- if my_page.title and my_page.title != "home" and my_page.title != "about" -%}
-          <div class="flex-item ">
-            <a class="main-button" href="{{ my_page.url | relative_url }}">
-              {{ my_page.title | escape }}
-            </a>
-            <!-- <p>{{my_page.description}}</p> -->
-          </div>
-          {%- endif -%}
-        {%- endfor -%}
+    <div class="page-content flex-container">
+      <div class="flex-item ">
+        <a class="main-button" href="/profile">
+          プロフィール
+        </a>
       </div>
-    {%- endif -%}
+      <div class="flex-item ">
+        <a class="main-button" href="/math">
+          数学
+        </a>
+      </div>
+      <div class="flex-item ">
+        <a class="main-button" href="/programming">
+          プログラミング
+        </a>
+      </div>
+    </div>
   </div>
-
-  <!-- {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "最近の投稿" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-
-    <p class="rss-subscribe">subscribe <a href="{{ '/feed.xml' | relative_url }}">via RSS</a></p>
-  {%- endif -%} -->
-
 </div>
