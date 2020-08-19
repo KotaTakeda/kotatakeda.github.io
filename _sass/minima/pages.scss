@@ -11,6 +11,15 @@
     text-align: center;
   }
 
+  .flex-container {
+    justify-content: center;
+    align-content: center;
+    flex-direction:column;
+    .flex-item {
+      padding: 10px;
+    }
+  }
+
   @include fade-in(7s);
 
   .main-button {
@@ -20,5 +29,28 @@
     display: flex;
     justify-content: center;
     align-items: center;
+  }
+}
+.post {
+  .post-header {
+    border-bottom: 1px solid $text-color;
+    padding-bottom: 10px;
+    .post-title {
+      @include relative-font-size(2);
+    }
+    #tags {
+      line-height: 20px;
+      .tag {
+        background-color: $grey-color-light;
+        color: $text-color;
+        border-radius: 5px;
+        outline-offset: -1px;
+        padding-top: auto;
+        text-align: center;
+        &:hover {
+          color: $brand-color;
+        }
+      }
+    }
   }
 }
