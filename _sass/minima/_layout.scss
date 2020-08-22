@@ -181,6 +181,9 @@
 .page-content {
   padding: $spacing-unit 0;
   flex: 1;
+  h3 {
+    @include left-line
+  }
 }
 
 .page-heading {
@@ -252,6 +255,7 @@
     @include media-query($on-laptop) {
       @include relative-font-size(1.375);
     }
+    @include left-line
   }
 
   h4 {

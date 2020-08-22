@@ -55,6 +55,11 @@ $on-laptop:        800px !default;
   }
 }
 
+@mixin left-line {
+  border-left: 5px solid $brand-color;
+  padding-left: 5px;
+}
+
 // Use media queries like this:
 // @include media-query($on-palm) {
 //   .wrapper {
