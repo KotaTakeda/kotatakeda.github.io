@@ -26,7 +26,8 @@ $ gcc hello.c hello
 - 複数ファイルから実行ファイルを作る
 
 hello.c
-```hello.c
+
+```c
 #include <stdio.h>
 
 void f() {
@@ -34,7 +35,8 @@ void f() {
 }
 ```
 main.c
-```main.c
+
+```c
 #include <stdio.h>
 void f(){}
 
@@ -42,6 +44,7 @@ void main() {
   f();
  }
 ```
+
 ```
 $ gcc main.c hello.c -o main
 $ ./main
@@ -49,6 +52,6 @@ $ ./main
 ```
 このとき`duplicate symbol`エラーが出ることがある． [Duplicate Symbol? What?](https://samwho.dev/blog/duplicate-symbol-what/)
 
-## 参考
+### 参考
 [gcc コンパイルオプション備忘録](https://qiita.com/seriru13/items/c2f5192615162c4c3f47)
 
