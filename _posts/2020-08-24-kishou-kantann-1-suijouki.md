@@ -4,15 +4,6 @@ title:  "水蒸気量の観測"
 date:   2020-08-24 21:50:00 +0900
 tag: '気象予報士'
 ---
-<script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
-<script type="text/x-mathjax-config">
- MathJax.Hub.Config({
- tex2jax: {
- inlineMath: [["\\(","\\)"], ['$','$'] ],
- displayMath: [ ['$$','$$'], ["\\[","\\]"] ]
- }
- });
-</script>
 ### 目次
 - [Key word](#key-word)
 - [はじめに](#はじめに)
