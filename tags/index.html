@@ -6,10 +6,10 @@ title: 'タグ一覧'
 {% for tag in site.tags %}
 <article>
   <h1 id="tag_{{ tag[0] }}">{{ tag[0] }}</h1>
-  <ul>
+  <div class="flex-container">
     {% for post in tag[1] %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    <div class="flex-item"><a href="{{ post.url }}">{{ post.title }}</a></div>
     {% endfor %}
-  </ul>
+  </div>
 </article>
 {% endfor %}
