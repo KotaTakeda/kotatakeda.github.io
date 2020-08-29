@@ -11,17 +11,21 @@ tags: "公式"
 ### 目次
 - [Key word](#key-word)
 - [はじめに](#はじめに)
+- [公式](#公式)
 - [参考](#参考)
-- [注意](#注意)
+<!-- - [注意](#注意) -->
 
 ### Key word
-- ベクトル解析
+- ベクトル解析，偏微分方程式
+- 流体力学，電磁気学
 
 ### はじめに
-$ \vec{u}, \vec{v} : \mathbb{R}^3 \rightarrow \mathbb{R}^3 , \phi: \mathbb{R}^3 \rightarrow \mathbb{R} $とする．このとき以下が成り立つ．
+ベクトル解析など物理寄りの文脈で登場することの多いベクトルの公式を忘れないように書いておきます．
 
 ### 公式
 随時更新します．
+
+$ \vec{u}, \vec{v} : \mathbb{R}^3 \rightarrow \mathbb{R}^3 , \phi: \mathbb{R}^3 \rightarrow \mathbb{R} $．
 - $ \nabla \cdot (\nabla \times \vec{u}) = 0 $
 - $ \nabla \times (\nabla \phi) = \vec{0} $
 - $ \nabla (\vec{u} \cdot \vec{v}) = (\vec{u} \cdot \nabla)\vec{v} + (\vec{v} \cdot \nabla)\vec{u} + \vec{u} \times (\nabla \times \vec{v}) + \vec{v} \times (\nabla \times \vec{u}) $
@@ -31,4 +35,5 @@ $ \vec{u}, \vec{v} : \mathbb{R}^3 \rightarrow \mathbb{R}^3 , \phi: \mathbb{R}^3 
 
 [pdfリンク](/math/pdf/vector_identities.pdf)
 ### 参考
-### 注意
+pdfリンクにあります．
+<!-- ### 注意 -->
