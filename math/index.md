@@ -11,3 +11,6 @@ description: "数学に関する記事をまとめています．"
 
 ### 興味
 流体，UQ(Uncertainty Quantification)，データ同化，機械学習，気象予報
+
+### 研究テーマ
+検討中です．
