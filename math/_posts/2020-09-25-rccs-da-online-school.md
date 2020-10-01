@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DAオンラインスクール"
+title: "DAオンラインスクール(基礎編)"
 date: 2020-09-25 20:43 +0900
 dir: /math/
 tags: 'data assimilation'
