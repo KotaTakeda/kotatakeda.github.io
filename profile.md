@@ -4,7 +4,6 @@ title: "プロフィール"
 permalink: /profile/
 description: "プロフィール"
 ---
-<!-- todo -->
 
 ### 所属
 国立大学法人 京都大学 大学院理学研究科 数学教室 坂上研究室
@@ -17,3 +16,6 @@ description: "プロフィール"
 
 ### 資格
   - 2020年 9月 高等学校教諭一種免許状(数学) 取得
+
+### 活動履歴
+  - 2020年 9月2日~9月30日 RCCS DAオンラインスクール受講・修了 [修了証](/math/pdf/da_online_school_2020_certification.pdf)
