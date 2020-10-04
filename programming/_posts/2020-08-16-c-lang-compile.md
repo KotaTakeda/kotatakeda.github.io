@@ -17,9 +17,9 @@ $ gcc hello.c
 $ ./a.out
 ```
 
-- outファイルに名前を指定
+- outファイルに名前を指定: `-o`オプションをつける．
 ```
-$ gcc hello.c hello
+$ gcc hello.c -o hello
 // => hello ができる
 ```
 
