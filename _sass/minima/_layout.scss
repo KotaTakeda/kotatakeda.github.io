@@ -182,8 +182,7 @@
   padding: $spacing-unit 0;
   flex: 1;
   h3 {
-    // @include left-line;
-    border-bottom: solid 1px black;
+    @include left-line;
   }
 }
 
@@ -256,6 +255,8 @@
     @include media-query($on-laptop) {
       @include relative-font-size(1.375);
     }
+    border-left: none;
+    border-bottom: solid 1px black;
   }
 
   h4 {
