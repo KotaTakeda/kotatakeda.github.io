@@ -3,7 +3,7 @@ layout: post
 title:  "C言語のコンパイルまとめ"
 date:   2020-08-16 14:30:00 +0900
 dir: /programming/
-tag: 'c言語'
+tag: 'C言語'
 ---
 ### C言語のコンパイルについての備忘録(`gcc`による)
 
