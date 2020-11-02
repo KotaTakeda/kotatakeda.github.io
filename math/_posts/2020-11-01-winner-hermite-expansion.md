@@ -9,6 +9,8 @@ tags: 'スペクトル理論'
 ### 目次
 - [Key word](#key-word)
 - [はじめに](#はじめに)
+- [Hermite多項式](#hermite多項式)
+- [Winner-Hermite polynomial chaos expansion](#winner-hermite-polynomial-chaos-expansion)
 - [まとめ](#まとめ)
 - [参考](#参考)
 
@@ -34,14 +36,15 @@ $ H_n(x) = (-1)^n e^{-x^2} \frac{d}{dx} e^{-x^2} $
 4. その他，多数の特筆すべき性質を持つがここでは省略．
 
 ### Winner-Hermite polynomial chaos expansion
-Hermite多項式で$ L^2 $関数を展開する．
+Hermite多項式で$ L^2 $関数を展開します．
 
-詳細は[pdfリンク](/math/pdf/chapter11.pdf)のHermite多項式の箇所
+詳細は[pdfリンク](/math/pdf/chapter11.pdf)のHermite多項式の箇所．
 
 ### まとめ
-直交多項式による$ L^2 $関数の展開の中でも基本的なHermite多項式による展開をまとめました．
+- 直交多項式による$ L^2 $関数の展開の中でも基本的なHermite多項式による展開をまとめました．
+- random ODEに応用することができます．
+- Hermite多項式には他にも多くの側面がありますがそれはまた別の機会に．
 
-Hermite多項式には他にも多くの側面がありますがそれはまた別の機会に．
 ### 参考
 - Timothy John Sullivan. *Introduction to uncertainty quantification*, Springer, 2015
 
@@ -49,14 +52,3 @@ Hermite多項式には他にも多くの側面がありますがそれはまた�
 #### Notation
 - $ \mathbb{N}_0 = \mathbb{N} \cup \{ 0 \} $
 - 平均$ m $, 標準偏差 $ \sigma $の正規分布を$ N(m, \sigma^2) $とかく．
-
-
-<script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
-<script type="text/x-mathjax-config">
- MathJax.Hub.Config({
- tex2jax: {
- inlineMath: [["\\(","\\)"], ['$','$'] ],
- displayMath: [ ['$$','$$'], ["\\[","\\]"] ]
- }
- });
-</script>
