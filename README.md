@@ -4,7 +4,7 @@
 [ホームページへ](https://kotatakeda.github.io/)
 
 # 構成
-- ホーム
+- [ホーム](https://kotatakeda.github.io/)
 - 数学
   - 記事
   - PDF
