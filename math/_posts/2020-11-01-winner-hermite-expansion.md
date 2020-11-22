@@ -43,7 +43,6 @@ Hermite多項式で$ L^2 $関数を展開します．
 ### まとめ
 - 直交多項式による$ L^2 $関数の展開の中でも基本的なHermite多項式による展開をまとめました．
 - random ODEに応用することができます．
-- Hermite多項式には他にも多くの側面がありますがそれはまた別の機会に．
 
 ### 参考
 - Timothy John Sullivan. *Introduction to uncertainty quantification*, Springer, 2015
