@@ -5,7 +5,7 @@
 
 # 構成
 - [ホーム](https://kotatakeda.github.io/)
-- 数学
+- [数学](https://kotatakeda.github.io/math/)
   - 記事
   - PDF
 - プログラミング
