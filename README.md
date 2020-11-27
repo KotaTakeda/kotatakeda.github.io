@@ -8,7 +8,7 @@
 - [数学](https://kotatakeda.github.io/math/)
   - 記事
   - PDF
-- プログラミング
+- [プログラミング](https://kotatakeda.github.io/programming/)
   - 記事
 - プロフィール
 - about
