@@ -9,7 +9,3 @@
 - [プログラミング](https://kotatakeda.github.io/programming/)
 - プロフィール
 - about
-
-
-# リンク
-[ホームページへ](https://kotatakeda.github.io/)
