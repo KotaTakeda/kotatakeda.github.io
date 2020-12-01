@@ -7,5 +7,5 @@
 - [ホーム](https://kotatakeda.github.io/)
 - [数学](https://kotatakeda.github.io/math/)
 - [プログラミング](https://kotatakeda.github.io/programming/)
-- プロフィール
+- [プロフィール](https://kotatakeda.github.io/profile/)
 - about
