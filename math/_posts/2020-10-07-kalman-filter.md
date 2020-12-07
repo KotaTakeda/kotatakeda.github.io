@@ -13,16 +13,17 @@ tags: "データ同化"
 - [参考](#参考)
 
 ### Key word
-- データ同化，Kalman Filter
+- データ同化， Kalman Filter
 
 ### はじめに
 データ同化の基本的な手法であるKalman Filterについてまとめます．
+シミュレーションと観測データを組み合わせて推定を行うデータ同化の考え方とKalmanFilterのアルゴリズムを紹介します．
+推定や観測には誤差があるという考え方が根底にあります．
 
 ### まとめ
 随時更新していきます．
 
-[pdfリンク](math/pdf/kalman_filter.pdf) 
-<!-- TODO: pdf追加 -->
+[pdfリンク](/math/pdf/kalman_filter.pdf) 
 
 ### 参考
 pdfにあります．
