@@ -13,4 +13,4 @@ description: "数学に関する記事をまとめています．"
 流体，UQ(Uncertainty Quantification)，データ同化，機械学習，気象予報，サンプリング
 
 ### 研究テーマ
-検討中です．
+今はHamiltonian Monte Carloについて調べています．
