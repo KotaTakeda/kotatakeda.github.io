@@ -39,6 +39,7 @@ $ H_n(x) = (-1)^n e^{-x^2} \frac{d}{dx} e^{-x^2} $
 4. その他，多数の特筆すべき性質を持つがここでは省略．
 
 ### Winner-Hermite polynomial chaos expansion
+ここがメインです．
 Hermite多項式で$ L^2 $関数を展開します．
 
 詳細は[pdfリンク](/math/pdf/chapter11.pdf)のHermite多項式の箇所．
