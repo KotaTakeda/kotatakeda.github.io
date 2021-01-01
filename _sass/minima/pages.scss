@@ -43,8 +43,9 @@
     #tags {
       line-height: 20px;
       .tag {
+        font-size: $small-font-size;
         background-color: $grey-color-light;
-        color: $text-color;
+        color: $grey-color;
         border-radius: 5px;
         outline-offset: -1px;
         padding-top: auto;
