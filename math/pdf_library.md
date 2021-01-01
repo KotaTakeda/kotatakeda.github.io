@@ -10,6 +10,7 @@ description: "数学pdf置き場"
 
 ### UQ
 - [Spectral Expansions](/math/pdf/chapter11.pdf)
+- [Stochastic Galerkin](/math/pdf/chapter12.pdf)
 
 ### データ同化
 - [Kalman Filter](/math/pdf/kalman_filter.pdf)
