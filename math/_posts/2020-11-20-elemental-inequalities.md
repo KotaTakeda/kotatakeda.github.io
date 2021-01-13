@@ -43,7 +43,7 @@ $ p > 0 \Rightarrow |x+y|^p \le \max(1, 2^{p-1})(|x|^p + |y|^p) \hspace{2em} (\f
 $ \frac{2xy}{x+y} \le \sqrt{xy} \le \frac{1}{2}(x+y) $
 
 #### 5. Bernoulliの不等式
-$ \forall x > -1, r \in [0,1] \Rightarrow (1+x)^r \le 1 + rx, \hspace{2em} r \notin [0,1] \Rightarrow (1+x)^r \ge 1 + rx $
+$ \forall x > -1, \hspace{2em} r \in [0,1] \Rightarrow (1+x)^r \le 1 + rx, \ r \notin [0,1] \Rightarrow (1+x)^r \ge 1 + rx $
 
 ### まとめ
 - 2乗不等式は自明ですが役に立つことがあり侮れないです．
