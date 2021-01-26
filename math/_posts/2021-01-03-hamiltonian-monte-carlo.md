@@ -14,7 +14,7 @@ tags: 'サンプリング'
 
 ### Key word
 - サンプリング, MCMC
-- Hamiltonian Monte Carlo
+- ハミルトニアンモンテカルロ
 
 ### はじめに
 BetancourtのHamiltonian Monte Carlo(HMC)についてのsurvey論文を基にしています ．HMCの理論的背景を数学的な詳細には立ち入らず，物理的なイメージも交えて直感的に説明します．
@@ -37,13 +37,13 @@ Random Walkという名前の通り各stepで現在の点の近くからラン�
 ### Hamiltonian Monte Carlo
 
 #### 発想
-HMC は生まれた当初は Hybrid Monte Carlo という呼び名ついていたように，gradient の
-情報を利用したdeterministicな遷移とstochasticな遷移を合わせてサンプリングを行う．勾配法のように目的の分布の勾配の情報を使えばいいのではないかと考えたのが始まりです．しかし，ただ勾配に従って点を動かすとmodeに落ちていくだけなので運動量を加えてうまく点をコントロールします．
+HMC は生まれた当初は Hybrid Monte Carlo という呼び名ついていたように， gradientの
+情報を利用したdeterministicな遷移とstochasticな遷移を合わせてサンプリングを行います． 勾配法のように目的の分布の勾配の情報を使えばいいのではないかと考えたのが始まりです．しかし，ただ勾配に従って点を動かすと極に落ちていくだけなので運動量を加えてうまく点をコントロールします．
 
 #### アルゴリズム概略
 パラメータ空間に運動量を加えて位相空間に拡張します[^projection]．$ q \rightarrow (q,p) $
 
-(1)Hamiltonianを保存するようにdeterministicに動き，その後 (2)stochastic に別の等Hamiltonian(エネルギー)面に移動するという2stepを繰り返す．
+(1)Hamiltonianを保存するようにdeterministicに動き， その後 (2)stochastic に別の等Hamiltonian(エネルギー)面に移動するという2stepを繰り返す．
 
 (1): Hamiltonianを保ったまま移動．$ (q,p) \rightarrow (q',p') $
 
@@ -58,11 +58,11 @@ HMC は生まれた当初は Hybrid Monte Carlo という呼び名ついてい�
 [詳細はこちら](/math/pdf/intro_to_hmc.pdf)
 
 ### まとめ
-Hamiltonian Monte Carloのsurvey論文を読んで学んだことをまとめました．HMCは1980年代末期に登場した新しい技術なのでまだ研究の必要がありそうです．
-今後はMonte Carlo法の効率や結果の有効性の証明を詳しく見ていこうと思います．
+Hamiltonian Monte Carloのsurvey論文を読んで学んだことをまとめました． HMCは1980年代末期に登場した新しい技術なのでまだ研究の余地がありそうです．
+今後は効率や結果の有効性について詳しく見ていこうと思います．
 
 ### 参考
 -  Michael Betancourt. A conceptual introduction to hamiltonian monte carlo, 2018
 
 ### 注意
-[^projection]:好きな時に射影してパラメータ$ q $を得る．
+[^projection]:好きな時に射影してパラメータ$ q $を得ることができます．
