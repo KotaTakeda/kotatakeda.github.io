@@ -6,6 +6,7 @@
 .highlight {
   background: #fff;
   @extend %vertical-rhythm;
+  border-radius: 10px;
 
   .highlighter-rouge & {
     background: $code-color;
