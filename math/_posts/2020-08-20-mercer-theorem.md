@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Mercerの定理"
+description: "Mercerの定理の紹介と応用"
 date:   2020-08-20 15:54:00 +0900
 dir: /math/
 tag: '機械学習'
@@ -46,8 +47,8 @@ $$
 2. これによって計算量をそれほど増やすことなく特徴空間を高次元へ拡張することができる．
 
 #### その他
-- Karhunen-Loeve展開の証明に使います．
-- 離散的なKarhunen-Loeve展開としてPCAを解釈できます．
+- Karhunen-Loeve展開の収束を示す際に使います．
+- また，離散的なKarhunen-Loeve展開としてPCAを解釈できます．
 
 ### 参考
 pdfリンクにあります．
