@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Survey of Hamiltonian Monte Carlo"
-desciption: "近年注目されているサンプリング法，ハミルトニアンモンテカルロの紹介"
+description: "近年注目されているサンプリング法，ハミルトニアンモンテカルロの紹介"
 date: 2021-01-03 12:27:00  +0900
 dir: /math/
 tags: 'サンプリング'
