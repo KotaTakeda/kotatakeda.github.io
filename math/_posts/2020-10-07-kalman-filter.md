@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "カルマンフィルタまとめ"
+description: "データ同化において重要なカルマンフィルタの基礎"
 date: 2020-10-07 23:46:00  +0900
 dir: /math/
 tags: "データ同化"
