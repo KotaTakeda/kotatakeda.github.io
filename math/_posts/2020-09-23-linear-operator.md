@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "線形作用素まとめ"
+description: "行列を含む線形作用素に関する基礎理論"
 date: 2020-08-29 15:45:00 +0900
 dir: /math/
 tags: "公式"
