@@ -12,7 +12,7 @@ description: "数学に関する記事をまとめています．"
 応用数学
 
 ### 興味
-流体，UQ(Uncertainty Quantification)，データ同化，機械学習，気象予報，サンプリング
+不確実性定量化(Uncertainty Quantification: UQ)， 流体, データ同化， 機械学習， 気象予報， サンプリング
 
 ### 研究テーマ
-今はHamiltonian Monte Carloについて調べています．
+Hamiltonian Monte Carloの研究と数理流体力学への応用
