@@ -12,6 +12,7 @@ tags: 'サンプリング'
 - [はじめに](#はじめに)
 - [MCMC](#mcmc)
 - [Hamiltonian Monte Carlo](#hamiltonian-monte-carlo)
+- [PDF](#pdf)
 - [まとめ](#まとめ)
 - [参考](#参考)
 
@@ -64,7 +65,8 @@ for n
 
 
 ### PDF
-[詳細はこちら](/math/pdf/intro_to_hmc.pdf)
+- [詳細はこちら](/math/pdf/intro_to_hmc.pdf)
+- [HMCのMap](/math/pdf/map_of_hmc.pdf)
 
 ### まとめ
 HMCの紹介論文を読んで学んだことをまとめました． 
