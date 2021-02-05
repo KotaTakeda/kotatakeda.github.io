@@ -18,6 +18,6 @@ description: "プロフィール"
   - 2020年 9月 高等学校教諭一種免許状(数学) 取得
 
 ### 活動履歴
-  - 2020年 9月2日~9月30日 RCCS DAオンラインスクール受講・修了 [修了証](/math/pdf/da_online_school_2020_certification.pdf)
+  - 2020年 9月2日~9月30日 RCCS DAオンラインスクール受講・修了 <!--[修了証](/math/pdf/da_online_school_2020_certification.pdf)-->
   - 2021年 2月10日 第12回 理研・京大データ同化研究会 講演 「ハミルトンモンテカルロ法の紹介」[詳細](http://www.data-assimilation.riken.jp/jp/events/ku_ws_202102/index.html)
   - 2021年 2月22日~3月12日 RIKEN R-CCS 計算科学インターンシップ・プログラム 2020 参加 [詳細](https://www.r-ccs.riken.jp/library/event/200604/)
