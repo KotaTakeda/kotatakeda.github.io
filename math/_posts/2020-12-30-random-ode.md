@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Random ODE"
+description: "初期条件が不確実な(Uncertain)常微分方程式の数値計算例"
 date: 2020-12-30 12:06:00  +0900
 dir: /math/
 tags: 'スペクトル理論'

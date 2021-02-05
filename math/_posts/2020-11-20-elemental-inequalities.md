@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "初等不等式まとめ"
+description: "数学の初等的な不等式"
 date: 2020-11-20 15:20:00  +0900
 dir: /math/
 tags: '初等数学'
