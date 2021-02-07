@@ -12,7 +12,7 @@ tags: 'サンプリング'
 - [はじめに](#はじめに)
 - [MCMC](#mcmc)
 - [Hamiltonian Monte Carlo](#hamiltonian-monte-carlo)
-- [PDF](#pdf)
+- [詳細](#詳細)
 - [まとめ](#まとめ)
 - [参考](#参考)
 
@@ -22,7 +22,9 @@ tags: 'サンプリング'
 - ベイズ推定，数値積分
 
 ### はじめに
-Betancourtのハミルトニアンモンテカルロ(Hamiltonian Monte Carlo: HMC)についての論文を基にしています ．HMCの理論的背景を数学的な詳細には立ち入らず，物理的なイメージも交えて直感的に説明します．HMCはベイズ推定における事後分布の推定や統計量の数値的な計算時に使用するのが主な目的です
+Betancourtのハミルトニアンモンテカルロ(Hamiltonian Monte Carlo: HMC)についての論文を基にしています ．HMCの理論的背景を数学的な詳細には立ち入らず，物理的なイメージも交えて直感的に説明します．HMCはベイズ推定における事後分布の推定や統計量の数値的な計算時に使用するのが主な目的です．
+
+[詳細な資料までjump↓](#詳細)
 
 ### MCMC
 まず，ランダムサンプリングの基本であるMalkov Chain MonteCalro(MCMC)について説明します．この方法は直感的であり実装も非常に単純ですが，計算効率が悪く得られる結果の有効性についての理論的保証も弱いです．
@@ -64,8 +66,9 @@ for n
 積分時間やエネルギー遷移などHMCの実装上の自由度が残されておりそのチューニングや複雑化に改善の可能性があります．
 
 
-### PDF
-- [詳細はこちら](/math/pdf/intro_to_hmc.pdf)
+### 詳細
+HMCについて詳しくまとめたpdfがあります，
+- [HMCのIntroduction](/math/pdf/intro_to_hmc.pdf)
 - [HMCのMap](/math/pdf/map_of_hmc.pdf)
 
 ### まとめ
