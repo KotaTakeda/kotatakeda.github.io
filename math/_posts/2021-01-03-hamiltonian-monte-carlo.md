@@ -68,7 +68,7 @@ for n
 
 ### 詳細
 HMCについて詳しくまとめたpdfがあります，
-- [HMCのintroduction](/math/pdf/intro_to_hmc.pdf)
+- [HMCのIntroduction](/math/pdf/intro_to_hmc.pdf)
 - [HMCのMap](/math/pdf/map_of_hmc.pdf)
 
 ### まとめ
