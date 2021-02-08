@@ -11,10 +11,9 @@ tags: "データ同化"
 - [Key word](#key-word)
 - [はじめに](#はじめに)
 - [まとめ](#まとめ)
-- [参考](#参考)
 
 ### Key word
-- データ同化， Kalman Filter
+- データ同化(Data Assamilation: DA)， カルマンフィルタ(Kalman Filter: KF)
 
 ### はじめに
 データ同化の基本的な手法であるKalman Filterについてまとめます．
@@ -22,9 +21,5 @@ tags: "データ同化"
 推定や観測には誤差があるという考え方が根底にあります．
 
 ### まとめ
-随時更新していきます．
-
+pdfにまとめています．
 [pdfリンク](/math/pdf/kalman_filter.pdf) 
-
-### 参考
-pdfにあります．
