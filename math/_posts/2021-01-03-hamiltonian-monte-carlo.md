@@ -67,7 +67,7 @@ for n
 
 
 ### 詳細
-HMCについて詳しくまとめたpdfがあります，
+HMCについて詳しくまとめたpdfがあります．　[^update]
 - [HMCのIntroduction](/math/pdf/intro_to_hmc.pdf)
 - [HMCのMap](/math/pdf/map_of_hmc.pdf)
 
@@ -80,3 +80,4 @@ HMCの紹介論文を読んで学んだことをまとめました．
 
 ### 注意
 [^projection]:好きな時に射影してパラメータ$ q $を得ることができます．
+[^update]:更新する場合があります．
