@@ -70,7 +70,7 @@ for n
 HMCについて詳しくまとめたpdfがあります．[^update]
 - [HMCのIntroduction](/math/pdf/intro_to_hmc.pdf)
 - [HMCのMap](/math/pdf/map_of_hmc.pdf)
-- [HMCのスライド](/math/pdf/intro_to_hmc.pdf)
+- [HMCのスライド](/math/pdf/intro_to_hmc_slide.pdf)
 
 ### まとめ
 HMCの紹介論文を読んで学んだことをまとめました． 
