@@ -40,19 +40,19 @@ $ \ell^2 $
 
 小文字lの筆記体は以下のように書く．
 ```
-\ell^2
+\ell
 ```
 
 #### 集合包含
-$ A \subsetneq B $
+$ A \subsetneq B $: 真部分集合
 ```
-\subsetneq % 真部分集合
+\subsetneq
 ```
 
 #### 二項係数(組み合わせ)
-$ \binom{n}{k} $
+$ \binom{n}{k} $: 縦ベクトルの表示
 ```
-\binom{above}{below} % 縦ベクトルの表示
+\binom{above}{below}
 ```
 
 
