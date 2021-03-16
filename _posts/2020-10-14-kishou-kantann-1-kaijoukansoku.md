@@ -3,6 +3,7 @@ layout: post
 title: "海上観測"
 date: 2020-10-14 19:59 +0900
 tags: '気象予報士'
+description: '海上の波の観測についてまとめます．'
 ---
 
 ### 目次
