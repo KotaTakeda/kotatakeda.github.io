@@ -3,6 +3,7 @@ layout: post
 title:  "水蒸気量の観測"
 date:   2020-08-24 21:50:00 +0900
 tag: '気象予報士'
+description: '大気中の水蒸気量の観測とそれを用いた解析についてまとめます．'
 ---
 ### 目次
 - [Key word](#key-word)
