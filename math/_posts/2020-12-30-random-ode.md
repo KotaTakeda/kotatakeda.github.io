@@ -20,20 +20,23 @@ tags: 'スペクトル理論'
 - 放射能半減，調和振動子
 
 ### はじめに
-ODEの初期条件や係数が不確実な場合であるRandom ODE[^random_ode]について考えます．
-Hermite展開とGalerkin近似による数値解法を紹介します．
+ODEの初期条件や係数が不確実な場合にはそれを方程式に盛り込む必要があります．
+ここでは初期条件や定数係数が確率変数であるODEをRandom ODE[^random_ode]と呼び，それについて考えます．
+Hermite展開とGalerkin近似によるRandom ODEの数値解法を紹介します[^stochatic_sol]．
 [Hermite展開](/math/2020/11/01/winner-hermite-expansion.html)に基づいています．
 
 ### 放射能半減
 
 #### 方程式
-単純な放射能半減の微分方程式
+$ \lambda, b > 0 $ に対して以下のような単純な放射能半減の微分方程式を考える．
 
 $ \dot{u}(t) = - \lambda u(t), \hspace{1em} u(0) = b $
 
-(ただし，$ \lambda, b > 0 $)に対して$ \lambda, b $が不確実な場合を考え，上記の方程式をRandom ODEとして捉えます．
+$ \lambda, b $ が不確実な場合を考え，上記の方程式をRandom ODEとして捉えます．
 
-ここでは$ \lambda, b $がGaussianに従うとして，Hermite展開とGalerkin productによりRandom性と確率変数の積を表現できます．
+ここでは $ \lambda, b $ がGaussianに従うとして，
+- Hermite展開により確率変数の「成分表示」ができ
+- さらにGalerkin productにより確率変数の「成分表示による積」を定義します．
 
 #### 解
 展開を有限項で打ち切ることにより数値的に解けます．
@@ -55,3 +58,4 @@ $ \dot{u}(t) = - \lambda u(t), \hspace{1em} u(0) = b $
 
 ### 注意
 [^random_ode]: 用語として確率微分方程式(Stochastic ODE)とは区別されるべきです．
+[^stochatic_sol]: 確率微分方程式を解くわけではないので確率積分は行わず，したがってdeterministicに解けます．
