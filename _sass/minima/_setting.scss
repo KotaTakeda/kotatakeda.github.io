@@ -28,7 +28,7 @@ $grey-color-dark:  darken($grey-color, 25%) !default;
 $header-color: $base-color;
 $footer-color: $base-color;
 
-$code-color: aliceblue;
+$code-color: darken($main-color, 50%);
 
 $table-text-align: left !default;
 
