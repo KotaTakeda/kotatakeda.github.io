@@ -42,7 +42,7 @@ const SomeConponent = () => (
       src={src}
       width={width}
       // その他props
-      afterload={() => console.log(‘loaded!’)}
+      afterload={() => console.log('loaded!')}
       delayTime={300}
       threshold={100}
     />
