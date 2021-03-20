@@ -24,7 +24,7 @@ RNNを使ってみようということで理論はそっちのけでsin波の�
 ### コード
 必要なライブラリをimport
 
-```
+```python
 import tensorflow.keras
 from keras import  models, layers
 import numpy as np
@@ -33,7 +33,7 @@ import matplotlib.pyplot as plt
 
 #### 時系列データの生成
 ノイズ入りのsin波を生成します．
-```
+```python
 # sin波を生成 in: dt, sample_size, out: sin_series(sample_size)
 def generate_sin(dt=0.01, sample_size=100):
     return np.sin(2.*np.pi*np.linspace(0, dt*(sample_size-1), sample_size))
@@ -54,7 +54,7 @@ plt.legend()
 
 test-train split
 データを訓練用とテスト用に分ける
-```
+```python
 train_ratio = 0.7
 train_size = int(len(noised_sin)*train_ratio)
 train = noised_sin[:train_size]
@@ -66,7 +66,7 @@ print(f'train_size: {train_size}')
 
 
 データをRNN用に変換
-```
+```python
 def convert_data_for_RNN(raw_data, delay=25):
     features = np.array([raw_data[n:n+delay] for n in range(len(raw_data)-delay)]).reshape(-1, 25,1)
     targets = raw_data[delay:].reshape(-1,1,1)
@@ -80,7 +80,7 @@ train_features.shape, train_targets.shape
 
 
 #### モデルの構築
-```
+```python
 delay = 25 # 時間遅れstep
 out_size = 1 # targetのsize
 n_hidden = 20 # 中間層のノード数
@@ -106,7 +106,7 @@ Non-trainable params: 0
 _________________________________________________________________ -->
 
 学習
-```
+```python
 model.fit(train_features,
           train_targets,
           batch_size=20,
@@ -117,7 +117,7 @@ model.fit(train_features,
 `batch_size`や`epoch`, `validation_split`の値は適当です．
 
 fittingの確認
-```
+```python
 train_predict = model.predict(train_features)
 
 plt.plot(train_predict, label='train predict')
@@ -128,7 +128,7 @@ train dataをpredictしています．
 MSEは0.0156
 
 未来の予測
-```
+```python
 test_predict = model.predict(test_features)
 
 plt.plot(test_predict, label='test pred')

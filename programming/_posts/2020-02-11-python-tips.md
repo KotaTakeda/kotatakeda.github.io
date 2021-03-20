@@ -22,7 +22,7 @@ PythonについてのTipsを備忘録として書いていきます．
 
 ### まとめ
 #### 式展開
-```
+```python
 int = 1
 f'i = {int}'
 => i = 1
@@ -31,14 +31,15 @@ f'i = {int}'
 #### 数値計算
 これはpythonに特有ではない．
 解析解と数値解のtime indexを合わせる．
-```
+
+```python
 t_arr = np.linspace(0, Tstep*dt, Tstep+1) % 時間index
 results = np.zeros(Tstep + 1) % 数値解の記録用配列
 ```
 
 #### enumerate
 イテレート時にidxとvalueを両方使いたい時，`enumarate`を使う．
-```
+```python
 for idx, value in enumerate(array):
     print(f'{i}: {value}')
 ```

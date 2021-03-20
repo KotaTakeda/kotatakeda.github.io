@@ -38,7 +38,7 @@ C言語のポインタ変数と関数の引数に配列を渡す際の注意つ�
 
 
 例:
-```
+```c
 #include <stdio.h>
 int main(void) {
     int a = 3;
@@ -71,7 +71,7 @@ C言語で関数の引数に配列を渡す際には注意が必要です．
 - `(int arr[])`: 配列の形で宣言．
 - `(int arr[131])`: 配列の長さも含めて宣言．131にはどんな自然数を入れても同じです．
 
-```
+```c
 #include <stdio.h>
 
 int pointer_arr_func(int *arr) {
