@@ -257,6 +257,7 @@
     }
     border-left: none;
     border-bottom: solid 1px black;
+    @include left-line($main-color);
   }
 
   h4 {
@@ -265,6 +266,6 @@
     @include media-query($on-laptop) {
       @include relative-font-size(1.125);
     }
-    // @include left-line($accent-color);
+    @include left-line($accent-color);
   }
 }
