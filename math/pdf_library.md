@@ -13,9 +13,9 @@ description: "数学pdf"
 - [Stochastic Galerkin](pdf/chapter12.pdf)
 
 ### HMC
-- [survey of Hamiltnian Monte Carlo](pdf/intro_to_hmc.pdf)
-- [map of Hamiltonian Monte Carlo](pdf/map_of_hmc.pdf)
-- [power point slide of introduction to Hamiltonian Monte Carlo](pdf/intro_to_hmc_slide.pdf)
+- [Survey of Hamiltnian Monte Carlo](pdf/intro_to_hmc.pdf)
+- [Map of Hamiltonian Monte Carlo](pdf/map_of_hmc.pdf)
+- [Slide of introduction to Hamiltonian Monte Carlo](pdf/intro_to_hmc_slide.pdf)
 
 ### データ同化
 - [Kalman Filter](pdf/kalman_filter.pdf)
