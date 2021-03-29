@@ -1,7 +1,7 @@
 # 概要
 数学・プログラミングなどについてのポートフォリオ用サイトです．
 
-[→数学pdf置き場](https://kotatakeda.github.io/math/pdf_library)
+[数学PDFライブラリ](https://kotatakeda.github.io/math/pdf_library)
 
 # 構成
 - [ホーム](https://kotatakeda.github.io/)
