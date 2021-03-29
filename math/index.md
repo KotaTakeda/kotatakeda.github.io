@@ -6,7 +6,7 @@ permalink: /math/
 description: "数学に関する記事をまとめています．"
 ---
 
-[pdfライブラリ](/math/pdf_library)
+[PDFライブラリ](/math/pdf_library)
 
 ### 専攻
 応用数学
