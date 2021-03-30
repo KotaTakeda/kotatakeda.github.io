@@ -15,6 +15,7 @@ description: "数学pdf"
 ### HMC
 - [Survey of Hamiltnian Monte Carlo](pdf/intro_to_hmc.pdf)
 - [Map of Hamiltonian Monte Carlo](pdf/map_of_hmc.pdf)
+- [Stochastic Gradient Hamiltonian Monte Carlo](pdf/sghmc.pdf)
 - [Slide of introduction to Hamiltonian Monte Carlo](pdf/intro_to_hmc_slide.pdf)
 
 ### データ同化
