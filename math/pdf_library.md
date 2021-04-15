@@ -12,6 +12,9 @@ description: "数学pdf"
 - [Spectral Expansions](pdf/chapter11.pdf)
 - [Stochastic Galerkin](pdf/chapter12.pdf)
 
+### 流体
+- [N点渦系](pdf/point_vortex.pdf)
+
 ### HMC
 - [Survey of Hamiltnian Monte Carlo](pdf/intro_to_hmc.pdf)
 - [Map of Hamiltonian Monte Carlo](pdf/map_of_hmc.pdf)
