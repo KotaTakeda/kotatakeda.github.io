@@ -51,6 +51,7 @@ import itertools
 
 # アニメーション用
 from matplotlib import animation, rc
+from matplotlib.animation import PillowWriter
 from IPython.display import HTML
 ```
 
@@ -116,7 +117,6 @@ ax.get_yaxis().set_visible(False)
 
 #### （発展）アニメーションの作成
 ```python
-from matplotlib.animation import PillowWriter
 d = 50
 
 fig, ax = plt.subplots()
@@ -156,7 +156,10 @@ anim
 2. `marker_size`を設定して，「図の作成」を実行して図を確認する．
 3. （発展）`d`を設定して，「アニメーションの作成」を実行する．
 
-<!-- TODO: 画像 -->
+#### 作図例
+![マンデルブロ集合作図](/assets/img/mandelbrot.png)
+
+<!-- ![マンデルブロ集合描画アニメーション](/assets/img/mandelbrot_colors.gif) -->
 
 ### まとめ
 - 簡単なコードでマンデルブロ集合の作図を行いました．
