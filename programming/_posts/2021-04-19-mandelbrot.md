@@ -168,4 +168,4 @@ anim
 
 ### 参考
 - [wikipedia](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E3%83%87%E3%83%AB%E3%83%96%E3%83%AD%E9%9B%86%E5%90%88)
-- [GOOGLE DOODLE](https://www.google.com/search?q=%E3%83%9E%E3%83%B3%E3%83%87%E3%83%AB%E3%83%96%E3%83%AD%E9%9B%86%E5%90%88&oq=%E3%83%9E%E3%83%B3%E3%83%87%E3%83%AB%E3%83%96%E3%83%AD%E9%9B%86%E5%90%88&aqs=chrome..69i57j0i67l2j0l4j69i60.3343j0j7&sourceid=chrome&ie=UTF-8)
+- [GOOGLE DOODLE](https://www.google.com/fbx?fbx=mandelbrot_explorer&hl=ja)
