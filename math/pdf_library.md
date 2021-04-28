@@ -11,6 +11,7 @@ description: "数学pdf"
 ### UQ
 - [Spectral Expansions](pdf/chapter11.pdf)
 - [Stochastic Galerkin](pdf/chapter12.pdf)
+- [Markov Chain](pdf/markov_chain.pdf)
 
 ### 流体
 - [N点渦系](pdf/point_vortex.pdf)
