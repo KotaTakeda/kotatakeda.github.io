@@ -23,17 +23,23 @@ author: "竹田 航太"
 email: takeda@outlook.jp
 description: >- # this means to ignore newlines until "baseurl:"
   数学・プログラミングに関するポートフォリオ兼備忘録用のサイトです．
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kotatakeda.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
 twitter_username: takeda_kota
 github_username:  KotaTakeda
 facebook_username: kota.takeda.73
 
-# Build settings
-theme: minima
-
 # google analytics tracking ID
 google_analytics: G-9RRE25TRQV
+
+# sitemap setting
+sitemap:
+  change_frequency_name: "weekly"
+
+# Build settings
+theme: minima
 
 plugins:
   - jekyll-feed
