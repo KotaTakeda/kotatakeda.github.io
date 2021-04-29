@@ -16,5 +16,5 @@ description: "数学に関する記事をまとめています．"
 
 ### 研究テーマ
 UQの研究と数理流体力学への応用
-- Hamiltonian Monte CarloによるN点渦系の定常分布からのサンプリング
+- Hamiltonian Monte CarloによるN点渦系のGibbsからのサンプリング
 - トポロジカルフローとデータ同化
