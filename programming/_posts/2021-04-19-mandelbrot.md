@@ -3,7 +3,7 @@ layout: post
 title: "マンデルブロ集合の作図"
 date: 2021-04-19 11:16 +0900
 dir: /programming/
-tags: '教育'
+tags: ['教育', 'Python']
 description: "マンデルブロ集合の作図を通してプログラミングを学びます．"
 ---
 
