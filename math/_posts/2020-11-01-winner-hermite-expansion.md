@@ -4,7 +4,7 @@ title: "Winner Hermite Expansion"
 description: "確率場やrandom ODEの解を表現する方法のひとつであるWinner Hermite展開"
 date: 2020-11-01 21:00 +0900
 dir: /math/
-tags: 'スペクトル理論'
+tags: ['スペクトル理論', 'UQ']
 ---
 
 ### 目次

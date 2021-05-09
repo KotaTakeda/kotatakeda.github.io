@@ -4,7 +4,7 @@ title:  "Mercerの定理"
 description: "Mercerの定理の紹介と応用"
 date:   2020-08-20 15:54:00 +0900
 dir: /math/
-tag: '機械学習'
+tag: ['機械学習', 'UQ']
 ---
 ### 目次
 - [Key word](#key-word)
