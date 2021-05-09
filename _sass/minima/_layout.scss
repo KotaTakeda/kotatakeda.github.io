@@ -183,6 +183,7 @@
   flex: 1;
   h3 {
     @include left-line;
+    margin: $spacing-unit 0 $spacing-unit/3 0;
   }
 }
 
