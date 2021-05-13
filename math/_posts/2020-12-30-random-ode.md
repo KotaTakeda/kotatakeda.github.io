@@ -45,7 +45,7 @@ $ \lambda, b $ が不確実な場合を考え，上記の方程式をRandom ODE�
 ![Random Radioactive](/assets/img/math/radioactive_random_ode.png)
 
 ### 調和振動子
-### 結果画像
+#### 結果画像
 ![Random Harmonic Oscillator](/assets/img/math/harmonic_oscillator_random_ode.png)
 
 ### pdf
