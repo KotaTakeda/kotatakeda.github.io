@@ -157,7 +157,7 @@ anim
 3. （発展）`d`を設定して，「アニメーションの作成」を実行する．
 
 #### 作図例
-![マンデルブロ集合作図](/assets/img/mandelbrot.png)
+![マンデルブロ集合作図](/assets/img/programming/mandelbrot.png)
 
 <!-- ![マンデルブロ集合描画アニメーション](/assets/img/mandelbrot_colors.gif) -->
 
