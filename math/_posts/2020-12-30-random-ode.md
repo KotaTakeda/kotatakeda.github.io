@@ -44,12 +44,13 @@ $ \lambda, b $ が不確実な場合を考え，上記の方程式をRandom ODE�
 
 ![Random Radioactive](/assets/img/math/radioactive_random_ode.png)
 
+#### 調和振動子の結果画像
+![Random Harmonic Oscillator](/assets/img/math/harmonic_oscillator_random_ode.png)
+
 ### pdf
 もう一つの例(調和振動子)と詳細な説明は以下のpdfにあります．
 
 [詳細はこちら](/math/pdf/chapter12.pdf)
-
-![Random Harmonic Oscillator](/assets/img/math/harmonic_oscillator_random_ode.png)
 
 ### まとめ
 - Random ODEの数値解法と計算結果を示しました．
