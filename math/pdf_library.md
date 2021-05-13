@@ -9,6 +9,7 @@ description: "数学pdf"
 [数学topへ](/math)
 
 ### UQ
+- [Bayesian Inverse Problem](pdf/chapter6.pdf)
 - [Spectral Expansions](pdf/chapter11.pdf)
 - [Stochastic Galerkin](pdf/chapter12.pdf)
 - [Markov Chain](pdf/markov_chain.pdf)
