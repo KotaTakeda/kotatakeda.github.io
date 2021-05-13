@@ -42,11 +42,14 @@ $ \lambda, b $ が不確実な場合を考え，上記の方程式をRandom ODE�
 展開を有限項で打ち切ることにより数値的に解けます．
 数値解のHermite展開係数から解のモーメントを計算することができます．
 
+![Random Radioactive](/assets/img/math/radioactive_random_ode.png)
+
 ### pdf
 もう一つの例(調和振動子)と詳細な説明は以下のpdfにあります．
 
 [詳細はこちら](/math/pdf/chapter12.pdf)
-<!-- TODO: pdfに図を加える -->
+
+![Random Harmonic Oscillator](/assets/img/math/harmonic_oscillator_random_ode.png)
 
 ### まとめ
 - Random ODEの数値解法と計算結果を示しました．
