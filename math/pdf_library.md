@@ -9,6 +9,7 @@ description: "数学pdf"
 [数学topへ](/math)
 
 ### UQ
+- [Measures of Information and Uncertainty](pdf/chapter5.pdf)
 - [Bayesian Inverse Problem](pdf/chapter6.pdf)
 - [Spectral Expansions](pdf/chapter11.pdf)
 - [Stochastic Galerkin](pdf/chapter12.pdf)
