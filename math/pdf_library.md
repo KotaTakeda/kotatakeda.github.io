@@ -6,7 +6,7 @@ dir: math
 description: "数学pdf"
 ---
 
-[数学topへ](/math)
+[数学TOPへ](/math)
 
 ### UQ
 - [Measures of Information and Uncertainty](pdf/chapter5.pdf)
