@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "数学pdf"
+title: "数学PDF"
 permalink: /math/pdf_library
 dir: math
-description: "数学pdf"
+description: "数学PDF"
 ---
 
 [数学TOPへ](/math)
