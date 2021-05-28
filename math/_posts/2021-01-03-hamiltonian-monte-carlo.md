@@ -22,13 +22,13 @@ tags: ['サンプリング', 'UQ']
 - ベイズ推定，数値積分
 
 ### はじめに
-Betancourtのハミルトニアンモンテカルロ(Hamiltonian Monte Carlo: HMC)についての論文を基にしています ．HMCの理論的背景を数学的な詳細には立ち入らず，物理的なイメージも交えて直感的に説明します．HMCはベイズ推定における事後分布の推定や統計量の数値的な計算時に使用するのが主な目的です．
+Betancourtの**ハミルトニアンモンテカルロ(Hamiltonian Monte Carlo: HMC)**についての論文を基にしています ．HMCの理論的背景を数学的な詳細には立ち入らず，物理的なイメージも交えて直感的に説明します．HMCはベイズ推定における事後分布の推定や統計量の数値的な計算時に使用するのが主な目的です．
 
 [詳細な資料までjump↓](#詳細)
 
 ### MCMC
 まず，ランダムサンプリングの基本であるMalkov Chain MonteCalro(MCMC)について説明します．この方法は直感的であり実装も非常に単純ですが，計算効率が悪く得られる結果の有効性についての理論的保証も弱いです．
-例えば最も簡単なRandom Walk MetropolisというMCMCアルゴリズムは以下のようになっています．
+例えば最も簡単な**Random Walk Metropolis**というMCMCアルゴリズムは以下のようになっています．
 
 ```
 q[0] = q_0
@@ -36,19 +36,19 @@ for n
   draw q' from N(q[n], sigma)
   q[n+1] = q' with probability min(1, pi(q')/pi(q[n]))
 ```
-Random Walkという名前の通り各stepで現在の点の近くからランダムに次の点の候補を取り，現在の点と確率密度の値を比べて候補の値が大きいほど採用されやすいようになっています．
+Random Walkという名前の通り各stepで現在の点の近くからランダムに次の点の候補を取り，現在の点と確率密度の値を比べて候補の値が大きいほど採択されやすいようになっています．
 
 ### Hamiltonian Monte Carlo
 
 #### 発想
-HMC は生まれた当初は Hybrid Monte Carlo という呼び名ついていたように， gradientの
-情報を利用したdeterministicな遷移とstochasticな遷移を合わせてサンプリングを行います． 勾配法のように目的の分布の勾配の情報を使えばいいのではないかと考えたのが始まりです．しかし，ただ勾配に従って点を動かすと極に落ちていくだけなので運動量を加えてうまく点をコントロールします．
+HMC は生まれた当初は Hybrid Monte Carlo という呼び名ついていたように， stochasticな過程に加え，gradientの
+情報を利用したdeterministicな過程を合わせてサンプリングを行います． 勾配法のように目的の分布の勾配の情報を使えばいいのではないかと考えたのが始まりです．しかし，ただ勾配に従って点を動かすと極に落ちていくだけなので運動量を加えてうまく点をコントロールします．
 
 #### アルゴリズム概略
 サンプルの過程でパラメータ空間に運動量$ p $を加えて位相空間に拡張します; $ q \rightarrow (q,p) $ [^projection].
 以下のようにして$ q_{old} $から$ q_{new} $を作ります．
 
-(1): 運動量のサンプル．$ q_{old} \rightarrow (q_{old}, p) $
+(1): 運動量のサンプル．$ q_{old} \rightarrow (q_{old}, p) \hspace{2em} ( p \sim N(0, I) )$
 
 (2): Hamilton flowに沿って移動．$ (q_{old}, p) \overset{hamilton flow}{\rightarrow} (q_{new}, p_{new}) $
 
