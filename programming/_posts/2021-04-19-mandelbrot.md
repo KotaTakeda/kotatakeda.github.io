@@ -36,7 +36,8 @@ Google Colaboratoryを使って計算し，綺麗な図を描きます．
 $ z_{n+1} = z_n^2 + c, z_0 = 0 $の漸化式で生成される複素数列$ (z_n)_n $が$ n \rightarrow \infty $の時に$ z_n < \infty $となるような複素数$ c $全体をマンデルブロ集合という．
 
 #### 環境
-ColabでPython3のnotebookを作成．
+[Google Colaboratory](https://colab.research.google.com/)でPython3のnotebookを作成．
+[参考](https://qiita.com/yamaza-h/items/503d175e8da349cbcb6c)
 
 ### コード
 [Colabサンプルコード](https://colab.research.google.com/drive/171uAc1rtuadwrrlOy50ji173biQPWafE?usp=sharing)
