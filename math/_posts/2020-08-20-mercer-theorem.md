@@ -25,9 +25,9 @@ Hilbert Schmidtの理論から$L^2$展開できますが，連続性や半正定
 
 ### Mercer kernel
 以下の３つの性質を満たすkernelをMercer kernelという．
-- 連続
-- 対称
-- 半正定値
+- 連続性
+- 対称性
+- 半正定値性
 
 ### Mercerの定理
 Mercer kernel $ K $に対して$ x \mapsto K(x,x) \in L^1 $が成り立つとき
