@@ -85,8 +85,8 @@ N = 50 # 判定時のループ回数の設定
 res = 200 # 解像度
 
 # 候補点を生成
-reals = np.linspace(-2, 0.6, res=res) # 実軸方向のメッシュ
-imags = np.linspace(-1.1, 1.1, res=res) # 虚軸方向のメッシュ
+reals = np.linspace(-2, 0.6, num=res) # 実軸方向のメッシュ
+imags = np.linspace(-1.1, 1.1, num=res) # 虚軸方向のメッシュ
 
 # 探索実行
 mandelbrots = []
