@@ -19,7 +19,7 @@ description: "マンデルブロ集合の作図を通してプログラミング
 - Google Colaboratory, Python
 
 ### はじめに
-フラクタル図形の中でも有名なマンデルブロ集合の定義と作図を行います．
+フラクタル図形の中でも有名な[マンデルブロ集合](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E3%83%87%E3%83%AB%E3%83%96%E3%83%AD%E9%9B%86%E5%90%88)の定義と作図を行います．
 Google Colaboratoryを使って計算し，綺麗な図を描きます．
 
 ### 準備
@@ -57,7 +57,8 @@ from IPython.display import HTML
 ```
 
 #### 判定する関数
-複素数$ c $がマンデルブロ集合に属するか判定する関数．
+複素数$ c $がマンデルブロ集合に属するか判定する関数．\\
+input: `c`（複素数），output: マンデルブロ集合に属するかどうか（真偽値）
 ```python
 def judge_mandelbrot(c, N):
   z = 0
@@ -65,7 +66,7 @@ def judge_mandelbrot(c, N):
       z = z*z + c
   return np.abs(z) < 1 # N回後に絶対値が1より小さいときは発散しないと判定
 ```
-次のように使います．
+例えば，次のように使います．
 ```python
 c = 0.2 + 0.1j
 N = 50
@@ -78,7 +79,7 @@ judge_mandelbrot(c, N)
 >- `N`が大きいと時間がかかる．
 
 #### マンデルブロ集合を作る
-適当な範囲から複素数をとってきて判定し`True`なら`mandelbrots`にいれる．
+適当な範囲から複素数をとってきて判定し`True`なら配列`mandelbrots`にいれる．
 ```python
 # パラメータ設定
 N = 50 # 判定時のループ回数の設定
@@ -143,6 +144,8 @@ anim
 >- `d`が小さ過ぎると時間がかかり過ぎて終わらなくなる．
 
 ### 演習
+以下のパラメータを変えながらマンデルブロ集合をプロットします．
+
 #### パラメータ
 
 |パラメータ|説明|推奨値|
@@ -170,3 +173,5 @@ anim
 ### 参考
 - [wikipedia](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E3%83%87%E3%83%AB%E3%83%96%E3%83%AD%E9%9B%86%E5%90%88)
 - [GOOGLE DOODLE](https://www.google.com/fbx?fbx=mandelbrot_explorer&hl=ja)
+- [Google Colaboratoryの使い方](https://qiita.com/yamaza-h/items/503d175e8da349cbcb6c)
+- [サンプルコード](https://colab.research.google.com/drive/171uAc1rtuadwrrlOy50ji173biQPWafE?usp=sharing)
