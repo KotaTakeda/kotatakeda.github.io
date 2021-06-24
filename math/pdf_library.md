@@ -29,3 +29,4 @@ description: "数学PDF"
 
 ### 基礎
 - [線形作用素](pdf/linear_operator.pdf)
+- [多様体論](pdf/mfd.pdf)
