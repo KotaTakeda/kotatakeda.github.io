@@ -39,7 +39,7 @@ sitemap:
   change_frequency_name: "weekly"
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-feed
