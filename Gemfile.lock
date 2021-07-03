@@ -217,7 +217,11 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
+<<<<<<< HEAD
     mini_portile2 (2.5.3)
+=======
+    mini_portile2 (2.5.1)
+>>>>>>> 5b3ce272ae18547507f7685c581cf63009efc0a7
     minima (2.5.1)
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
