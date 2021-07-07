@@ -13,7 +13,7 @@ description: "数学PDF"
 - [Bayesian Inverse Problem](pdf/chapter6.pdf)
 - [Spectral Expansions](pdf/chapter11.pdf)
 - [Stochastic Galerkin](pdf/chapter12.pdf)
-- [Markov Chain](pdf/markov_chain.pdf)
+- [Markov Chain and Geometric Ergodicity](pdf/markov_chain.pdf)
 
 ### 流体
 - [N点渦系](pdf/point_vortex.pdf)
