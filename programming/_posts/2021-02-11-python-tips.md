@@ -25,7 +25,13 @@ PythonについてのTipsを備忘録として書いていきます．
 ```python
 i = 1
 f'i = {i}'
-=> i = 1
+# => i = 1
+```
+出力フォーマットも指定できる
+```python
+init_mon = 2
+f'2017{init_mon:02d}'
+# => 201702
 ```
 
 #### 数値計算
@@ -44,5 +50,38 @@ for idx, value in enumerate(array):
     print(f'{idx}: {value}')
 ```
 
+#### animation
+animationをgifで保存する．（Imagemagic不要）
+```python
+# 例
+import matplotlib.pyplot as plt
+import matplotlib.animation as animation
+from matplotlib.animation import PillowWriter # 明示的には使わない
+
+...
+# fig, animateを定義
+...
+
+anim = animation.FuncAnimation(fig, animate, frames=100)
+anim.save('data/img/hmc_animation.gif', writer='pillow')
+```
+
+#### numpy array結合
+```python
+a = np.zeros((10, 100, 1000))
+b = a.copy()
+
+c = np.vstack([a,b])
+c.shape
+# => (20, 100, 1000)
+
+d = np.hstack([a,b])
+d.shape
+# => (10, 200, 1000)
+
+e = np.block([a,b])
+e.shape
+# => (10, 100, 2000)
+```
 <!-- ### 参考
 ### 注意 -->
