@@ -66,7 +66,8 @@ anim = animation.FuncAnimation(fig, animate, frames=100)
 anim.save('data/img/hmc_animation.gif', writer='pillow')
 ```
 
-#### numpy array結合
+#### numpy
+array結合
 ```python
 a = np.zeros((10, 100, 1000))
 b = a.copy()
@@ -82,6 +83,15 @@ d.shape
 e = np.block([a,b])
 e.shape
 # => (10, 100, 2000)
+```
+
+argsort: 
+best3を選ぶときに使う．昇順で返される．
+```python
+target_arr = np.array([2, 7, 4, 9, 1, 5])
+best_3idx = target_arr.argsort()[::-1][:3]
+print(best_3idx)
+# => [3, 1, 5]
 ```
 <!-- ### 参考
 ### 注意 -->
