@@ -1,0 +1,127 @@
+<!-- 参考サイト： https://code-step.com/demo/html/portfolio1/ -->
+
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8">
+    <!-- 演習：headのtitleを変更してブラウザのタブを確認． -->
+    <title>My Home Page - portfolio</title>
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    <header>
+      <h1 class="site-title">
+        <!-- 演習：ホームページの名前を変える． -->
+        <a href="index.html">My Home Page</a>
+      </h1>
+      <!-- level2 -->
+      <nav class="level2">
+        <!-- 演習：WorksとAboutを追加 -->
+        <ul>
+          <li class="nav-item level2"><a href="#works">Works</a></li>
+          <li class="nav-item level3"><a href="#news">News</a></li>
+          <li class="nav-item level2"><a href="#about">About</a></li>
+          <li class="nav-item level3"><a href="#contact">Contact</a></li>
+          <!-- level3 -->
+          <!-- 演習：好きなsocial media iconを入れる． -->
+          <li class="nav-item level3">
+            <ul class="social-media-list">
+              <li><a href="https://www.instagram.com" target="_blank"><img class="icon" src="./img/icon/instagram.png" alt="instagram"></a></li>
+              <li><a href="https://www.facebook.com" target="_blank"><img class="icon" src="./img/icon/facebook.png" alt="facebook"></a></li>
+              <li><a href="https://www.twitter.com" target="_blank"><img class="icon" src="./img/icon/twitter.png" alt="twitter"></a></li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <div id="main-image">
+        <!-- 演習：好きな画像を入れる． -->
+        <img src="img/sun_set_arc.png" alt="sunset">
+      </div>
+
+      <div class="content-wrapper">
+        <!-- level2 -->
+        <!-- 演習：好きな画像を表示する． -->
+        <section id="works" class="level2">
+          <h2 class="sec-title">Works</h2>
+          <ul>
+            <li><img src="img/night_momiji_river.png" alt="image1"></li>
+            <li><img src="img/mandelbrot_colors.gif" alt="image2"></li>
+            <li><img src="img/aquarium_night.png" alt="image3"></li>
+            <li><img src="img/painting.png" alt="image4"></li>
+            <li><img src="img/london_park_dessin.png" alt="image5"></li>
+            <li><img src="img/kamo.jpg" alt="image6"></li>
+          </ul>
+        </section>
+
+        <!-- level3 -->
+        <!-- 演習：新しいNewsを加える． -->
+        <section id="news" class="level3">
+          <h2 class="sec-title">News</h2>
+          <dl>
+            <dt>2021/07/22</dt>
+            <dd>ホームページのデザインを新しくしました.</dd>
+            <dt>2021/04/11</dt>
+            <dd>新しい作品をアップしました．</dd>
+            <dt>2020/11/20</dt>
+            <dd>ホームページを更新しました．</dd>
+            <dt>2020/06/01</dt>
+            <dd>作品一覧（Works）を作成しました．</dd>
+            <dt>2020/05/28</dt>
+            <dd>ポートフォリオ用ホームページを作成しました！</dd>
+          </dl>
+        </section>
+
+        <!-- level2 -->
+        <!-- 演習：自分のProfileを書いてみる． -->
+        <section id="about" class="level2">
+          <h2 class="sec-title">About</h2>
+          <div class="name-zone">
+            <span>Kota Takeda</span>
+            <!-- level3 -->
+            <ul class="social-media-list level3">
+              <li><a href="https://www.instagram.com" target="_blank"><img class="icon" src="./img/icon/instagram.png" alt="instagram"></a></li>
+              <li><a href="https://www.facebook.com" target="_blank"><img class="icon" src="./img/icon/facebook.png" alt="facebook"></a></li>
+              <li><a href="https://www.twitter.com" target="_blank"><img class="icon" src="./img/icon/twitter.png" alt="twitter"></a></li>
+            </ul>
+          </div>
+          <p>大阪府立住吉高校68期総合科学科卒，京都大学大学院 理学研究科 数学教室</p>
+          <p>私が作った作品を載せるポートフォリオ用のホームページです.</p>
+        </section>
+
+        <!-- level3 -->
+        <!-- 演習：placeholderをつける． -->
+        <section id="contact" class="level3">
+          <h2 class="sec-title">Contact</h2>
+          <form action="#" method="post">
+            <dl>
+              <dt><label for="name">NAME</label></dt>
+              <dd><input type="text" id="name" name="your-name" placeholder="Enter your name."></dd>
+              <dt><label for="email">E-mail</label></dt>
+              <dd><input type="text" id="email" name="your-email" placeholder="Enter your emal."></dd>
+              <dt><label for="message">Message</label></dt>
+              <dd><textarea id="message" name="your-mesaage" placeholder="Enter your message..."></textarea></dd>
+            </dl>
+          </form>
+          <div class="button-zone">
+            <input type="submit" value="Submit">
+          </div>
+        </section>
+      </div>
+    </main>
+
+    <footer>
+      <!-- 演習： ホームページの名前をヘッダーと同じにする．-->
+      <p>My Home Page</p>
+      <!-- level3 -->
+      <!-- 演習：好きなsocial media iconを入れる． -->
+      <ul class="social-media-list level3">
+        <li><a href="https://www.instagram.com" target="_blank"><img class="icon" src="./img/icon/instagram_color.png" alt="instagram"></a></li>
+        <li><a href="https://www.facebook.com" target="_blank"><img class="icon" src="./img/icon/facebook_color.png" alt="facebook"></a></li>
+        <li><a href="https://www.twitter.com" target="_blank"><img class="icon" src="./img/icon/twitter_color.png" alt="twitter"></a></li>
+        <li><a href="https://www.tiktok.com/" target="_blank"><img class="icon" src="./img/icon/tik-tok.png" alt="tiktok"></a></li>
+      </ul>
+    </footer>
+  </body>
+</html>
