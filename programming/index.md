@@ -9,6 +9,4 @@ description: "プログラミングに関する記事をまとめています．
 - 数値計算: 主にPythonを使います．
 - Webアプリケーション開発: サーバ開発はRuby on Rails, フロントはReact.jsです．
 
-その他言語・技術など: Matlab, Java, Fortran90, csh, NetCDF, Rspec, Responder, TypeScript, MySQL, Elasticsearch, HTML, CSS, Sass, 
-<!-- ### 実務例 -->
-<!--TODO -->
+その他言語・技術など: Matlab, Java, Fortran90, csh, NetCDF, Rspec, Responder, TypeScript, MySQL, Elasticsearch, HTML, CSS, Sass
