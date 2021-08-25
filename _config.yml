@@ -47,6 +47,15 @@ plugins:
 
 paginate: 5
 
+# 
+highlighter: rouge
+
+# markdown setting
+markdown: kramdown
+kramdown:
+  math_engine: mathjax # うまく効かない
+  syntax_highlighter: rouge
+  input: GFM
 
 # Exclude from processing.
 # The following items will not be processed, by default.

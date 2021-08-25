@@ -33,3 +33,5 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # gem "kramdown", ">= 2.3.0" #=> エラーが出た at 2020/08/09
 gem "kramdown", ">= 2.3.1" #=> 2021/07/03
 
+# syntax highlighting
+gem "rouge", ">= 2.4"
