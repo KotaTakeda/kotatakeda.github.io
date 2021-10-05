@@ -9,7 +9,7 @@ description: "数学に関する記事をまとめています．"
 [PDFライブラリ](/math/pdf_library)
 
 ### 所属
-国立大学法人 京都大学 大学院理学研究科 数学教室 坂上研究室
+国立大学法人京都大学 大学院理学研究科 数学・数理解析専攻 数学系 坂上研究室
 
 ### 興味
 不確実性定量化(Uncertainty Quantification: UQ)， 流体， トポロジカルフローデータ解析(Topological Flow Data Analysis: TFDA), データ同化， 機械学習， 気象予報，バイオロギング
