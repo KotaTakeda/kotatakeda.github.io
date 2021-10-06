@@ -13,6 +13,11 @@ layout: default
       <div class="flex-item">
         <a href={{page.dir}}>{{page.dir}}</a>
       </div>
+      {%- if page.dir == '/math/' -%}
+        <div class="flex-item">
+          <a href="/math/pdf_library.md">PDFライブラリ</a>
+        </div>
+      {%- endif -%}
     </div>
     <nav id="tags">
       <div class="flex-container">
@@ -25,6 +30,7 @@ layout: default
     {%- if page.author -%}
       • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
     {%- endif -%}
+
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">

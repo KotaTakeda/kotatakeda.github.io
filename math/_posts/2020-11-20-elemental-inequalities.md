@@ -4,7 +4,7 @@ title: "初等不等式まとめ"
 description: "数学の初等的な不等式"
 date: 2020-11-20 15:20:00  +0900
 dir: /math/
-tags: '初等数学'
+tags: ['初等数学', '公式']
 ---
 <!-- 開発用 -->
 <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
