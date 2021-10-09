@@ -32,6 +32,7 @@ pip install black
 #### vscode設定
 ```json
 {
+  "python.languageServer": "Pylance",
   "python.linting.enabled": true,
   "python.linting.pylintEnabled": false,
   "python.linting.flake8Enabled": true,
