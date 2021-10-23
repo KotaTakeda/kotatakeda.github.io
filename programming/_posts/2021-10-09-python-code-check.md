@@ -38,6 +38,12 @@ pip install black
   "python.linting.flake8Enabled": true,
   "python.linting.lintOnSave": true,
   "python.formatting.provider": "black",
+  "python.formatting.blackArgs": [
+      "--line-length",
+      "119",
+      "--ignore",
+      "W503"
+  ],
   "editor.formatOnSave": true,
   "editor.codeActionsOnSave": {
       "source.organizeImports": true
