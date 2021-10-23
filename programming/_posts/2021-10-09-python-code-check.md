@@ -38,6 +38,10 @@ pip install black
   "python.linting.flake8Enabled": true,
   "python.linting.lintOnSave": true,
   "python.formatting.provider": "black",
+  "python.linting.flake8Args": [
+      "--max-line-length",
+      "90",
+  ],
   "python.formatting.blackArgs": [
       "--line-length",
       "119",
@@ -53,3 +57,6 @@ pip install black
 
 ### 参考
 - [Blackできれいに自動整形！flake8とBlack導入と実行](https://qiita.com/tsu_0514/items/2d52c7bf79cd62d4af4a)
+- [Black: Python のソースコードを自動整形するツール](https://org-technology.com/posts/python-black.html)
+- [flake8](https://pypi.org/project/flake8/)
+- [black](https://pypi.org/project/black/)
