@@ -3,7 +3,7 @@ layout: post
 title: "Python Tips"
 date: 2021-02-11 17:22 +0900
 dir: /programming/
-tags: "Python"
+tags: ["Python", 'メモ']
 description: "Pythonに関するTipsをまとめています．"
 ---
 
