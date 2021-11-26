@@ -2,7 +2,7 @@
 layout: post
 title: "重要な参考文献まとめ"
 date: 2021-11-26 19:23 +0900
-dir: 
+dir: /math/
 tags: 'UQ'
 description: "数学，流体力学などの重要な文献をまとめています．"
 ---
