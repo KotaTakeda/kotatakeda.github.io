@@ -15,7 +15,7 @@ layout: default
       </div>
       {%- if page.dir == '/math/' -%}
         <div class="flex-item">
-          <a href="/math/pdf_library.md">PDFライブラリ</a>
+          <a href="/math/pdf_library">PDFライブラリ</a>
         </div>
       {%- endif -%}
     </div>
@@ -26,7 +26,7 @@ layout: default
         <a class="flex-item tag" href="/tags/index.html#tag_{{ tag }}">{{ tag }}</a>
         {% endfor %}
       </div>
-    </nav>      
+    </nav>
     {%- if page.author -%}
       • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
     {%- endif -%}
