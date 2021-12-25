@@ -2,6 +2,10 @@ strong {
   border-bottom: 3px solid $accent-color;
 }
 
+table {
+  font-size: 12px;
+}
+
 .gradient-text {
   background: -webkit-linear-gradient(0deg, $accent-color, $brand-color);//背景色にグラデーションを指定
   background-clip: text; //テキストでくり抜く
