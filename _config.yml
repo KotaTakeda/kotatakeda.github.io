@@ -21,7 +21,7 @@
 title: Kota Takeda
 author: "竹田 航太"
 description: >- # this means to ignore newlines until "baseurl:"
-  数学・プログラミングに関するポートフォリオ兼備忘録用のサイトです．
+  数学・プログラミングに関する備忘録用のサイトです．
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kotatakeda.github.io" # the base hostname & protocol for your site, e.g. http://example.com
