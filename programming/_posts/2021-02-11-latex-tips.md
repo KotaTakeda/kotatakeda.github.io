@@ -3,7 +3,7 @@ layout: post
 title: "Latex Tips"
 date: 2021-02-11 17:34 +0900
 dir: /programming/
-tags: ["Latex", "Tips"]
+tags: ["Latex", "メモ"]
 description: "Latexに関するTipsをまとめています．"
 ---
 
