@@ -32,6 +32,9 @@ description: "数学PDF"
 ### データ同化
 - [Kalman Filter](pdf/kalman_filter.pdf)
 
+### データ解析
+- [EDMD](pdf/edmd.pdf)
+
 ### 基礎
 - [線形作用素](pdf/linear_operator.pdf)
 - [多様体論](pdf/mfd.pdf)

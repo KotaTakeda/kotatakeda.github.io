@@ -31,6 +31,10 @@ body {
   flex-direction: column;
 }
 
+h5 {
+  font-size: 1.2rem;
+}
+
 p {
   margin-left: 20px;
   line-height: $base-font-size * 2;

@@ -62,5 +62,5 @@ $ \lambda, b $ が不確実な場合を考え，上記の方程式をRandom ODE�
 - Timothy John Sullivan. *Introduction to uncertainty quantification*, Springer, 2015
 
 ### 注意
-[^random_ode]: 用語として確率微分方程式(Stochastic ODE)とは区別されるべきです．
+[^random_ode]: 用語として確率微分方程式(Stochastic Differential Equation: SDE)とは区別されるべきです．
 [^stochatic_sol]: 確率微分方程式を解くわけではないので確率積分は行わず，したがってdeterministicに解けます．

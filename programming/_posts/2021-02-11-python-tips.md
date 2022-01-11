@@ -3,7 +3,7 @@ layout: post
 title: "Python Tips"
 date: 2021-02-11 17:22 +0900
 dir: /programming/
-tags: ["Python", "Tips"]
+tags: ["Python", "メモ"]
 description: "Pythonに関するTipsをまとめています．"
 ---
 
@@ -32,6 +32,15 @@ f'i = {i}'
 init_mon = 2
 f'2017{init_mon:02d}'
 # => 201702
+```
+
+#### dict
+python 3.9以降，mergeできるようになった．
+```python
+a = {'a': 'A'}
+b = {'b': 'B'}
+a | b
+=> {'a': 'A', 'b': 'B'}
 ```
 
 #### 数値計算
@@ -67,7 +76,7 @@ anim.save('data/img/hmc_animation.gif', writer='pillow')
 ```
 
 #### numpy
-array結合
+##### array結合
 ```python
 a = np.zeros((10, 100, 1000))
 b = a.copy()
@@ -85,13 +94,43 @@ e.shape
 # => (10, 100, 2000)
 ```
 
-argsort:
-best3を選ぶときに使う．昇順で返される．
+##### argsort
+best3を選ぶときなどに使う．昇順で返される．
 ```python
 target_arr = np.array([2, 7, 4, 9, 1, 5])
 best_3idx = target_arr.argsort()[::-1][:3]
 print(best_3idx)
 # => [3, 1, 5]
 ```
+
+##### reshapeの注意
+目的に合わせて必要があれば転置と組み合わせる．
+```python
+data = np.arange(12)
+print(data)
+
+reshaped_data1 = data.reshape(4, 3)
+print(reshaped_data1)
+
+reshaped_data2 = data.reshape(3, 4).T
+print(reshaped_data2)
+```
+結果
+```
+[ 0  1  2  3  4  5  6  7  8  9 10 11]
+[[ 0  1  2]
+ [ 3  4  5]
+ [ 6  7  8]
+ [ 9 10 11]]
+[[ 0  4  8]
+ [ 1  5  9]
+ [ 2  6 10]
+ [ 3  7 11]]
+```
+
+##### transpose
+`.T`による転置の一般化．多次元配列の軸を入れ替える．
+
+
 <!-- ### 参考
 ### 注意 -->
