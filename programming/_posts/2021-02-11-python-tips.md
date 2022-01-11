@@ -3,7 +3,7 @@ layout: post
 title: "Python Tips"
 date: 2021-02-11 17:22 +0900
 dir: /programming/
-tags: "Python"
+tags: ["Python", "Tips"]
 description: "Pythonに関するTipsをまとめています．"
 ---
 
@@ -85,7 +85,7 @@ e.shape
 # => (10, 100, 2000)
 ```
 
-argsort: 
+argsort:
 best3を選ぶときに使う．昇順で返される．
 ```python
 target_arr = np.array([2, 7, 4, 9, 1, 5])

@@ -3,7 +3,7 @@ layout: post
 title: "Latex Tips"
 date: 2021-02-11 17:34 +0900
 dir: /programming/
-tags: "Latex"
+tags: ["Latex", "Tips"]
 description: "Latexに関するTipsをまとめています．"
 ---
 
@@ -28,7 +28,7 @@ LatexについてのTipsを備忘録として書いていきます．
 
 #### tilder
 ```
-\sim 
+\sim
 %=> ~
 
 \tilde
