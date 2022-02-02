@@ -35,6 +35,12 @@ description: "スライド作成に関するヒントをまとめます．"
 [研究のビジュアルデザイン e-learning](https://visual-skills.studio.site/)\\
 研究発表のためのPowerPointやExcelの使い方が学べる．デザインの基礎知識も説明している．
 
+#### フリー素材
+- [Unsplash](https://unsplash.com/)
+- [Burst](https://burst.shopify.com/)
+- [pixabay](https://pixabay.com/ja/)
+- [pakutaso](https://www.pakutaso.com/)
+
 ### ツール
 目的や内容に合わせて使い分ける．
 
