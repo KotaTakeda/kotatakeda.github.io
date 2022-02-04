@@ -96,5 +96,8 @@ $ \triangle $
 \triangle
 ```
 
-<!-- ### 参考
-### 注意 -->
+### 参考
+- [tex wiki, 2021-02-11](https://texwiki.texjp.org/)
+
+### 更新
+- 2022-02-05

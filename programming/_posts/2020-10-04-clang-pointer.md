@@ -90,7 +90,7 @@ int arr_func(int arr[]) {
 
 int main(void) {
     int arr[] = {10,20,30};
-    
+
     printf("pointer_arr_func(int *arr) \n");
     pointer_arr_func(arr);
 
@@ -103,7 +103,7 @@ int main(void) {
 実行結果:
 ```
 /* =>
-  pointer_arr_func(int *arr) 
+  pointer_arr_func(int *arr)
   arr = 0x7ffeeb0cb99c
   *arr = 10
   arr[0] = 10
@@ -116,9 +116,9 @@ int main(void) {
 
 
 ### 参考
-- [C言語：ポインタの概念の図解](https://cyzennt.co.jp/blog/2019/05/04/c%E8%A8%80%E8%AA%9E%EF%BC%9A%E3%83%9D%E3%82%A4%E3%83%B3%E3%82%BF%E3%81%AE%E6%A6%82%E5%BF%B5%E3%81%AE%E5%9B%B3%E8%A7%A3/) - 2020-10-04
-- [配列型引数の奇妙な性質](https://9cguide.appspot.com/15-06.html#S3) - 2020-10-04
-- [C言語型宣言の解説](https://qiita.com/omochimetaru/items/3b6b34036a1239603aff#%E9%96%A2%E6%95%B0%E3%83%9D%E3%82%A4%E3%83%B3%E3%82%BF%E3%81%AE%E8%AA%AD%E8%A7%A3) - 2020-10-04
+- [C言語：ポインタの概念の図解, 2020-10-04](https://cyzennt.co.jp/blog/2019/05/04/c%E8%A8%80%E8%AA%9E%EF%BC%9A%E3%83%9D%E3%82%A4%E3%83%B3%E3%82%BF%E3%81%AE%E6%A6%82%E5%BF%B5%E3%81%AE%E5%9B%B3%E8%A7%A3/) - 2020-10-04
+- [配列型引数の奇妙な性質, 2020-10-04](https://9cguide.appspot.com/15-06.html#S3) - 2020-10-04
+- [C言語型宣言の解説, 2020-10-04](https://qiita.com/omochimetaru/items/3b6b34036a1239603aff#%E9%96%A2%E6%95%B0%E3%83%9D%E3%82%A4%E3%83%B3%E3%82%BF%E3%81%AE%E8%AA%AD%E8%A7%A3) - 2020-10-04
 
 ### 注意
 [^pointer_pointer]: `(int *arr[])`: とするとポインタの配列となるので意味が違います．

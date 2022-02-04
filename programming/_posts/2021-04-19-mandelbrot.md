@@ -37,7 +37,7 @@ $ z_{n+1} = z_n^2 + c, z_0 = 0 $の漸化式で生成される複素数列$ (z_n
 
 #### 環境
 [Google Colaboratory](https://colab.research.google.com/)でPython3のnotebookを作成．
-[参考](https://qiita.com/yamaza-h/items/503d175e8da349cbcb6c)
+[参考, 2021-08-17](https://qiita.com/yamaza-h/items/503d175e8da349cbcb6c)
 
 ### コード
 [Colabサンプルコード](https://colab.research.google.com/drive/171uAc1rtuadwrrlOy50ji173biQPWafE?usp=sharing)
@@ -171,7 +171,6 @@ anim
 - アニメーションも作ったのでPythonによる作図が一通り学べました．
 
 ### 参考
-- [wikipedia](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E3%83%87%E3%83%AB%E3%83%96%E3%83%AD%E9%9B%86%E5%90%88)
-- [GOOGLE DOODLE](https://www.google.com/fbx?fbx=mandelbrot_explorer&hl=ja)
-- [Google Colaboratoryの使い方](https://qiita.com/yamaza-h/items/503d175e8da349cbcb6c)
-- [サンプルコード](https://colab.research.google.com/drive/171uAc1rtuadwrrlOy50ji173biQPWafE?usp=sharing)
+- [wikipedia, 2021-08-17](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E3%83%87%E3%83%AB%E3%83%96%E3%83%AD%E9%9B%86%E5%90%88)
+- [GOOGLE DOODLE, 2021-08-17](https://www.google.com/fbx?fbx=mandelbrot_explorer&hl=ja)
+- [Google Colaboratoryの使い方, 2021-08-17](https://qiita.com/yamaza-h/items/503d175e8da349cbcb6c)

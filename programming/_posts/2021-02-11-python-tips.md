@@ -11,7 +11,7 @@ description: "Pythonに関するTipsをまとめています．"
 - [Key word](#key-word)
 - [はじめに](#はじめに)
 - [まとめ](#まとめ)
-- [参考](#参考)
+<!-- - [参考](#参考) -->
 
 ### Key word
 - Python

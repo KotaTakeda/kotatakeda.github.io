@@ -90,5 +90,5 @@ bcr.bar_chart_race(df = df_lang, title = "Language Share Growth (Pseudo Data)", 
 Pythonライブラリ`bar_chart_race`を使用してランキングの時間変動を動画として可視化しました．`pandas`さえ扱うことができれば簡単に作ることができます．オプションによる細かい表示の調整などが足りないこともあるので各自で実装の必要があります．
 
 ### 参考
-- [dexplot/bar_chart_race](https://github.com/dexplo/bar_chart_race)
-- [Bar Chart Race Official Document](https://www.dexplo.org/bar_chart_race)
+- [dexplot/bar_chart_race, 2021-08-29](https://github.com/dexplo/bar_chart_race)
+- [Bar Chart Race Official Document, 2021-08-29](https://www.dexplo.org/bar_chart_race)

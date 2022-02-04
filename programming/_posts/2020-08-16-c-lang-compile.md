@@ -53,5 +53,4 @@ $ ./main
 このとき`duplicate symbol`エラーが出ることがある． [Duplicate Symbol? What?](https://samwho.dev/blog/duplicate-symbol-what/)
 
 ### 参考
-[gcc コンパイルオプション備忘録](https://qiita.com/seriru13/items/c2f5192615162c4c3f47)
-
+[gcc コンパイルオプション備忘録, 2020-08-16](https://qiita.com/seriru13/items/c2f5192615162c4c3f47)

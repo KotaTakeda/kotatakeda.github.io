@@ -92,14 +92,14 @@ model.add(layers.Dense(out_size))
 model.compile(loss='mean_absolute_error', optimizer='Adam')
 model.summary()
 ```
-<!-- 
+<!--
 Model: "RNN"
 _________________________________________________________________
-Layer (type)                 Output Shape              Param #   
+Layer (type)                 Output Shape              Param #
 =================================================================
-simple_rnn_10 (SimpleRNN)    (None, 20)                440       
+simple_rnn_10 (SimpleRNN)    (None, 20)                440
 _________________________________________________________________
-dense_10 (Dense)             (None, 1)                 21        
+dense_10 (Dense)             (None, 1)                 21
 =================================================================
 Total params: 461
 Trainable params: 461
@@ -161,4 +161,4 @@ MSEは0.0171
 
 
 ### 参考
-- [初心者のRNN(LSTM):Kerasで試してみる](https://qiita.com/sasayabaku/items/b7872a3b8acc7d6261bf): 適当にパラメータを決める際の参考にしました．
+- [初心者のRNN(LSTM):Kerasで試してみる, 2020-12-31](https://qiita.com/sasayabaku/items/b7872a3b8acc7d6261bf): 適当にパラメータを決める際の参考にしました．
