@@ -12,16 +12,20 @@ $base-line-height: 1.5 !default;
 $spacing-unit:     30px !default;
 
 // base, main, accentで設計70:25:5
-$base-color: #fff; // default
-$main-color: #2a7ae2; // default
-$accent-color: #eF45FF;
+$base-color: #fff; // type1
+$main-color: #2a7ae2; // type1
+$accent-color: #eF45FF; // type1
+// $base-color: #F2EBDF; // type2
+// $main-color: #BFAF9B; // type2
+// $accent-color: #59201B; // type2
+
 
 
 $text-color:       #111 !default;
 $background-color: $base-color !default;
 $brand-color:      $main-color !default;
 
-$grey-color:       #828282 !default;
+$grey-color:       darken($base-color, 50%) !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 
@@ -44,7 +48,7 @@ $on-laptop:        800px !default;
 
 @mixin fade-in($duration: 2s) {
   animation: fadeIn $duration ease;
-  
+
   @keyframes fadeIn {
     0% {opacity: 0}
     100% {opacity: 1}
@@ -69,7 +73,7 @@ $on-laptop:        800px !default;
       @content;
     }
   }
-  
+
   @mixin relative-font-size($ratio) {
     font-size: $base-font-size * $ratio;
   }

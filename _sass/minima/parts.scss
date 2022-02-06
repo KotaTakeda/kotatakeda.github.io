@@ -48,8 +48,8 @@ table {
     to right,
     #f8f8f8 0%,
     #f8f8f8 50%,
-    #fff 50%,
-    #fff 100%
+    $base-color 50%,
+    $base-color 100%
   );
   transition: background-position ease 0.4s;
   &:hover {
