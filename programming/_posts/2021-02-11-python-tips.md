@@ -11,7 +11,7 @@ description: "Pythonに関するTipsをまとめています．"
 - [Key word](#key-word)
 - [はじめに](#はじめに)
 - [まとめ](#まとめ)
-<!-- - [参考](#参考) -->
+- [参考](#参考)
 
 ### Key word
 - Python
@@ -43,14 +43,14 @@ a | b
 => {'a': 'A', 'b': 'B'}
 ```
 
-#### 数値計算
+<!-- #### 数値計算
 これはpythonに特有ではない．
 解析解と数値解のtime indexを合わせる．
 
 ```python
 t_arr = np.linspace(0, Tstep*dt, Tstep+1) % 時間index
 results = np.zeros(Tstep + 1) % 数値解の記録用配列
-```
+``` -->
 
 #### enumerate
 イテレート時にidxとvalueを両方使いたい時，`enumarate`を使う．
@@ -132,5 +132,7 @@ print(reshaped_data2)
 `.T`による転置の一般化．多次元配列の軸を入れ替える．
 
 
-<!-- ### 参考
-### 注意 -->
+### 参考
+- [Python Docs](https://docs.python.org/ja/3/)
+- [matplotlib.animation.Animation](https://matplotlib.org/stable/api/_as_gen/matplotlib.animation.Animation.html#matplotlib.animation.Animation.save)
+- [Numpy Docs](https://numpy.org/doc/stable/)
