@@ -19,7 +19,7 @@ tag: ['機械学習', 'UQ']
 - 数学: スペクトル理論，Karhunen-Loeve展開
 - 関連:
   - [Winner Hermite 展開]({% link math/_posts/2020-11-01-winner-hermite-expansion.md %})
-  - [PDFライブラリ](/math/pdf_library)
+  - [PDFライブラリ](/math/pdf_library/)
 
 ### 導入
 積分核として積分作用素を定めたり，内積を与えたりする2変数関数(kernel)の展開についての定理を簡単に紹介します．
