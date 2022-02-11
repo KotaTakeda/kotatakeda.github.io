@@ -29,4 +29,6 @@ description: "数学，流体力学などの重要な文献をまとめていま
 |タイトル|Introduction to Uncertainty Quantification|
 |著者|Timothy John Sullivan|
 |年度|2015|
-|出版社|Springer|
+|出版者|Springer|
+
+関連ページ：[Mercerの定理]({% link math/_posts/2020-08-20-mercer-theorem.md %})，[Winner Hermite Expansion]({% link math/_posts/2020-11-01-winner-hermite-expansion.md %})

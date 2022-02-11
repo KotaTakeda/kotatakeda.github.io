@@ -19,6 +19,7 @@ tag: ['機械学習', 'UQ']
 - 数学: スペクトル理論，Karhunen-Loeve展開
 - 関連:
   - [Winner Hermite 展開]({% link math/_posts/2020-11-01-winner-hermite-expansion.md %})
+  - [重要な参考文献まとめ#Introduction To Uncertainty Quantification]({% link math/_posts/2021-11-26-references.md %}#introduction-to-uncertainty-quantification)
   - [PDFライブラリ](/math/pdf_library/)
 
 ### 導入
@@ -33,7 +34,7 @@ Hilbert Schmidtの理論から$L^2$展開できますが，連続性や半正定
 - 半正定値性
 
 ### Mercerの定理
-Mercer kernel $ K $に対して$ x \mapsto K(x,x) \in L^1 $が成り立つとき
+Mercer kernel $ K $に対して$ x \mapsto K(x,x) $が$ L^1 $となるとき
 
 $$
   K(x,y) = \sum_{n} \lambda_n \psi_n(x) \psi_n(y)
