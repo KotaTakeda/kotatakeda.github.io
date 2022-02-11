@@ -20,11 +20,12 @@ tags: ['初等数学', '公式']
 ### 目次
 - [Key word](#key-word)
 - [はじめに](#はじめに)
-- [まとめ](#まとめ)
 - [参考](#参考)
 
 ### Key word
 - 不等式
+- 関連：
+  - [不等式まとめ(PDF)](/math/pdf/inequalities.pdf)
 
 ### はじめに
 初等的な不等式の備忘録です．随時更新します．
@@ -45,10 +46,3 @@ $ \frac{2xy}{x+y} \le \sqrt{xy} \le \frac{1}{2}(x+y) $
 
 #### 5. Bernoulliの不等式
 $ \forall x > -1, \\ \hspace{2em} r \in [0,1] \Rightarrow (1+x)^r \le 1 + rx, \ r \notin [0,1] \Rightarrow (1+x)^r \ge 1 + rx $
-
-### まとめ
-- 2乗不等式は自明ですが役に立つことがあり侮れないです．
-- 三角不等式はよく使います．
-
-<!-- ### 参考 -->
-<!-- ### 注意 -->
