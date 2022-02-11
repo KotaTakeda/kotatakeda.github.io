@@ -15,6 +15,7 @@ description: "数学PDF"
 
 ### 流体
 - [N点渦系](pdf/point_vortex.pdf)
+- [Lions1992](pdf/lions1992.pdf)
 
 ### HMC
 - [Survey of Hamiltnian Monte Carlo](pdf/intro_to_hmc.pdf)
