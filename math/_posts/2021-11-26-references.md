@@ -31,4 +31,4 @@ description: "数学，流体力学などの重要な文献をまとめていま
 |年度|2015|
 |出版者|Springer|
 
-関連ページ：[Mercerの定理]({% link math/_posts/2020-08-20-mercer-theorem.md %})，[Winner Hermite Expansion]({% link math/_posts/2020-11-01-winner-hermite-expansion.md %})
+関連ページ：[UQについて]({% link math/_posts/2022-02-11-uq.md %})，[Mercerの定理]({% link math/_posts/2020-08-20-mercer-theorem.md %})，[Winner Hermite Expansion]({% link math/_posts/2020-11-01-winner-hermite-expansion.md %})
