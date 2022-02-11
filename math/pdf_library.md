@@ -1,8 +1,6 @@
 ---
 layout: page
 title: "数学PDF"
-permalink: /math/pdf_library/
-dir: math
 description: "数学PDF"
 ---
 
