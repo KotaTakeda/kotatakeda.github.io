@@ -20,7 +20,7 @@ tag: ['機械学習', 'UQ']
 - 関連:
   - [Winner Hermite 展開]({% link math/_posts/2020-11-01-winner-hermite-expansion.md %})
   - [重要な参考文献まとめ#Introduction To Uncertainty Quantification]({% link math/_posts/2021-11-26-references.md %}#introduction-to-uncertainty-quantification)
-  - [PDFライブラリ](/math/pdf_library/)
+  - [PDFライブラリ](/math/pdf_library)
 
 ### 導入
 積分核として積分作用素を定めたり，内積を与えたりする2変数関数(kernel)の展開についての定理を簡単に紹介します．
