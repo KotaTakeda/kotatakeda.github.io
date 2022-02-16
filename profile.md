@@ -21,11 +21,11 @@ description: "プロフィール"
 
   |年月日|内容|
   | --- | --- |
-  |2020年度 ~ | 京都大学 数学TA|
+  |2020年度 ~ 2021年度| 京都大学 数学TA|
   |2020年 9月2日~9月30日 | RCCS DAオンラインスクール受講・修了|
   |2021年 2月10日| 第12回 理研・京大データ同化研究会([詳細](http://www.data-assimilation.riken.jp/jp/events/ku_ws_202102/index.html)) 講演 「ハミルトンモンテカルロ法の紹介」: [スライド](/math/pdf/intro_to_hmc_slide.pdf)|
   |2021年 2月22日~3月12日 | RIKEN R-CCS 計算科学インターンシップ・プログラム 2020 参加([詳細](https://www.r-ccs.riken.jp/library/event/200604/))|
-  |2021年 6月16日~|京都大学 OA（JST未来社会創造事業 TFDA）|
+  |2021年 6月16日~3月31日|京都大学 OA（JST未来社会創造事業 TFDA）|
 
 ### 研究費など採択
 #### 京都大学

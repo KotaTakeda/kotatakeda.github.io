@@ -185,6 +185,9 @@
     @include left-line;
     margin: $spacing-unit 0 $spacing-unit/3 0;
   }
+  h4 {
+    @include left-line($accent-color);
+  }
 }
 
 .page-heading {
