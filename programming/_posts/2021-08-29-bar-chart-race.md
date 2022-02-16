@@ -3,7 +3,7 @@ layout: post
 title: "ランキング変動動画の作成 [Colaboratory]"
 date: 2021-08-29 18:00 +0900
 dir: /programming/
-tags: ['Python', 'data visualization']
+tags: ['Python', 'visualization']
 description: "Bar Chart RaceというPythonのライブラリを使って時系列データからランキング変動動画を作成します．"
 ---
 
