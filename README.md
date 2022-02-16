@@ -1,5 +1,5 @@
 # 概要
-数学・プログラミングなどについての備忘録用の個人サイトです．
+主に数学・プログラミングについてまとめています．
 
 [数学PDFライブラリ](https://kotatakeda.github.io/math/pdf_library)
 
