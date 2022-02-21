@@ -66,3 +66,18 @@
     }
   }
 }
+
+.posts {
+  list-style: none;
+  .pager {
+    display: flex;
+    margin-top: $spacing-unit;
+    li {
+      list-style: none;
+      margin-right: $spacing-unit;
+      a {
+        color: $grey-color;
+      }
+    }
+  }
+}
