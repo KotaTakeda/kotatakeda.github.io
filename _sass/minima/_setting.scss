@@ -2,7 +2,7 @@
 
 // Define defaults for each variable.
 
-$base-font-family: "Hiragino Maru Gothic ProN W4", "Hiragino Maru Gothic Pro W4", "HG丸ｺﾞｼｯｸM-PRO","HGMaruGothicMPRO", // 追加
+$base-font-family: YuGothic, "Yu Gothic Medium", "Yu Gothic", // 追加
 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default; // jekyll default
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
@@ -25,7 +25,7 @@ $accent-color: #f3a67a;
 
 
 
-$text-color:       #111 !default;
+$text-color:       #333 !default;
 $background-color: $base-color !default;
 $brand-color:      $main-color !default;
 
