@@ -6,7 +6,7 @@ permalink: /math/
 description: "数学に関する記事をまとめています．"
 ---
 
-[PDFライブラリ](/math/pdf_library)
+[PDFライブラリ>>](/math/pdf_library)
 
 ### 所属
 国立大学法人 京都大学 大学院理学研究科 数学・数理解析専攻 数学系
