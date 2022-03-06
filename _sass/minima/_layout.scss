@@ -182,11 +182,12 @@
   padding: $spacing-unit 0;
   flex: 1;
   h3 {
-    @include left-line;
+    color: $accent-color;
+    // @include left-line;
     margin: $spacing-unit 0 $spacing-unit/3 0;
   }
   h4 {
-    @include left-line($accent-color);
+    @include left-line($main-color);
   }
 }
 
@@ -260,8 +261,8 @@
       @include relative-font-size(1.375);
     }
     border-left: none;
-    border-bottom: solid 1px black;
-    @include left-line($main-color);
+    border-bottom: solid 1px $grey-color;
+    // @include left-line($main-color);
   }
 
   h4 {
@@ -270,6 +271,6 @@
     @include media-query($on-laptop) {
       @include relative-font-size(1.125);
     }
-    @include left-line($accent-color);
+    @include left-line($main-color);
   }
 }
