@@ -1,35 +1,64 @@
 .home {
-  margin-top: $spacing-unit*3;
   .page-heading {
+    padding-top: $spacing-unit*3;
     text-align: center;
-    font-size: 40px;
-    &.first-visit {
-      font-size: 32px;
-    }
+    font-size: 48px;
+    font-weight: 100;
   }
+
   .page-description {
+    padding: $spacing-unit/2;
     text-align: center;
   }
 
   .flex-container {
+    margin-top: $spacing-unit;
     justify-content: center;
     align-content: center;
-    flex-direction: column;
+    flex-direction: row;
     .flex-item {
-      padding: 10px;
       margin-right: 0;
+      width: 30%;
+      height: 250px;
+      a.home-panel {
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        .home-panel-content {
+          height: 50%;
+          padding: $spacing-unit/2;
+          font-size: 36px;
+          &.material-icons {
+            font-size: 54px;
+          }
+        }
+      }
     }
   }
 
-  // @include fade-in(7s);
-
-  .main-button {
-    font-size: 24px;
-    height: 35px ;
-    padding: 5px 20px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  @include media-query(900px) {
+    .page-heading {
+      padding-top: $spacing-unit*2;
+      font-size: 24px;
+    }
+    .flex-container {
+      flex-direction: column;
+      .flex-item {
+        width: 90%;
+        height: 100px;
+        a.home-panel {
+          height: 100%;
+          .home-panel-content {
+            padding: $spacing-unit/4;
+            font-size: 24px;
+            &.material-icons {
+              font-size: 36px;
+            }
+          }
+        }
+      }
+    }
   }
 }
 

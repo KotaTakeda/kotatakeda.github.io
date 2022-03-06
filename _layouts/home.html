@@ -1,34 +1,51 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
 
-<div class="home fade">
-  <!-- <h1 class="page-heading"><span class="gradient-text">{{ site.title }}</span></h1> -->
-  <h1 class="page-heading first-visit"><span class="">竹田航太のホームページへようこそ</span></h1>
+  {%- include head.html -%}
 
-  <div class="wrapper">
-    <div class="page-description gradient-text">{{site.description}}</div>
+  <body class>
+    {%- if page.title != 'home' -%}
+      {%- include header.html -%}
+    {%- endif -%}
 
-    <div>
-      {{ content }}
-    </div>
+    <main class="" aria-label="Content">
 
-    <div class="page-content flex-container">
-      <div class="flex-item ">
-        <a class="main-button transition" href="/profile/">
-          プロフィール
-        </a>
+      <div class="home fade">
+        <h1 class="page-heading first-visit"><span class="">竹田航太の個人サイト</span></h1>
+
+        <div class="page-description gradient-text">{{site.description}}</div>
+        <div class="page-content flex-container">
+          <div class="flex-item transition">
+            <a class="home-panel" href="/profile/">
+              <span class="material-icons home-panel-content">
+                person
+              </span>
+              <div class="home-panel-content">プロフィール</div>
+            </a>
+          </div>
+          <div class="flex-item transition">
+            <a class="home-panel" href="/math/">
+              <span class="material-icons home-panel-content">
+                edit_note
+              </span>
+              <div class="home-panel-content">数学</div>
+            </a>
+          </div>
+          <div class="flex-item transition">
+            <a class="home-panel" href="/programming/">
+              <span class="material-icons home-panel-content">
+                code
+              </span>
+              <div class="home-panel-content">プログラミング</div>
+            </a>
+          </div>
+        </div>
       </div>
-      <div class="flex-item ">
-        <a class="main-button transition" href="/math/">
-          数学
-        </a>
-      </div>
-      <div class="flex-item ">
-        <a class="main-button transition" href="/programming/">
-          プログラミング
-        </a>
-      </div>
-    </div>
-  </div>
-</div>
+    </main>
+
+    {%- if page.title != 'home' -%}
+      {%- include footer.html -%}
+    {%- endif -%}
+  </body>
+
+</html>
