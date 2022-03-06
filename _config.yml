@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Kota Takeda
-author: "竹田 航太"
+title: K. Takeda
+author: Kota Takeda
 description: >- # this means to ignore newlines until "baseurl:"
   数学・プログラミングに関する備忘録用のサイトです．
 
