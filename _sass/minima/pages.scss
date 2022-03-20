@@ -2,6 +2,7 @@
   font-family: $accent-font-family;
   .page-heading {
     padding-top: $spacing-unit*3;
+    padding-bottom: $spacing-unit;
     text-align: center;
     font-size: 48px;
     font-weight: 100;
@@ -24,6 +25,7 @@
       width: 30%;
       height: 250px;
       a.home-panel {
+        color: $main-color;
         height: 100%;
         display: flex;
         flex-direction: column;
@@ -107,7 +109,7 @@
       list-style: none;
       margin-right: $spacing-unit;
       a {
-        color: $grey-color;
+        color: $accent-color;
       }
     }
   }

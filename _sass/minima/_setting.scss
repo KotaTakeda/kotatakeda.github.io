@@ -2,11 +2,11 @@
 
 // Define defaults for each variable.
 
-$base-font-family: YuGothic, "Yu Gothic Medium", "Yu Gothic", // 追加
+$base-font-family: Helvetica, YuGothic, "Yu Gothic Medium", "Yu Gothic", // 追加
 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default; // jekyll default
-$accent-font-family: "ヒラギノ丸ゴ Pro W4","ヒラギノ丸ゴ Pro","Hiragino Maru Gothic Pro","ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro","HG丸ｺﾞｼｯｸM-PRO","HGMaruGothicMPRO";
+$accent-font-family: $base-font-family;
 $base-font-size:   16px !default;
-$base-font-weight: 400 !default;
+$base-font-weight: 200 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
 
@@ -15,16 +15,16 @@ $spacing-unit:     30px !default;
 // base:main:accent ~~ 70:25:5
 // type1
 $base-color: #fff;
-$main-color: #4285dd;
+$main-color: #191970;
 $accent-color: #fe6ce9;
 // type2
 // $base-color: #f2ebdf;
-// $main-color: #bfaf9b;
+// $main-color: #614e45;
 // $accent-color: #e4a9cb;
 // type3
-$base-color: #f2ebdf;
-$main-color: #bfaf9b;
-$accent-color: #f3a67a;
+$base-color: #f8f1ee;
+$main-color: #614e45;
+$accent-color: #f89d68;
 
 
 

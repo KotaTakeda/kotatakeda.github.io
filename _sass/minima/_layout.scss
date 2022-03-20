@@ -183,12 +183,11 @@
   padding: $spacing-unit 0;
   flex: 1;
   h3 {
-    // color: $accent-color;
-    @include left-line($accent-color);
+    color: $main-color;
     margin: $spacing-unit 0 $spacing-unit/3 0;
   }
   h4 {
-    @include left-line($main-color);
+    color: lighten($main-color, 30%);
   }
 }
 
@@ -262,7 +261,6 @@
     }
     border-left: none;
     border-bottom: solid 1px $grey-color;
-    @include left-line($accent-color);
   }
 
   h4 {
@@ -271,6 +269,5 @@
     @include media-query($on-laptop) {
       @include relative-font-size(1.125);
     }
-    @include left-line($main-color);
   }
 }
