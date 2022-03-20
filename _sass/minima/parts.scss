@@ -1,9 +1,14 @@
 strong {
-  background: linear-gradient(transparent 70%, $accent-color 70%);
+  background: linear-gradient(transparent 70%, $accent-color 70%); // マーカー風下線
+  font-weight: $base-font-weight*2;
 }
 
 table {
   font-size: 12px;
+}
+
+.site-logo {
+  font-family: Optima !important;
 }
 
 .gradient-text {
