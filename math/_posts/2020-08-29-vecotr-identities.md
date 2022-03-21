@@ -7,21 +7,21 @@ dir: /math/
 tags: "公式"
 ---
 
-### 目次
+## 目次
 - [Key word](#key-word)
 - [はじめに](#はじめに)
 - [公式](#公式)
 - [参考](#参考)
 <!-- - [注意](#注意) -->
 
-### Key word
+## Key word
 - ベクトル解析，偏微分方程式
 - 流体力学，電磁気学
 
-### はじめに
+## はじめに
 ベクトル解析など物理寄りの文脈で登場することの多いベクトルの公式を忘れないように書いておきます．
 
-### 公式
+## 公式
 随時更新します．
 
 $ \vec{u}, \vec{v} : \mathbb{R}^3 \rightarrow \mathbb{R}^3 , \phi: \mathbb{R}^3 \rightarrow \mathbb{R} $．
@@ -33,6 +33,6 @@ $ \vec{u}, \vec{v} : \mathbb{R}^3 \rightarrow \mathbb{R}^3 , \phi: \mathbb{R}^3 
 - $ \nabla \times (\nabla \times \vec{u}) = \nabla(\nabla \cdot \vec{u}) - (\nabla \cdot \nabla) \vec{u} $
 
 [pdfリンク](/math/pdf/vector_identities.pdf)
-### 参考
+## 参考
 pdfリンクにあります．
-<!-- ### 注意 -->
+<!-- ## 注意 -->

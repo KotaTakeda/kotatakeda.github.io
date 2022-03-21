@@ -5,7 +5,7 @@ date:   2020-08-16 14:30:00 +0900
 dir: /programming/
 tag: ['C言語', 'メモ']
 ---
-### C言語のコンパイルについての備忘録(`gcc`による)
+## C言語のコンパイルについての備忘録(`gcc`による)
 
 - `a.out`を作成.
 ```
@@ -52,5 +52,5 @@ $ ./main
 ```
 このとき`duplicate symbol`エラーが出ることがある． [Duplicate Symbol? What?](https://samwho.dev/blog/duplicate-symbol-what/)
 
-### 参考
+## 参考
 [gcc コンパイルオプション備忘録, 2020-08-16](https://qiita.com/seriru13/items/c2f5192615162c4c3f47)

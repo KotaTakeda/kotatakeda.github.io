@@ -7,21 +7,21 @@ tags: ["Python", "メモ"]
 description: "Pythonに関するTipsをまとめています．"
 ---
 
-### 目次
+## 目次
 - [Key word](#key-word)
 - [はじめに](#はじめに)
 - [まとめ](#まとめ)
 - [参考](#参考)
 
-### Key word
+## Key word
 - Python
 
-### はじめに
+## はじめに
 PythonについてのTipsを備忘録として書いていきます．
 随時更新します．
 
-### まとめ
-#### 式展開
+## まとめ
+### 式展開
 ```python
 i = 1
 f'i = {i}'
@@ -34,7 +34,7 @@ f'2017{init_mon:02d}'
 # => 201702
 ```
 
-#### dict
+### dict
 python 3.9以降，mergeできるようになった．
 ```python
 a = {'a': 'A'}
@@ -43,7 +43,7 @@ a | b
 => {'a': 'A', 'b': 'B'}
 ```
 
-<!-- #### 数値計算
+<!-- ### 数値計算
 これはpythonに特有ではない．
 解析解と数値解のtime indexを合わせる．
 
@@ -52,14 +52,14 @@ t_arr = np.linspace(0, Tstep*dt, Tstep+1) % 時間index
 results = np.zeros(Tstep + 1) % 数値解の記録用配列
 ``` -->
 
-#### enumerate
+### enumerate
 イテレート時にidxとvalueを両方使いたい時，`enumarate`を使う．
 ```python
 for idx, value in enumerate(array):
     print(f'{idx}: {value}')
 ```
 
-#### animation
+### animation
 animationをgifで保存する．（Imagemagic不要）
 ```python
 # 例
@@ -75,8 +75,8 @@ anim = animation.FuncAnimation(fig, animate, frames=100)
 anim.save('data/img/hmc_animation.gif', writer='pillow')
 ```
 
-#### numpy
-##### array結合
+### numpy
+#### array結合
 ```python
 a = np.zeros((10, 100, 1000))
 b = a.copy()
@@ -94,7 +94,7 @@ e.shape
 # => (10, 100, 2000)
 ```
 
-##### argsort
+#### argsort
 best3を選ぶときなどに使う．昇順で返される．
 ```python
 target_arr = np.array([2, 7, 4, 9, 1, 5])
@@ -103,7 +103,7 @@ print(best_3idx)
 # => [3, 1, 5]
 ```
 
-##### reshapeの注意
+#### reshapeの注意
 目的に合わせて必要があれば転置と組み合わせる．
 ```python
 data = np.arange(12)
@@ -128,11 +128,11 @@ print(reshaped_data2)
  [ 3  7 11]]
 ```
 
-##### transpose
+#### transpose
 `.T`による転置の一般化．多次元配列の軸を入れ替える．
 
 
-### 参考
+## 参考
 - [Python Docs](https://docs.python.org/ja/3/)
 - [matplotlib.animation.Animation](https://matplotlib.org/stable/api/_as_gen/matplotlib.animation.Animation.html#matplotlib.animation.Animation.save)
 - [Numpy Docs](https://numpy.org/doc/stable/)

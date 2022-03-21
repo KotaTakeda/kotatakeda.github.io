@@ -17,32 +17,32 @@ tags: ['初等数学', '公式']
  });
 </script>
 
-### 目次
+## 目次
 - [Key word](#key-word)
 - [はじめに](#はじめに)
 - [参考](#参考)
 
-### Key word
+## Key word
 - 不等式
 - 関連：
   - [不等式まとめ(PDF)](/math/pdf/inequalities.pdf)
 
-### はじめに
+## はじめに
 初等的な不等式の備忘録です．随時更新します．
 
-### 不等式
-#### 1. 2乗不等式(仮)
+## 不等式
+### 1. 2乗不等式(仮)
 $ x^2 \ge 0 \hspace{2em} (\forall x \in \mathbb{R}) $
 
-#### 2. 三角不等式
+### 2. 三角不等式
 $ |x+y| \le |x| + |y| \hspace{2em} (\forall x,y \in \mathbb{C}) $
 
-#### 3. 発展的三角不等式
+### 3. 発展的三角不等式
 $ p > 0 \Rightarrow |x+y|^p \le \max(1, 2^{p-1})(|x|^p + |y|^p) \hspace{2em} (\forall x,y \in \mathbb{C}) $
 
 
-#### 4. 相加・相乗・調和不等式
+### 4. 相加・相乗・調和不等式
 $ \frac{2xy}{x+y} \le \sqrt{xy} \le \frac{1}{2}(x+y) $
 
-#### 5. Bernoulliの不等式
+### 5. Bernoulliの不等式
 $ \forall x > -1, \\ \hspace{2em} r \in [0,1] \Rightarrow (1+x)^r \le 1 + rx, \ r \notin [0,1] \Rightarrow (1+x)^r \ge 1 + rx $

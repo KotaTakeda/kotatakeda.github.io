@@ -7,7 +7,7 @@ dir: /math/
 tags: ['スペクトル理論', 'UQ']
 ---
 
-### 目次
+## 目次
 - [Key word](#key-word)
 - [はじめに](#はじめに)
 - [放射能半減](#放射能半減)
@@ -15,19 +15,19 @@ tags: ['スペクトル理論', 'UQ']
 - [まとめ](#まとめ)
 - [参考](#参考)
 
-### Key word
+## Key word
 - Hermite展開，Galerkin法
 - 放射能半減，調和振動子
 
-### はじめに
+## はじめに
 常微分方程式（ODE）の初期条件や係数が不確実な場合にはそれを方程式に盛り込む必要があります．
 ここでは初期条件や定数係数が確率変数であるODEを**Random ODE**[^random_ode]と呼び，それについて考えます．
 Hermite展開とGalerkin近似によるRandom ODEの数値解法を紹介します[^stochatic_sol]．
 [Hermite展開](/math/2020/11/01/winner-hermite-expansion.html)に基づいています．
 
-### 放射能半減
+## 放射能半減
 
-#### 方程式
+### 方程式
 $ \lambda, b > 0 $ に対して以下のような単純な放射能半減の微分方程式を考える．
 
 $ \dot{u}(t) = - \lambda u(t), \hspace{1em} u(0) = b $
@@ -38,29 +38,29 @@ $ \lambda, b $ が不確実な場合を考え，上記の方程式をRandom ODE�
 - Hermite展開により確率変数の「成分表示」．
 - Galerkin productにより確率変数の「成分表示による積」を定義．
 
-#### 解
+### 解
 展開を有限項で打ち切ることにより数値的に解けます．
 数値解のHermite展開係数から解のモーメントを計算することができます．
 
 ![Random Radioactive](/assets/img/math/radioactive_random_ode.png)
 
-### 調和振動子
-#### 結果画像
+## 調和振動子
+### 結果画像
 ![Random Harmonic Oscillator](/assets/img/math/harmonic_oscillator_random_ode.png)
 
-### pdf
+## pdf
 もう一つの例(調和振動子)と詳細な説明は以下のpdfにあります．
 
 [詳細はこちら](/math/pdf/chapter12.pdf)
 
-### まとめ
+## まとめ
 - Random ODEの数値解法と計算結果を示しました．
 - Hermite展開により乱数を発生させずにRandomな現象を扱うことができます．
 - Galerkin productにより確率変数の積にも対応できます．
 
-### 参考
+## 参考
 - Timothy John Sullivan. *Introduction to uncertainty quantification*, Springer, 2015
 
-### 注意
+## 注意
 [^random_ode]: 用語として確率微分方程式(Stochastic Differential Equation: SDE)とは区別されるべきです．
 [^stochatic_sol]: 確率微分方程式を解くわけではないので確率積分は行わず，したがってdeterministicに解けます．

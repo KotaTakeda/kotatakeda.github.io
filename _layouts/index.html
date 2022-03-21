@@ -8,7 +8,7 @@ layout: page
   <div class="container">
     <div class="row">
       <div class="text-center">
-        <h3>最近の投稿</h3>
+        <h2>最近の投稿</h2>
         <ul style="list-style-position: inside">
           {%- assign posts = site.posts | where: "dir", page.dir | slice: 0,3 -%}
           {% for post in posts %}

@@ -7,19 +7,19 @@ tags: ['visualization', 'works']
 description: "綺麗な図まとめ"
 ---
 
-<!-- ### 目次
+<!-- ## 目次
 - [Key word](#key-word)
 - [はじめに](#はじめに)
 - [まとめ](#まとめ)
 - [参考](#参考)
 
-### Key word -->
+## Key word -->
 
-<!-- ### はじめに -->
+<!-- ## はじめに -->
 
-<!-- ### まとめ -->
+<!-- ## まとめ -->
 
-#### Julia集合
+### Julia集合
 ![julia集合](/assets/img/math/julia1_heat.jpg)
 
-<!-- ### 参考 -->
+<!-- ## 参考 -->

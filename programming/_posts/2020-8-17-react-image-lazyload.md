@@ -5,13 +5,13 @@ date:   2020-08-17 14:06:00 +0900
 dir: /programming/
 tags: React
 ---
-### 目的
+## 目的
 ReactでSeoのために画像をスクロールに沿って遅延読み込みしたい．
 
-### 実装
+## 実装
 ライブラリ : [React Lazy Load Image Component](https://www.npmjs.com/package/react-lazy-load-image-component)を使いました．
 
-#### 特筆事項
+### 特筆事項
 - SSR(Server Side Rendering)にも対応．
 - デフォルトでもちゃんとLazyLoadしてくれる．
 - `props`
@@ -20,7 +20,7 @@ ReactでSeoのために画像をスクロールに沿って遅延読み込みし
   - `threshold`: (number) で読み込み始める域値(画像の画面に見えている部分の長さ)を指定できる(pixel指定)．
 - 詳しくはライブラリのページ
 
-#### 使い方
+### 使い方
 インストール
 ```
 $ yarn add react-lazy-load-image-component
@@ -49,6 +49,6 @@ const SomeConponent = () => (
     ...
   </div>
 );
- 
+
 export default SomeConponent;
 ```

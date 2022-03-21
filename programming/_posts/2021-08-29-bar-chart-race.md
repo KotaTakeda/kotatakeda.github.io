@@ -7,7 +7,7 @@ tags: ['Python', 'visualization']
 description: "Bar Chart RaceというPythonのライブラリを使って時系列データからランキング変動動画を作成します．"
 ---
 
-### 目次
+## 目次
 - [Key word](#key-word)
 - [はじめに](#はじめに)
 - [Quick Start](#quick-start)
@@ -16,25 +16,25 @@ description: "Bar Chart RaceというPythonのライブラリを使って時系�
 - [まとめ](#まとめ)
 - [参考](#参考)
 
-### Key word
+## Key word
 - Python, Colab
 - Bar Chart Race
 
-### はじめに
+## はじめに
 Bar Chart RaceというPythonのライブラリを使って時系列ランキングデータからランキング変動動画を作成します．
 
 環境はGoogle Colaboratoryを想定しています．
 
-### Quick Start
+## Quick Start
 ライブラリに付属したサンプルデータ(Covid19)から動画を作成します．
 
-#### install
+### install
 
 ```python
 !pip install bar_chart_race
 ```
 
-#### Covid19
+### Covid19
 ```python
 import bar_chart_race as bcr
 import pandas as pd
@@ -44,10 +44,10 @@ bcr.bar_chart_race(df = df_covid19)
 ```
 これでnotebookにうめこみ動画が表示されます．
 
-### 自作擬似データ
+## 自作擬似データ
 プログラミング言語シェアランキングの擬似データを生成してそれを元に動画を作成します．
 
-#### データ生成
+### データ生成
 
 ```python
 # 設定
@@ -72,7 +72,7 @@ print(f'shape: {df_lang.shape}')
 df_lang.head()
 ```
 
-#### 動画作成
+### 動画作成
 ```python
 # filenameをmp4で指定するとそこに保存してくれます．
 filename = None # or 'path/to/dir/filename.mp4'
@@ -83,12 +83,12 @@ bcr.bar_chart_race(df = df_lang, title = "Language Share Growth (Pseudo Data)", 
                    cmap='accent', bar_kwargs={'alpha': .2, 'ec': 'black'}, period_fmt='{x: .0f}', )
 ```
 
-### サンプルコード
+## サンプルコード
 [ここに置いてあります．](https://github.com/KotaTakeda/bar_chart_race_demo/blob/main/demo.ipynb)
 
-### まとめ
+## まとめ
 Pythonライブラリ`bar_chart_race`を使用してランキングの時間変動を動画として可視化しました．`pandas`さえ扱うことができれば簡単に作ることができます．オプションによる細かい表示の調整などが足りないこともあるので各自で実装の必要があります．
 
-### 参考
+## 参考
 - [dexplot/bar_chart_race, 2021-08-29](https://github.com/dexplo/bar_chart_race)
 - [Bar Chart Race Official Document, 2021-08-29](https://www.dexplo.org/bar_chart_race)

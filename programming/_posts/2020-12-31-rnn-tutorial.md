@@ -6,7 +6,7 @@ dir: /programming/
 tags: '機械学習'
 ---
 
-### 目次
+## 目次
 - [Key word](#key-word)
 - [はじめに](#はじめに)
 - [コード](#コード)
@@ -14,15 +14,15 @@ tags: '機械学習'
 - [まとめ](#まとめ)
 - [参考](#参考)
 
-### Key word
+## Key word
 - RNN, 時系列解析
 - Python, Google Colab
 
-### はじめに
+## はじめに
 RNNを使ってみようということで(理論はそっちのけで)sin波の推定を行うことを目的とします．
 環境はGoogle Colaboratoryです．
 
-### コード
+## コード
 必要なライブラリをimport
 
 ```python
@@ -32,7 +32,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 ```
 
-#### 時系列データの生成
+### 時系列データの生成
 ノイズ入りのsin波を生成します．
 ```python
 # sin波を生成 in: dt, sample_size, out: sin_series(sample_size)
@@ -80,7 +80,7 @@ train_features.shape, train_targets.shape
 `=> ((325, 25, 1), (325, 1, 1))`
 
 
-#### モデルの構築
+### モデルの構築
 ```python
 delay = 25 # 時間遅れstep
 out_size = 1 # targetのsize
@@ -141,10 +141,10 @@ model.evaluate(test_features, test_targets)
 test dataをpredictしています．
 MSEは0.0171
 
-### 考察
+## 考察
 テストデータに対する予測のRMSEは0.1309となり．ノイズの標準偏差0.1と同程度になりました．ある程度予測できているようです．
 
-#### パラメータ
+### パラメータ
 チューニングの余地があるパラメータは
 - model
   - `delay`
@@ -155,10 +155,10 @@ MSEは0.0171
   - `epoch`
   - `validation_split`
 
-### まとめ
+## まとめ
 - kerasのSimpleRNNを用いてノイズのあるsin波の予測を行いました．
 - RNN用にデータを変換するところはテクニカルですが，kerasを使うことで簡単に学習まで行うことができました．
 
 
-### 参考
+## 参考
 - [初心者のRNN(LSTM):Kerasで試してみる, 2020-12-31](https://qiita.com/sasayabaku/items/b7872a3b8acc7d6261bf): 適当にパラメータを決める際の参考にしました．

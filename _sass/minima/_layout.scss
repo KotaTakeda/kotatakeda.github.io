@@ -182,11 +182,11 @@
 .page-content {
   padding: $spacing-unit 0;
   flex: 1;
-  h3 {
+  h2 {
     color: $main-color;
     margin: $spacing-unit 0 $spacing-unit/3 0;
   }
-  h4 {
+  h3 {
     color: lighten($main-color, 30%);
   }
 }
@@ -251,6 +251,8 @@
     @include media-query($on-laptop) {
       @include relative-font-size(1.75);
     }
+    border-left: none;
+    border-bottom: solid 1px $grey-color;
   }
 
   h3 {
@@ -259,8 +261,6 @@
     @include media-query($on-laptop) {
       @include relative-font-size(1.375);
     }
-    border-left: none;
-    border-bottom: solid 1px $grey-color;
   }
 
   h4 {

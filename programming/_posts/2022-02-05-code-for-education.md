@@ -7,7 +7,7 @@ tags: "教育"
 description: "教育用のコードをまとめます．"
 ---
 
-### リンク
+## リンク
 - [HTML・CSS：サイト模写]({% link programming/_posts/2021-08-17-site-replication.md %})
 - [Javascript：タイピングゲーム](https://github.com/KotaTakeda/typing_game/blob/main/README.md)
 - [Python：きれいな図を描く]({% link programming/_posts/2021-04-19-mandelbrot.md %})
