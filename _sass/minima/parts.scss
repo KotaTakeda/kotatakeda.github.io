@@ -1,5 +1,5 @@
 strong {
-  background: linear-gradient(transparent 70%, $accent-color 70%); // マーカー風下線
+  background: linear-gradient(transparent 70%, lighten($accent-color, 15%) 70%); // マーカー風下線
   font-weight: $base-font-weight*2;
 }
 
