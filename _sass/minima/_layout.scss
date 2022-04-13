@@ -185,6 +185,7 @@
   h2 {
     color: $main-color;
     margin: $spacing-unit 0 $spacing-unit/3 0;
+    border-bottom: solid 1px $grey-color;
   }
   h3 {
     color: lighten($main-color, 30%);
@@ -251,8 +252,6 @@
     @include media-query($on-laptop) {
       @include relative-font-size(1.75);
     }
-    border-left: none;
-    border-bottom: solid 1px $grey-color;
   }
 
   h3 {
