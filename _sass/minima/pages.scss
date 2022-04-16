@@ -118,3 +118,16 @@
     }
   }
 }
+
+
+.page-content {
+  li {
+    list-style: none;
+    &::before {
+      font-family: 'Material Icons';
+      content: "\e876"; // done
+      position: absolute;
+      margin-left: -1.5em;
+    }
+  }
+}
