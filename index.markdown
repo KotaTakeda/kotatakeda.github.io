@@ -7,7 +7,7 @@
 # title: home
 
 layout: page
-title: 竹田航太の個人サイトTOP
+title: 竹田航太の個人サイト
 ---
 ## 目次
 - [現職](#現職)
