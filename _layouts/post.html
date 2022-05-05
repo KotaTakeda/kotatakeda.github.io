@@ -11,7 +11,7 @@ layout: default
         {{ page.date | date: date_format }}
       </time>
       <div class="flex-item">
-        <a href={{page.dir}}>{{page.dir}}</a>
+        <a href={{page.dir}}>{{ page.dir | replace: "/", "" }}</a>
       </div>
       {%- if page.dir == '/math/' -%}
         <div class="flex-item">
@@ -23,7 +23,7 @@ layout: default
       <div class="flex-container">
         <!-- <div class="flex-item">tags:</div> -->
         {% for tag in page.tags %}
-        <a class="flex-item tag" href="/tags/index.html#tag_{{ tag }}">#{{ tag }}</a>
+          <a class="flex-item tag" href="/tags/index.html#tag_{{ tag }}">#{{ tag }}</a>
         {% endfor %}
       </div>
     </nav>
