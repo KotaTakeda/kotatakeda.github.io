@@ -10,3 +10,7 @@ description: "リンク集"
 - [京大電子ジャーナル](https://www.kulib.kyoto-u.ac.jp/erdb/13502)
 - [MyKULINE京大蔵書](https://kuline.kulib.kyoto-u.ac.jp/)
 - [SIAM REVIEW](https://epubs.siam.org/journal/siread)
+
+
+## 事務
+- [京都大学 数学教室 連絡先](https://www.math.kyoto-u.ac.jp/ja/overview/contact)
