@@ -33,6 +33,9 @@ pip install black
 ```json
 {
   "python.languageServer": "Pylance",
+  "python.analysis.diagnosticSeverityOverrides": {
+      "reportGeneralTypeIssues": "none" // np.piなどでerrorが出るので対処
+  },
   "python.linting.enabled": true,
   "python.linting.pylintEnabled": false,
   "python.linting.flake8Enabled": true,
@@ -40,13 +43,11 @@ pip install black
   "python.formatting.provider": "black",
   "python.linting.flake8Args": [
       "--max-line-length",
-      "90",
+      "88",
       "--ignore",
-      "E203, E266, E501, W503, F403, F401"
+      "E203, E266, E501, F403, F401"
   ],
   "python.formatting.blackArgs": [
-      "--line-length",
-      "119",
       "--ignore",
       "W503"
   ],
