@@ -34,7 +34,7 @@ Welcome to Kota Takeda's home page
 ## Research Interests
 The main concept in my research is approaching to complex and chaotic phenomena with mathematical, especially UQ(Uncertainty Quantification), tools.
 My research interests are mainly in understanding the effectiveness of UQ(Uncertainty Quantification) approach to mathematical fluid dynamics, in which complex and chaotic behaviors of fluid are studied.
-I am also interested in interdisciplinary studies, where I would like to connect researchers in different fields by using mathematics.
+I am also interested in interdisciplinary studies, where I would like to connect many researchers in different fields by using mathematics. Since I am good at constructing mathematical models and analyzing data, these skills can help to make progress on study in some fields except mathematics.
 
 ### specific themes
 - Computing turbulent statistics with respect to a stationary flow of 2D Euler equation with Hamiltonian Monte Carlo
