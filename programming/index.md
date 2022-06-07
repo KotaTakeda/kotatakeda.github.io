@@ -5,6 +5,9 @@ permalink: /programming/
 # dir: programming
 description: "プログラミングに関する記事をまとめています．"
 ---
+
+- [リンク集>>](/programming/links)
+
 ## 使用言語と経験
 ### 数値計算
 主にPython（とそのライブラリ）を使って数値解析（行列演算，積分，画像処理，機械学習等）をします．必要に応じてCなど高速な言語を使います．\\
