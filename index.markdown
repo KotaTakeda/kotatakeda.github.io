@@ -97,4 +97,4 @@ Rspec, Django, TypeScript, MySQL, Elasticsearch, HTML, CSS, Sass, Docker
   |年月日|内容|
   | --- | --- |
   |2021年6月~|NPO法人 clack 高校生へのプログラミング教育支援ボランティア|
-  |2022年6月20日|大阪府立住吉高校 サイエンスカフェ SSH課題研究支援|
+  |2022年6月20日|大阪府立住吉高校 サイエンスカフェ 学生アドバイザー|
