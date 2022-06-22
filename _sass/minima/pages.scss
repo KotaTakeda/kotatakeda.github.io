@@ -1,9 +1,5 @@
 .home {
   font-family: $accent-font-family;
-  .uq-picture {
-    height: 500px;
-    background-image: url("../../assets/img/math/uq_picture.png");
-  }
   .page-heading {
     padding-top: $spacing-unit*3;
     padding-bottom: $spacing-unit;
@@ -140,11 +136,4 @@
   p img {
     width: 540px;
   }
-}
-
-.site-footer {
-  background-image: url("../../assets/img/math/uq_picture.png");
-  background-color: lighten($main-color, 20%);
-  background-blend-mode: lighten;
-  background-size: cover;
 }
