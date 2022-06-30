@@ -38,4 +38,4 @@ description: "数学PDF"
 - [線形作用素](pdf/linear_operator.pdf)
 - [多様体論](pdf/mfd.pdf)
 - [多様体上の構造保存型スキーム](pdf/integrator_on_mfd.pdf)
-- [Area Formula](pdf/area_formula.pdf)
+- [Area Formula](pdf/geometric_measure_theory.pdf)
