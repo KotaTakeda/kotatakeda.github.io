@@ -12,7 +12,6 @@ description: "数学PDF"
 - [Spectral Expansions](pdf/chapter11.pdf)
 - [Stochastic Galerkin](pdf/chapter12.pdf)
 - [Markov Chain and Geometric Ergodicity](pdf/markov_chain.pdf)
-- [Optimal Transport](pdf/ot.pdf)
 
 ## 流体
 - [N点渦系](pdf/point_vortex.pdf)
@@ -39,3 +38,5 @@ description: "数学PDF"
 - [多様体論](pdf/mfd.pdf)
 - [多様体上の構造保存型スキーム](pdf/integrator_on_mfd.pdf)
 - [Geometric Measure Theory](pdf/geometric_measure_theory.pdf)
+- [Rademacherの定理](pdf/rademacher.pdf)
+- [Optimal Transport](pdf/ot.pdf)
