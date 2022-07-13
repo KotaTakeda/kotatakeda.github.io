@@ -22,7 +22,7 @@ Welcome to Kota Takeda's home page
 - [CV](#CV)
 - [Activities](#activities)
 
-## Position
+## Positions
 - Ph.D. student at Department of Mathematics, Kyoto University
 - Junior Research Associate at RIKEN Center for Computational Science (R-CCS) Data Assimilation Research Team
 

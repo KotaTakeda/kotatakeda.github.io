@@ -12,5 +12,10 @@ description: "リンク集"
 - [SIAM REVIEW](https://epubs.siam.org/journal/siread)
 
 
+## 学会ホームページ
+- [日本応用数理学会](https://jsiam.org/)
+- [日本数学会](https://www.mathsoc.jp/)
+- [SIAM](https://www.siam.org/)
+
 ## 事務
 - [京都大学 数学教室 連絡先](https://www.math.kyoto-u.ac.jp/ja/overview/contact)
