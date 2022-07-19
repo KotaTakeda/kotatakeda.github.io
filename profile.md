@@ -31,6 +31,7 @@ description: "プロフィール"
   |2021年 2月10日| 第12回 理研・京大データ同化研究会([詳細](http://www.data-assimilation.riken.jp/jp/events/ku_ws_202102/index.html)) 講演 「ハミルトンモンテカルロ法の紹介」: [スライド](/math/pdf/intro_to_hmc_slide.pdf)|
   |2021年 2月22日~3月12日 | RIKEN R-CCS 計算科学インターンシップ・プログラム 2020 参加([詳細](https://www.r-ccs.riken.jp/library/event/200604/))|
   |2021年 6月16日~3月31日|京都大学 OA（JST未来社会創造事業 TFDA）|
+  |2022年 7月11日~7月15日|Short Course on Data Assimilation (Imperial College London) 参加|
 
 ## 研究費など採択
 ### 京都大学
