@@ -87,11 +87,12 @@ Rspec, Django, TypeScript, MySQL, Elasticsearch, HTML, CSS, Sass, Docker
   | --- | --- |
   |2020年度 ~ 2021年度| 京都大学 数学TA|
   |2020年 9月2日~9月30日 | RCCS DAオンラインスクール受講・修了|
-  |2021年 2月10日| 第12回 理研・京大データ同化研究会([詳細](http://www.data-assimilation.riken.jp/jp/events/ku_ws_202102/index.html)) 講演 「ハミルトンモンテカルロ法の紹介」: [スライド](/math/pdf/intro_to_hmc_slide.pdf)|
+  |2021年 2月10日|[講演] 第12回 理研・京大データ同化研究会([詳細](http://www.data-assimilation.riken.jp/jp/events/ku_ws_202102/index.html)) 「ハミルトンモンテカルロ法の紹介」: [スライド](/math/pdf/intro_to_hmc_slide.pdf)|
   |2021年 2月22日~3月12日 | RIKEN R-CCS 計算科学インターンシップ・プログラム 2020 参加([詳細](https://www.r-ccs.riken.jp/library/event/200604/))|
   |2021年 6月16日~3月31日|京都大学 OA（JST未来社会創造事業 TFDA）|
-  |2022年 3月10日|応用数理学会　若手の会　第7回学生研究発表会 講演「流体力学へのUQ的アプローチの事例紹介」[リンク](http://wakate.jsiam.org/?p=68)|
+  |2022年 3月10日|[講演] 応用数理学会　若手の会　第7回学生研究発表会 「流体力学へのUQ的アプローチの事例紹介」[リンク](http://wakate.jsiam.org/?p=68)|
   |2022年 7月11日~7月15日|Short Course on Data Assimilation (Imperial College London) 参加|
+  |2022年 8月2日|[講演] 第7回岡山応用数学セミナー  「多様体上HMCの収束定理と乱流統計への応用」[リンク](https://jsiam.org/eguide02/3603/)|
 
 ### アウトリーチ
 
