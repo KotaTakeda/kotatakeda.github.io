@@ -15,6 +15,7 @@ title: 竹田航太の個人サイト
 - [現職](#現職)
 - [研究費など](#研究費など)
 - [研究内容](#研究内容)
+- [発表](#発表)
 - [開発](#開発)
 - [履歴](#履歴)
 - [活動](#活動)
@@ -25,7 +26,7 @@ title: 竹田航太の個人サイト
 
 <!-- ## 業績 -->
 
-## 研究費など
+## 研究費等採択
 ### 京都大学
 
 |制度|分野|研究課題名|期間|
@@ -49,13 +50,18 @@ title: 竹田航太の個人サイト
 - トポロジカルフローデータ解析を用いた新しいデータ同化理論の構築
 
 ### 興味・キーワード
-UQ，数理流体力学，2次元乱流，トポロジカルフローデータ解析(Topological Flow Data Analysis: TFDA)，データ同化，学際的研究，機械学習，気象予報，バイオロギング
+UQ，数理流体力学，2次元乱流，トポロジカルフローデータ解析(Topological Flow Data Analysis: TFDA)，データ同化，計算トポロジー，学際的研究，機械学習，気象予報，バイオロギング
+
+## 発表
+  - 2021年 2月10日 : 第12回 理研・京大データ同化研究会 「ハミルトンモンテカルロ法の紹介」[リンク](http://www.data-assimilation.riken.jp/jp/events/ku_ws_202102/index.html) / [スライド](/math/pdf/intro_to_hmc_slide.pdf)
+  - 2022年 3月10日 : 応用数理学会　若手の会　第7回学生研究発表会 「流体力学へのUQ的アプローチの事例紹介」[リンク](http://wakate.jsiam.org/?p=68)
+  - 2022年 8月2日 : 第7回岡山応用数学セミナー  「多様体上HMCの収束定理と乱流統計への応用」[リンク](https://jsiam.org/eguide02/3603/)
 
 ## 開発
 ### 数値計算
-主にPython（とそのライブラリ）を使って数値解析（行列演算，積分，画像処理，機械学習等）をします．必要に応じてCなど高速な言語を使います．\\
+主にPython（とそのライブラリ）を使って数値解析（行列演算，モンテカルロ法，積分，画像処理，機械学習等）をします．必要に応じて高速な言語を使います．\\
 2021年の[理研R-CCSのインターンシップ](https://www.r-ccs.riken.jp/outreach/schools/200604/)では，スーパーコンピューター富岳を用いたFortran90による海洋シミュレーションを行い，Pythonで結果の解析をしました．
-最近はPythonライブラリ[psiclone](https://github.com/t-uda/psiclone)を用いた流線トポロジーデータ解析(TFDA)や解析のためのデータ前処理をしています．
+最近はPythonライブラリ[psiclone](https://github.com/t-uda/psiclone)を用いた流線トポロジーデータ解析(TFDA)やパーシステントホモロジーを利用した最適化問題など計算トポロジーの流体問題への応用計算をしています．
 
 ### Webアプリケーション開発
 サーバサイドはRuby on Rails, フロントエンドはReact.jsでの開発が可能です．\\
@@ -73,7 +79,7 @@ Rspec, Django, TypeScript, MySQL, Elasticsearch, HTML, CSS, Sass, Docker
   - 2022年 4月 京都大学 大学院理学研究科 数学・数理解析専攻　博士後期課程 進学
 
 ### 職歴など
-  - 2019年 9月~ 株式会社 activo webエンジニア
+  - 2019年 9月~2022年3月 株式会社 activo webエンジニア
   - 2022年 4月~ 京都大学大学院教育支援機構奨励研究員
   - 2022年 4月~ 理化学研究所 計算科学研究センター データ同化研究チーム 大学院生リサーチ・アソシエイト(JRA)
 
@@ -87,12 +93,9 @@ Rspec, Django, TypeScript, MySQL, Elasticsearch, HTML, CSS, Sass, Docker
   | --- | --- |
   |2020年度 ~ 2021年度| 京都大学 数学TA|
   |2020年 9月2日~9月30日 | RCCS DAオンラインスクール受講・修了|
-  |2021年 2月10日|[講演] 第12回 理研・京大データ同化研究会([詳細](http://www.data-assimilation.riken.jp/jp/events/ku_ws_202102/index.html)) 「ハミルトンモンテカルロ法の紹介」: [スライド](/math/pdf/intro_to_hmc_slide.pdf)|
   |2021年 2月22日~3月12日 | RIKEN R-CCS 計算科学インターンシップ・プログラム 2020 参加([詳細](https://www.r-ccs.riken.jp/library/event/200604/))|
   |2021年 6月16日~3月31日|京都大学 OA（JST未来社会創造事業 TFDA）|
-  |2022年 3月10日|[講演] 応用数理学会　若手の会　第7回学生研究発表会 「流体力学へのUQ的アプローチの事例紹介」[リンク](http://wakate.jsiam.org/?p=68)|
   |2022年 7月11日~7月15日|Short Course on Data Assimilation (Imperial College London) 参加|
-  |2022年 8月2日|[講演] 第7回岡山応用数学セミナー  「多様体上HMCの収束定理と乱流統計への応用」[リンク](https://jsiam.org/eguide02/3603/)|
 
 ### アウトリーチ
 
