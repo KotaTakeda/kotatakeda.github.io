@@ -5,7 +5,7 @@ permalink: /about/
 description: "このサイトについて"
 ---
 
-学んだことや研究活動を記録・発信するためのサイトです．
+研究やその他活動を記録・発信するためのサイトです．
 
 ### Contact
 - takeda11.kl[at]outlook.jp

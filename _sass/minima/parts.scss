@@ -1,6 +1,6 @@
 strong {
-  background: linear-gradient(transparent 70%, lighten($accent-color, 15%) 70%); // マーカー風下線
-  font-weight: $base-font-weight*2;
+  // background: linear-gradient(transparent 70%, lighten($accent-color, 15%) 70%); // マーカー風下線
+  // font-weight: $base-font-weight*2;
 }
 
 table {
@@ -70,7 +70,7 @@ table {
 
 .site-footer {
   background-image: url("../../assets/img/math/uq_picture.png");
-  background-color: lighten($main-color, 20%);
+  background-color: lighten($main-color, 30%);
   background-blend-mode: lighten;
   background-size: cover;
 }
