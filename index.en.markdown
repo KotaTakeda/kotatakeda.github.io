@@ -10,29 +10,21 @@ layout: page
 title: Home
 permalink: /en/
 ---
-Welcome to Kota Takeda's home page
+Welcome to Kota Takeda's home page [Japanese page >>](/)
 
-[Go to Japanese page >>](/)
+Ph.D student, Department of mathematics, Graduate school of science, Kyoto University\\
+*takeda.kota.53r[at]st.kyoto-u.ac.jp*
+
+Junior Research Associate, Data Assimilation research team, RIKEN Center for Computational Science (R-CCS)\\
+*kota.takeda[at]riken.jp*
 
 ## Contents
-- [Position](#position)
-- [Funds](#Funds)
 - [Research Interests](#research-interests)
-- [Development](#development)
-- [CV](#CV)
+- [C.V.](#cv)
 - [Activities](#activities)
 
-## Positions
-- Ph.D. student at Department of Mathematics, Kyoto University
-- Junior Research Associate at RIKEN Center for Computational Science (R-CCS) Data Assimilation Research Team
-
-<!-- ## 業績 -->
-
-## Funds
-[in Japanese >>](/#研究費など)
-
 ## Research Interests
-The main concept in my research is approaching to complex and chaotic phenomena with mathematical, especially UQ(Uncertainty Quantification), tools.
+The main concept in my research is approaching to complex and chaotic phenomena with mathematical, especially **UQ(Uncertainty Quantification)**, tools.
 My research interests are mainly in understanding the effectiveness of UQ(Uncertainty Quantification) approach to mathematical fluid dynamics, in which complex and chaotic behaviors of fluid are studied.
 I am also interested in interdisciplinary studies, where I would like to connect many researchers in different fields by using mathematics. Since I am good at constructing mathematical models and analyzing data, these skills can help to make progress on study in some fields except mathematics.
 
@@ -43,11 +35,28 @@ I am also interested in interdisciplinary studies, where I would like to connect
 ### keywords
 Uncertainty Quantification(UQ), mathematical fluid dynamics, Topological Flow Data Analysis(TFDA), data assimilation, interdisciplinary studies, machine learning, weather forecasting, bio-logging
 
-## Development
+### Developments
 [in Japanese >>](/#開発)
 
-## CV
-[in Japanese >>](/#履歴)
+
+## C.V.
+### Educational History
+- 2016-2020 Undergraduate student, Faculty of science, Kyoto University.
+- 2020-2022 Graduate student, Graduate school of science, Kyoto University.
+- 2022- Graduate student in Ph.D program, Graduate school of science, Kyoto University
+
+### Professional History
+- Apr. 2022- Kyoto University Graduate Division Fellow [Kyoto University Division of Graduate Studies](https://www.kugd.k.kyoto-u.ac.jp/en/program)
+- Apr. 2022- RIKEN Junior Research Associate at R-CCS Data Assimilation research team [JRA 2022](https://www.riken.jp/en/careers/programs/jra/jra2022/index.html)
+
+[in Japanese >>](/#cv)
+
+### Funds
+[in Japanese >>](/#研究費等採択)
+
+### Presentations
+[in Japanese >>](/#発表)
+
 
 ## Activities
 [in Japanese >>](/#活動)
