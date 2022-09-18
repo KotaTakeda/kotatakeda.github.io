@@ -24,4 +24,4 @@ Colabolatoryにまとめました．
 [Google Colabolatoryへ](https://colab.research.google.com/drive/17KSZ52UEkJkubNxpFtzM9XgfvCKfnOqG?usp=sharing)
 
 ## 参考
-- Timothy John Sullivan. *Introduction to uncertainty quantification*, Springer, 2015
+- Timothy John Sullivan. *Introduction to uncertainty quantification*, Springer, 2015.

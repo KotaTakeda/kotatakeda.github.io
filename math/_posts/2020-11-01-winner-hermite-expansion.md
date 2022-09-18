@@ -50,7 +50,7 @@ Hermite多項式で$ L^2 $関数を展開します．
 - random ODEに応用することができます．
 
 ## 参考
-- Timothy John Sullivan. *Introduction to uncertainty quantification*, Springer, 2015
+- Timothy John Sullivan. *Introduction to uncertainty quantification*, Springer, 2015.
 
 ## 注意
 ### Notation

@@ -59,7 +59,7 @@ $ \lambda, b $ が不確実な場合を考え，上記の方程式をRandom ODE�
 - Galerkin productにより確率変数の積にも対応できます．
 
 ## 参考
-- Timothy John Sullivan. *Introduction to uncertainty quantification*, Springer, 2015
+- Timothy John Sullivan. *Introduction to uncertainty quantification*, Springer, 2015.
 
 ## 注意
 [^random_ode]: 用語として確率微分方程式(Stochastic Differential Equation: SDE)とは区別されるべきです．
