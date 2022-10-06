@@ -29,7 +29,7 @@ My research interests are mainly in understanding the effectiveness of UQ(Uncert
 I am also interested in interdisciplinary studies, where I would like to connect many researchers in different fields by using mathematics. Since I am good at constructing mathematical models and analyzing data, these skills can help to make progress on study in some fields except mathematics.
 
 ### specific themes
-- Computing turbulent statistics with respect to a stationary flow of 2D Euler equation with Hamiltonian Monte Carlo
+- Computing a stationary flow of 2D Euler equation with Hamiltonian Monte Carlo
 - Creating the fundamental framework of data assimilation with topological data
 
 ### keywords
