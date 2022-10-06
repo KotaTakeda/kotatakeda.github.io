@@ -84,7 +84,8 @@ UQ，数理流体力学，2次元乱流，トポロジカルフローデータ�
   |2020年 9月2日~9月30日 | RCCS DAオンラインスクール受講・修了|
   |2021年 2月22日~3月12日 | RIKEN R-CCS 計算科学インターンシップ・プログラム 2020 参加([詳細](https://www.r-ccs.riken.jp/library/event/200604/))|
   |2021年 6月16日~3月31日|京都大学 OA（JST未来社会創造事業 TFDA）|
-  |2022年 7月11日~7月15日|Short Course on Data Assimilation (Imperial College London) 参加|
+  |2022年 7月11日~7月15日|Short Course on Data Assimilation (Imperial College London) オンライン参加|
+  |2022年 9月25日~9月30日|SIAM Conference (Mathematics of Data Science 2022 @ San Diego) 参加|
 
 ### アウトリーチ
 
