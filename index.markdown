@@ -67,7 +67,8 @@ UQ，数理流体力学，2次元乱流，トポロジカルフローデータ�
   - 2021年 2月10日 : 第12回 理研・京大データ同化研究会「ハミルトンモンテカルロ法の紹介」[リンク](http://www.data-assimilation.riken.jp/jp/events/ku_ws_202102/index.html) / [スライド](/math/pdf/intro_to_hmc_slide.pdf)
   - 2022年 3月10日 : 応用数理学会　若手の会　第7回学生研究発表会 「流体力学へのUQ的アプローチの事例紹介」[リンク](http://wakate.jsiam.org/?p=68)
   - 2022年 8月2日 : 第7回岡山応用数学セミナー「多様体上HMCの収束定理と乱流統計への応用」[リンク](https://jsiam.org/eguide02/3603/)
-  - 2022年 9月8日：応用数理学会 2022年度年会 講演「HMCによるN点渦系の不変測度の構成」[リンク](https://jsiam.org/annual2022/)
+  - 2022年 9月8日 : 応用数理学会 2022年度年会 講演「HMCによるN点渦系の不変測度の構成」[リンク](https://jsiam.org/annual2022/)
+  - 2022年 10月15日 : 応用数学フレッシュマンセミナー2022 講演「UQと数理流体力学からはじめる学際研究の可能性」[リンク](https://sites.google.com/view/freshman-seminar2022)
 
 <!-- Published Works -->
 <!-- Awards and Achievements -->
