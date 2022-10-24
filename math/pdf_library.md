@@ -19,7 +19,7 @@ description: "数学PDF"
 - [Lions1992](pdf/lions1992.pdf)
 
 ## HMC
-- [Survey of Hamiltnian Monte Carlo](pdf/intro_to_hmc.pdf)
+- [Survey of Hamiltonian Monte Carlo](pdf/intro_to_hmc.pdf)
 - [Map of Hamiltonian Monte Carlo](pdf/map_of_hmc.pdf)
 - [Geometric Ergodicity of Hamiltnian Monte Carlo](pdf/geometric_ergodicity_hmc.pdf)
 - [Stochastic Gradient Hamiltonian Monte Carlo](pdf/sghmc.pdf)
