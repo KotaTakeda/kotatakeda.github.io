@@ -10,6 +10,7 @@ description: "リンク集"
 - [京大電子ジャーナル](https://www.kulib.kyoto-u.ac.jp/erdb/13502)
 - [MyKULINE京大蔵書](https://kuline.kulib.kyoto-u.ac.jp/)
 - [SIAM REVIEW](https://epubs.siam.org/journal/siread)
+- [EndNote Web](https://www.myendnoteweb.com/EndNoteWeb.html)
 
 
 ## 学会ホームページ
