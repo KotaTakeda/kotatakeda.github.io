@@ -10,7 +10,7 @@ layout: page
 title: Home
 permalink: /en/
 ---
-Welcome to Kota Takeda's home page [Japanese page >>](/)
+Welcome to Kota Takeda's home page! [Japanese page >>](/)
 
 Ph.D student, Department of mathematics, Graduate school of science, Kyoto University\\
 *takeda.kota.53r[at]st.kyoto-u.ac.jp*
