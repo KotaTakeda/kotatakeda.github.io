@@ -1,3 +1,4 @@
+
 strong {
   // background: linear-gradient(transparent 70%, lighten($accent-color, 15%) 70%); // マーカー風下線
   // font-weight: $base-font-weight*2;
@@ -8,7 +9,9 @@ table {
 }
 
 .site-logo {
-  font-family: $accent-font-family !important;
+  // font-family: $accent-font-family !important;
+  font-family: $script-font-family !important;
+  
 }
 
 .gradient-text {
