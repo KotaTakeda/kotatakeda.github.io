@@ -7,7 +7,7 @@
 # title: home
 
 layout: page
-title: W
+title: 竹田航太の個人サイト
 ---
 [English page >>](/en)
 
