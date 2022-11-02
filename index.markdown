@@ -85,9 +85,10 @@ UQ，数理流体力学，2次元乱流，トポロジカルフローデータ�
   |2020年度 ~ 2021年度| 京都大学 数学TA|
   |2020年 9月2日~9月30日 | RCCS DAオンラインスクール受講・修了|
   |2021年 2月22日~3月12日 | RIKEN R-CCS 計算科学インターンシップ・プログラム 2020 参加([詳細](https://www.r-ccs.riken.jp/library/event/200604/))|
-  |2021年 6月16日~3月31日|京都大学 OA（JST未来社会創造事業 TFDA）|
-  |2022年 7月11日~7月15日|Short Course on Data Assimilation (Imperial College London) オンライン参加|
-  |2022年 9月25日~9月30日|SIAM Conference (Mathematics of Data Science 2022 @ San Diego) 参加|
+  |2021年 6月16日~3月31日| 京都大学 OA（JST未来社会創造事業 TFDA）|
+  |2022年 7月11日~7月15日| Short Course on Data Assimilation (Imperial College London) オンライン参加|
+  |2022年 9月25日~9月30日| SIAM Conference (Mathematics of Data Science 2022 @ San Diego) 参加|
+  |2022年 9月30日| OLCF Hands-On HPC course (in SIAM Conference) 修了 |
 
 ### アウトリーチ
 
@@ -95,4 +96,4 @@ UQ，数理流体力学，2次元乱流，トポロジカルフローデータ�
   | --- | --- |
   |2021年6月~|NPO法人 clack 高校生へのプログラミング教育支援 ボランティア|
   |2022年6月20日|大阪府立住吉高校 サイエンスカフェ 学生アドバイザー|
-  |2022年10月20日|大阪府立住吉高校 「SUKIPRO」講演 講師|
+  |2022年10月20日|大阪府立住吉高校 講演「SUKIPROについて」 講師|
