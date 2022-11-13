@@ -13,7 +13,9 @@ description: "UQと数理流体力学に関するキーワードをランダム�
 - Stochastic Differential Equation (SDE)
 - Monte Carlo
     - HMC
-    - Probabilistic PDE solver
+- Probabilistic Numerics
+    - Probabilistic ODE solver
+        - q-integrated Winner Process
 - Data Assimilation
 - Inverse problem
 - Invariant measure of 2D-turbulence
