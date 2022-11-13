@@ -10,6 +10,7 @@ description: "Probabilistic ODE Solver"
 ## 目次
 - [Key word](#key-word)
 - [概要](#概要)
+- [実装](#実装)
 - [参考](#参考)
 
 ## Key word
@@ -41,6 +42,13 @@ f(t, y)
 
 ### メリット
 - implicitにODEを解ける．
+
+## 実装
+[probnum](https://github.com/probabilistic-numerics/probnum)としてPythonによる実装がある．
+
+
+Lotka-Volterra方程式に対して，[scipy.integrate.odeint](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.odeint.html)と比較した．
+![lotka-volterra](/assets/img/math/lotka-volterra.png)
 
 ## 参考
 - [ODE Solver Research](https://www.probabilistic-numerics.org/research/ode/)
