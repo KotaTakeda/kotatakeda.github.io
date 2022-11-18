@@ -51,7 +51,7 @@ Uncertainty Quantification(UQ), mathematical fluid dynamics, Topological Flow Da
 
 [in Japanese >>](/#cv)
 
-### Funds
+### Funding and Awards
 [in Japanese >>](/#研究費等採択)
 
 ### Presentations
