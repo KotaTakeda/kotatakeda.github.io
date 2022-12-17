@@ -71,7 +71,7 @@ UQ，数理流体力学，2次元乱流，トポロジカルフローデータ�
   - 2022年 10月15日 : (口頭，招待) 応用数学フレッシュマンセミナー2022「UQと数理流体力学からはじめる学際研究の可能性」[リンク](https://sites.google.com/view/freshman-seminar2022) / [スライド](/math/pdf/freshman2022_slide.pdf)
   - 2022年 10月27日 : (ポスター) 大学院教育支援機構奨励研究員及びフェローシップ受給者によるポスター発表会・研究交流会 「UQと数理流体力学からはじめる学際研究の可能性」[リンク](https://www.kugd.k.kyoto-u.ac.jp/news/477.html)
   - 2022年 12月9日 : (口頭，招待) 第99回金沢解析セミナー「球面上の平均場方程式に対するHMCを用いたモンテカルロアプローチ」[リンク](http://math.w3.kanazawa-u.ac.jp/wp/2022/11/17/kas99/)
-
+  - 2022年 12月17日 : (口頭) 2022年度応用数学合同研究集会「HMCによる球面上N点渦系不変測度の計算」[リンク](https://www.mathsoc.jp/section/appliedmath/CAM/2022/)
 
 <!-- Publication -->
 <!-- Awards and Achievements -->
