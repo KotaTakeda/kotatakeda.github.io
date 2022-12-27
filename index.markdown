@@ -91,6 +91,8 @@ UQ，数理流体力学，2次元乱流，トポロジカルフローデータ�
   |2022年 7月11日~7月15日| Short Course on Data Assimilation (Imperial College London) オンライン参加|
   |2022年 9月25日~9月30日| SIAM Conference (Mathematics of Data Science 2022 @ San Diego) 参加|
   |2022年 9月30日| OLCF Hands-On HPC course (in SIAM Conference) 修了 |
+  |2022年度~| SIAM Student Chapter Kyoto (President)| 
+  <!-- TODO: SIAM SC kyotoのリンクとstudent chapterのリンク -->
 
 ### アウトリーチ
 
