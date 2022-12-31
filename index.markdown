@@ -9,6 +9,9 @@
 layout: page
 title: 竹田航太の個人サイト
 ---
+
+<!-- ## main -->
+
 [English page >>](/en)
 
 京都大学 大学院理学研究科 数学・数理解析専攻 数学系 博士後期課程\\
@@ -16,11 +19,6 @@ title: 竹田航太の個人サイト
 
 理化学研究所 計算科学研究センター データ同化研究チーム 大学院生リサーチ・アソシエイト\\
 *kota.takeda[at]riken.jp*
-
-## 目次
-- [研究内容](#研究内容)
-- [C.V.](#cv)
-- [活動](#活動)
 
 <!-- ## 業績 -->
 
@@ -92,6 +90,7 @@ UQ，数理流体力学，2次元乱流，トポロジカルフローデータ�
   |2022年 9月25日~9月30日| SIAM Conference (Mathematics of Data Science 2022 @ San Diego) 参加|
   |2022年 9月30日| OLCF Hands-On HPC course (in SIAM Conference) 修了 |
   |2022年度~| SIAM Student Chapter Kyoto (President)| 
+  
   <!-- TODO: SIAM SC kyotoのリンクとstudent chapterのリンク -->
 
 ### アウトリーチ

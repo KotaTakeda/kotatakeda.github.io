@@ -132,6 +132,20 @@
 //   }
 // }
 
+ul.sidebar {
+  position: sticky;
+  top: $spacing-unit;
+  margin-left: calc(-#{$spacing-unit} * 3 - 200px);
+  padding: $spacing-unit;
+  float: left;
+  width: 200px;
+  // background-color: darken($background-color, 5);
+
+  li {
+    list-style: none;
+  }
+}
+
 .math-graphics {
   p img {
     width: 540px;
