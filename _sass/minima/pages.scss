@@ -132,12 +132,14 @@
 //   }
 // }
 
-ul.sidebar {
+ul.sidebar-right {
   position: sticky;
-  top: $spacing-unit;
-  margin-left: calc(-#{$spacing-unit} * 3 - 200px);
+  top: 0;
+  // margin-left: calc(-#{$spacing-unit} * 3 - 200px);
+  // float: left;
+  margin-right: calc(-#{$spacing-unit} * 3 - 200px);
+  float: right;
   padding: $spacing-unit;
-  float: left;
   width: 200px;
   // background-color: darken($background-color, 5);
 
@@ -149,5 +151,28 @@ ul.sidebar {
 .math-graphics {
   p img {
     width: 540px;
+  }
+}
+
+.sidebar-left {
+  position: sticky;
+  top: 0;
+  margin-left: calc(-#{$spacing-unit} * 3 - 200px);
+  float: left;
+  padding: 10px;
+  width: 200px;
+
+  // background-color: darken($background-color, 5);
+}
+
+.personal-panel {
+  h1 {
+    text-align: center;
+  }
+  .small-text {
+    font-size: small;
+  }
+  .social-icons {
+    padding: $spacing-unit 10px;
   }
 }

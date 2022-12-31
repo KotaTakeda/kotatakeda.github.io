@@ -7,7 +7,7 @@
 # title: home
 
 layout: page
-title: 竹田航太の個人サイト
+title: About
 ---
 
 <!-- ## main -->
