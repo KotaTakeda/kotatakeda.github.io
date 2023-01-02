@@ -6,13 +6,6 @@ dir: /math/
 tags: "UQ"
 description: "Probabilistic ODE Solver"
 ---
-
-## 目次
-- [Key word](#key-word)
-- [概要](#概要)
-- [実装](#実装)
-- [参考](#参考)
-
 ## Key word
 - ODE
 - Probabilistic Numerics

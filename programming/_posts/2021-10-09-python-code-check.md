@@ -6,13 +6,6 @@ dir: /programming/
 tags: ['Python', 'メモ']
 description: "Python コードチェックまとめ． vscodeでの設定"
 ---
-
-## 目次
-- [Key word](#key-word)
-- [はじめに](#はじめに)
-- [メモ](#メモ)
-- [参考](#参考)
-
 ## Key word
 - Python, Visual Studio Code
 - linter, formatter

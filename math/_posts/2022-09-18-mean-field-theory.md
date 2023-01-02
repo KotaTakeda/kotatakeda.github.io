@@ -6,14 +6,6 @@ dir: /math/
 tags: "統計"
 description: "平均場近似"
 ---
-
-## 目次
-- [Key word](#key-word)
-- [はじめに](#はじめに)
-- [Lions](#lions)
-<!-- - [まとめ](#まとめ) -->
-- [参考](#参考)
-
 ## Key word
 - Mean Field Theory, 平均場近似
 - Lions

@@ -6,16 +6,6 @@ date: 2021-01-03 12:27:00  +0900
 dir: /math/
 tags: ['サンプリング', 'UQ']
 ---
-
-## 目次
-- [Key word](#key-word)
-- [はじめに](#はじめに)
-- [MCMC](#mcmc)
-- [Hamiltonian Monte Carlo](#hamiltonian-monte-carlo)
-- [詳細](#詳細)
-- [まとめ](#まとめ)
-- [参考](#参考)
-
 ## Key word
 - サンプリング, MCMC, ハミルトニアンモンテカルロ(Hamiltonian Monte Carlo: HMC)
 - ハミルトン力学

@@ -6,12 +6,6 @@ dir: /programming/
 tags: ['Web', '教育']
 description: "サイト模写を演習形式でまとめます．"
 ---
-
-## 目次
-- [Key word](#key-word)
-- [はじめに](#はじめに)
-- [注意](#注意)
-
 ## Key word
 - サイト模写
 - HTML, CSS

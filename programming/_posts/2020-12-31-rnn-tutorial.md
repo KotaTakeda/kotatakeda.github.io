@@ -5,15 +5,6 @@ date: 2020-12-31 17:00:00 +0900
 dir: /programming/
 tags: '機械学習'
 ---
-
-## 目次
-- [Key word](#key-word)
-- [はじめに](#はじめに)
-- [コード](#コード)
-- [考察](#考察)
-- [まとめ](#まとめ)
-- [参考](#参考)
-
 ## Key word
 - RNN, 時系列解析
 - Python, Google Colab

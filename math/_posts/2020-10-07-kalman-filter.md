@@ -6,12 +6,6 @@ date: 2020-10-07 23:46:00  +0900
 dir: /math/
 tags: ['データ同化', 'UQ']
 ---
-
-## 目次
-- [Key word](#key-word)
-- [はじめに](#はじめに)
-- [まとめ](#まとめ)
-
 ## Key word
 - データ同化(Data Assamilation: DA)， カルマンフィルタ(Kalman Filter: KF)
 

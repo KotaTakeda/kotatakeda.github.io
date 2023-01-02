@@ -6,13 +6,6 @@ dir: /programming/
 tags: "visualization"
 description: "データ可視化用フォーマットであるVega-Liteによるグラフィックをwebページに埋め込むためのメモ．"
 ---
-
-## 目次
-- [Key word](#key-word)
-- [はじめに](#はじめに)
-- [埋め込み](#うめこみ)
-- [参考](#参考)
-
 ## Key word
 - データ可視化
 - Vega-Lite

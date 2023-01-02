@@ -6,16 +6,6 @@ dir: /programming/
 tags: ['Python', 'visualization']
 description: "Bar Chart RaceというPythonのライブラリを使って時系列データからランキング変動動画を作成します．"
 ---
-
-## 目次
-- [Key word](#key-word)
-- [はじめに](#はじめに)
-- [Quick Start](#quick-start)
-- [自作擬似データ](#自作擬似データ)
-- [サンプルコード](サンプルコード)
-- [まとめ](#まとめ)
-- [参考](#参考)
-
 ## Key word
 - Python, Colab
 - Bar Chart Race

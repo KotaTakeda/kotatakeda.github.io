@@ -6,13 +6,6 @@ dir: /programming/
 tags: ["Latex", "メモ"]
 description: "Latexに関するTipsをまとめています．"
 ---
-
-## 目次
-- [Key word](#key-word)
-- [はじめに](#はじめに)
-- [まとめ](#まとめ)
-- [参考](#参考)
-
 ## Key word
 - Latex
 

@@ -6,14 +6,6 @@ date:   2020-08-20 15:54:00 +0900
 dir: /math/
 tag: ['機械学習', 'UQ']
 ---
-## 目次
-- [Key word](#key-word)
-- [導入](#導入)
-- [Mercer kernel](#mercer-kernel)
-- [Mercerの定理](#mercerの定理)
-- [定理の応用](#定理の応用)
-- [参考](#参考)
-
 ## Key word
 - 統計: カーネルトリック，SVM，PCA
 - 数学: スペクトル理論，Karhunen-Loeve展開

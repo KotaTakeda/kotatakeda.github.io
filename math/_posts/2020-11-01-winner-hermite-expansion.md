@@ -6,15 +6,6 @@ date: 2020-11-01 21:00 +0900
 dir: /math/
 tags: ['スペクトル理論', 'UQ']
 ---
-
-## 目次
-- [Key word](#key-word)
-- [はじめに](#はじめに)
-- [Hermite多項式](#hermite多項式)
-- [Winner-Hermite polynomial chaos expansion](#winner-hermite-polynomial-chaos-expansion)
-- [まとめ](#まとめ)
-- [参考](#参考)
-
 ## Key word
 - Hermite多項式，gPC
 - random ODE
