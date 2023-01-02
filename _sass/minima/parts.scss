@@ -6,6 +6,15 @@ strong {
 
 table {
   font-size: 12px;
+  tr td {
+    &:first-child {
+      min-width: 110px;
+    }
+    &:nth-child(2) {
+      min-width: 70px;
+    }
+  }
+
 }
 
 .site-logo {

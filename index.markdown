@@ -44,53 +44,62 @@ UQ，数理流体力学，2次元乱流，トポロジカルフローデータ�
 
 ## C.V.
 ### 学歴
-  - 2016年 3月 大阪府立住吉高等学校 卒業
-  - 2020年 3月 京都大学 理学部 数学系 卒業
-  - 2022年 3月 京都大学 大学院理学研究科 数学・数理解析専攻　修士課程 修了
-  - 2022年 4月 京都大学 大学院理学研究科 数学・数理解析専攻　博士後期課程 進学
+  - 2022年 4月~現在 京都大学 大学院理学研究科 数学・数理解析専攻　博士後期課程
+  - 2020年 4月~2022年 3月 京都大学 大学院理学研究科 数学・数理解析専攻　修士課程
+  - 2016年 4月~2020年 3月 京都大学 理学部 数学系
+  <!-- - 2016年 3月 大阪府立住吉高等学校 卒業 -->
 
 ### 職歴など
-  - 2019年 9月~2022年3月 株式会社 activo webエンジニア
-  - 2022年 4月~ 京都大学大学院教育支援機構 奨励研究員 [京都大学 大学院教育支援機構プログラム](https://www.kugd.k.kyoto-u.ac.jp/program)
   - 2022年 4月~ 理化学研究所 計算科学研究センター データ同化研究チーム 大学院生リサーチ・アソシエイト(JRA) [JRA 2022](https://www.riken.jp/careers/programs/jra/jra2022/index.html)
+  - 2022年 4月~ 京都大学大学院教育支援機構 奨励研究員 [京都大学 大学院教育支援機構プログラム](https://www.kugd.k.kyoto-u.ac.jp/program)
+  - 2019年 9月~2022年3月 株式会社 activo webエンジニア
 
 ### 研究費等採択
 
 |制度|分野|研究課題名|期間|
 |---|---|---|---|
 |京都大学大学院教育支援機構プログラム 令和4年度（2022年度）|情報・AI|不確実性定量化の数理流体力学への包括的な応用 -渦力学とデータ同化を中心に-|2022年4月 ~ 2025年3月|
-|理化学研究所2022年度大学院生リサーチ・アソシエイト|数理科学（計算科学研究センター データ同化研究チーム）|トポロジカルデータ同化理論の構築|2022年4月~最大3年|
+|理化学研究所2022年度大学院生リサーチ・アソシエイト|数理科学（RCCS データ同化研究チーム）|トポロジカルデータ同化理論の構築|2022年4月~最大3年|
+
+### スキル
+- プログラミング言語 (数値計算) : Python (advanced), C (intermediate)
+- プログラミング言語 (Web開発) : Ruby (advanced), Javascript (advanced)
+- 資格 : 2020年 9月 高等学校教諭一種免許状（数学） 取得
 
 ### 発表
-  - 2021年 2月10日 : (口頭，招待) 第12回 理研・京大データ同化研究会「ハミルトンモンテカルロ法の紹介」[リンク](http://www.data-assimilation.riken.jp/jp/events/ku_ws_202102/index.html) / [スライド](/math/pdf/intro_to_hmc_slide.pdf)
-  - 2022年 3月10日 : (口頭) 応用数理学会　若手の会　第7回学生研究発表会 「流体力学へのUQ的アプローチの事例紹介」[リンク](http://wakate.jsiam.org/?p=68)
-  - 2022年 8月2日 : (口頭，招待) 第7回岡山応用数学セミナー「多様体上HMCの収束定理と乱流統計への応用」[リンク](https://jsiam.org/eguide02/3603/)
-  - 2022年 9月8日 : (口頭) 応用数理学会 2022年度年会 「HMCによるN点渦系の不変測度の構成」[リンク](https://jsiam.org/annual2022/)
-  - 2022年 10月15日 : (口頭，招待) 応用数学フレッシュマンセミナー2022「UQと数理流体力学からはじめる学際研究の可能性」[リンク](https://sites.google.com/view/freshman-seminar2022) / [スライド](/math/pdf/freshman2022_slide.pdf)
-  - 2022年 10月27日 : (ポスター) 大学院教育支援機構奨励研究員及びフェローシップ受給者によるポスター発表会・研究交流会 「UQと数理流体力学からはじめる学際研究の可能性」[リンク](https://www.kugd.k.kyoto-u.ac.jp/news/477.html)
-  - 2022年 12月9日 : (口頭，招待) 第99回金沢解析セミナー「球面上の平均場方程式に対するHMCを用いたモンテカルロアプローチ」[リンク](http://math.w3.kanazawa-u.ac.jp/wp/2022/11/17/kas99/)
-  - 2022年 12月17日 : (口頭) 2022年度応用数学合同研究集会「HMCによる球面上N点渦系不変測度の計算」[リンク](https://www.mathsoc.jp/section/appliedmath/CAM/2022/)
+
+  |年月日|形式|内容|
+  | --- | --- | --- |
+  |2022年 12月17日| 口頭 |2022年度応用数学合同研究集会「HMCによる球面上N点渦系不変測度の計算」[リンク](https://www.mathsoc.jp/section/appliedmath/CAM/2022/)|
+  |2022年 12月9日| 口頭，招待 |第99回金沢解析セミナー「球面上の平均場方程式に対するHMCを用いたモンテカルロアプローチ」[リンク](http://math.w3.kanazawa-u.ac.jp/wp/2022/11/17/kas99/)|
+  |2022年 10月27日| ポスター |大学院教育支援機構奨励研究員及びフェローシップ受給者によるポスター発表会・研究交流会 「UQと数理流体力学からはじめる学際研究の可能性」[リンク](https://www.kugd.k.kyoto-u.ac.jp/news/477.html)|
+  |2022年 10月15日| 口頭，招待 |応用数学フレッシュマンセミナー2022「UQと数理流体力学からはじめる学際研究の可能性」[リンク](https://sites.google.com/view/freshman-seminar2022) / [スライド](/math/pdf/freshman2022_slide.pdf)|
+  |2022年 9月8日| 口頭 |応用数理学会 2022年度年会 「HMCによるN点渦系の不変測度の構成」[リンク](https://jsiam.org/annual2022/)|
+  |2022年 8月2日| 口頭，招待 |第7回岡山応用数学セミナー「多様体上HMCの収束定理と乱流統計への応用」[リンク](https://jsiam.org/eguide02/3603/)|
+  |2022年 3月10日| 口頭 |応用数理学会　若手の会　第7回学生研究発表会 「流体力学へのUQ的アプローチの事例紹介」[リンク](http://wakate.jsiam.org/?p=68)|
+  |2021年 2月10日| 口頭，招待 |第12回 理研・京大データ同化研究会「ハミルトンモンテカルロ法の紹介」[リンク](http://www.data-assimilation.riken.jp/jp/events/ku_ws_202102/index.html) / [スライド](/math/pdf/intro_to_hmc_slide.pdf)|
 
 <!-- Publication -->
 <!-- Awards and Achievements -->
-
-### 資格
-  - 2020年 9月 高等学校教諭一種免許状（数学） 取得
 
 ## 活動
 ### 数学
 
   |年月日|内容|
   | --- | --- |
-  |2020年度 ~ 2021年度| 京都大学 数学TA|
-  |2020年 9月2日~9月30日 | RCCS DAオンラインスクール受講・修了|
-  |2021年 2月22日~3月12日 | RIKEN R-CCS 計算科学インターンシップ・プログラム 2020 参加([詳細](https://www.r-ccs.riken.jp/library/event/200604/))|
-  |2021年 6月16日~3月31日| 京都大学 OA（JST未来社会創造事業 TFDA）|
-  |2022年 7月11日~7月15日| Short Course on Data Assimilation (Imperial College London) オンライン参加|
-  |2022年 9月25日~9月30日| SIAM Conference (Mathematics of Data Science 2022 @ San Diego) 参加|
-  |2022年 9月30日| OLCF Hands-On HPC course (in SIAM Conference) 修了 |
   |2022年度~| SIAM Student Chapter Kyoto (President)| 
+  |2021年 6月16日~3月31日| 京都大学 OA（JST未来社会創造事業 TFDA）|
+  |2020年度 ~ 2021年度| 京都大学 数学TA|
   
+### 計算
+
+  |年月日|内容|
+  | --- | --- |
+  |2022年 9月30日| OLCF Hands-On HPC course, SIAM Conference MDS22, SanDiego 修了|
+  |2022年 7月11日~7月15日| Short Course on Data Assimilation, Imperial College London, online 修了|
+  |2021年 2月22日~3月12日 | RIKEN R-CCS 計算科学インターンシップ・プログラム 2020 参加 ([詳細](https://www.r-ccs.riken.jp/library/event/200604/))|
+  |2020年 9月2日~9月30日 | RCCS DAオンラインスクール受講・修了|
+
   <!-- TODO: SIAM SC kyotoのリンクとstudent chapterのリンク -->
 
 ### アウトリーチ
