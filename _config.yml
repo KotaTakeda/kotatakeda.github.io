@@ -76,6 +76,12 @@ kramdown:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: /:categories/posts/:title
 ############################################################
 # ref: https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
 # Site configuration for the Jekyll 3 Pagination Gem
