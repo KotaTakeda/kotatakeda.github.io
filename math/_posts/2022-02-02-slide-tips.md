@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "スライド作成のヒント"
-date: 2022-02-02 20:36 +0900
+title: "プレゼンテーションのヒント"
+date: 2023-01-12 21:54 +0900
 dir:
 tags: ["研究", "プレゼンテーション", "リンク", "メモ"]
-description: "スライド作成に関するヒントをまとめます．"
+description: "プレゼンテーションに関するヒントをまとめます．"
 ---
 ## Key word
 - プレゼンテーション，スライド
@@ -38,16 +38,28 @@ description: "スライド作成に関するヒントをまとめます．"
 ## ツール
 目的や内容に合わせて使い分ける．
 
-### スライド作成
-- PowerPoint/Google Slides：一応，数式も打てる．
+### スライド
+簡単なものから順に
+- GoodNotes/One Note（タブレット）：手書きの発表で用いる．
+- [marp](https://marp.app/): markdownをスライドに変換．VS Codeのプラグインもある．
 - Latex Beamer：数式の多い発表で用いる．
-- GoodNotes/One Note（タブレット）：定例のセミナーなど手書きの発表で用いる．
+- Google Slides: オンラインが前提．
+- PowerPoint/Keynotes：一応，数式も打てる．
+- [miro](https://miro.com/ja/): 大きなボード上を移動しながプレゼン
+- [canva](https://www.canva.com/ja_jp/create/presentations/): 綺麗なデザイン．
 
 ### 準備
 - GoodNote/One Note（タブレット）：発表の構成やスライドのスケッチを考える．
 - Word/Google Docs：原稿を作成する．
 
-### 発表
+### 発表時
 - PowerPoint/Google Slides（PC）
 - PowerPoint（タブレット）：PCと接続する．手書きの注釈を入れられる．
 - GoodNotes（タブレット）：PDFもしくは手書きの資料を共有し，手書きの注釈とともに発表する．
+
+### polls
+- [slido](https://www.slido.com/jp): 投票結果をリアルタイムでスライドに表示できる．google slideやPowerpointのプラグインがある．
+
+
+## 更新
+- 2022-02-02
