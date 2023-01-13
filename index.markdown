@@ -70,6 +70,7 @@ UQ，数理流体力学，2次元乱流，トポロジカルフローデータ�
 
   |年月日|形式|内容|
   | --- | --- | --- |
+  |2023年 1月9日| ポスター，招待 | East Asian Core Doctoral Forum on Mathematics 2023 in Taiwan |
   |2022年 12月17日| 口頭 |2022年度応用数学合同研究集会「HMCによる球面上N点渦系不変測度の計算」[リンク](https://www.mathsoc.jp/section/appliedmath/CAM/2022/)|
   |2022年 12月9日| 口頭，招待 |第99回金沢解析セミナー「球面上の平均場方程式に対するHMCを用いたモンテカルロアプローチ」[リンク](http://math.w3.kanazawa-u.ac.jp/wp/2022/11/17/kas99/)|
   |2022年 10月27日| ポスター |大学院教育支援機構奨励研究員及びフェローシップ受給者によるポスター発表会・研究交流会 「UQと数理流体力学からはじめる学際研究の可能性」[リンク](https://www.kugd.k.kyoto-u.ac.jp/news/477.html)|
@@ -78,6 +79,8 @@ UQ，数理流体力学，2次元乱流，トポロジカルフローデータ�
   |2022年 8月2日| 口頭，招待 |第7回岡山応用数学セミナー「多様体上HMCの収束定理と乱流統計への応用」[リンク](https://jsiam.org/eguide02/3603/)|
   |2022年 3月10日| 口頭 |応用数理学会　若手の会　第7回学生研究発表会 「流体力学へのUQ的アプローチの事例紹介」[リンク](http://wakate.jsiam.org/?p=68)|
   |2021年 2月10日| 口頭，招待 |第12回 理研・京大データ同化研究会「ハミルトンモンテカルロ法の紹介」[リンク](http://www.data-assimilation.riken.jp/jp/events/ku_ws_202102/index.html) / [スライド](/math/pdf/intro_to_hmc_slide.pdf)|
+
+  <!-- TODO: contributorリスト -->
 
 <!-- Publication -->
 <!-- Awards and Achievements -->
