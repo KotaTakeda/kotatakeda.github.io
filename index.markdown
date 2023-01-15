@@ -7,9 +7,8 @@
 # title: home
 
 layout: page
-title: About
+title: About me
 ---
-
 <!-- ## main -->
 
 [English page >>](/en)

@@ -2,11 +2,14 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
+  // border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
   background-color: $header-color;
   font-family: $accent-font-family;
+  .site-header-content {
+    margin: 0 $spacing-unit;
+  }
 }
 
 .site-title {

@@ -17,6 +17,21 @@ table {
 
 }
 
+.site-header{
+  &.about-me {
+  background: url("../../assets/img/math/uq_picture.png");
+  background-color: lighten($main-color, 30%);
+  background-blend-mode: lighten;
+  position: relative;
+  width: 100%;
+  min-height: 15rem;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+  }
+}
+
 .site-logo {
   font-family: $accent-font-family !important;
   // font-family: $script-font-family !important;
@@ -83,6 +98,6 @@ table {
 .site-footer {
   background-image: url("../../assets/img/math/uq_picture.png");
   background-color: lighten($main-color, 30%);
-  background-blend-mode: lighten;
+  background-blend-mode: luminosity;
   background-size: cover;
 }
