@@ -30,6 +30,7 @@ description: "数学PDF"
 
 ## データ同化
 - [Kalman Filter](pdf/kalman_filter.pdf)
+- [DA with Wasserstein distance](pdf/wasserstein_da.pdf)
 
 ## データ解析
 - [EDMD](pdf/edmd.pdf)
