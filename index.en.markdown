@@ -7,7 +7,7 @@
 # title: home
 
 layout: page
-title: Home
+title: About me
 permalink: /en/
 ---
 Welcome to Kota Takeda's home page! [Japanese page >>](/)
