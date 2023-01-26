@@ -54,6 +54,7 @@ UQ，数理流体力学，2次元乱流，トポロジカルフローデータ�
   - 2019年 9月~2022年3月 株式会社 activo webエンジニア
 
 ### 研究費等採択
+<!-- Awards and Achievements -->
 
 |制度|分野|研究課題名|期間|
 |---|---|---|---|
@@ -69,7 +70,7 @@ UQ，数理流体力学，2次元乱流，トポロジカルフローデータ�
 
   |年月日|形式|内容|
   | --- | --- | --- |
-  |2023年 1月24日|口頭，招待|Conference 'Mathematical Structure in Quantum Fluids' at OCAMI, "A Monte Carlo approach to the N-vortex problem on the unit sphere" at Osaka Metropolitan University|
+  |2023年 1月24日|口頭，招待|Conference 'Mathematical Structure in Quantum Fluids', "A Monte Carlo approach to the N-vortex problem on the unit sphere" at Osaka Metropolitan University|
   |2023年 1月9日| ポスター，招待 |East Asian Core Doctoral Forum on Mathematics 2023 "Efficient sampling method on compact manifolds and its application to turbulent statistics on the unit sphere" at Taiwan National University |
   |2022年 12月17日| 口頭 |2022年度応用数学合同研究集会「HMCによる球面上N点渦系不変測度の計算」[リンク](https://www.mathsoc.jp/section/appliedmath/CAM/2022/)|
   |2022年 12月9日| 口頭，招待 |第99回金沢解析セミナー「球面上の平均場方程式に対するHMCを用いたモンテカルロアプローチ」[リンク](http://math.w3.kanazawa-u.ac.jp/wp/2022/11/17/kas99/)|
@@ -82,8 +83,9 @@ UQ，数理流体力学，2次元乱流，トポロジカルフローデータ�
 
   <!-- TODO: contributorリスト -->
 
-<!-- Publication -->
-<!-- Awards and Achievements -->
+### Publications
+- K. Takeda and T. Sakajo, Geometric ergodicity for Hamiltonian Monte Carlo on compact manifolds, submitted (2022)
+
 
 ## 活動
 ### 数学
