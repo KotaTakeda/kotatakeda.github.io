@@ -49,8 +49,8 @@ UQ，数理流体力学，2次元乱流，トポロジカルフローデータ�
   <!-- - 2016年 3月 大阪府立住吉高等学校 卒業 -->
 
 ### 職歴など
-  - 2022年 4月~ 理化学研究所 計算科学研究センター データ同化研究チーム 大学院生リサーチ・アソシエイト(JRA) [JRA 2022](https://www.riken.jp/careers/programs/jra/jra2022/index.html)
-  - 2022年 4月~ 京都大学大学院教育支援機構 奨励研究員 [京都大学 大学院教育支援機構プログラム](https://www.kugd.k.kyoto-u.ac.jp/program)
+  - 2022年 4月~現在 理化学研究所 計算科学研究センター データ同化研究チーム 大学院生リサーチ・アソシエイト(JRA) [JRA 2022](https://www.riken.jp/careers/programs/jra/jra2022/index.html)
+  - 2022年 4月~現在 京都大学大学院教育支援機構 奨励研究員 [京都大学 大学院教育支援機構プログラム](https://www.kugd.k.kyoto-u.ac.jp/program)
   - 2019年 9月~2022年3月 株式会社 activo webエンジニア
 
 ### 研究費等採択
@@ -70,16 +70,17 @@ UQ，数理流体力学，2次元乱流，トポロジカルフローデータ�
 
   |年月日|形式|内容|
   | --- | --- | --- |
+  |2023年 2月6日|ポスター|[The 5th R-CCS International Symposium](https://www.r-ccs.riken.jp/R-CCS-Symposium/2023/), "Computing the invariant measure of the N-vortex problem on the unit sphere" at R-CCS|
   |2023年 1月24日|口頭，招待|Conference 'Mathematical Structure in Quantum Fluids', "A Monte Carlo approach to the N-vortex problem on the unit sphere" at Osaka Metropolitan University|
-  |2023年 1月9日| ポスター，招待 |East Asian Core Doctoral Forum on Mathematics 2023 "Efficient sampling method on compact manifolds and its application to turbulent statistics on the unit sphere" at Taiwan National University |
-  |2022年 12月17日| 口頭 |2022年度応用数学合同研究集会「HMCによる球面上N点渦系不変測度の計算」[リンク](https://www.mathsoc.jp/section/appliedmath/CAM/2022/)|
-  |2022年 12月9日| 口頭，招待 |第99回金沢解析セミナー「球面上の平均場方程式に対するHMCを用いたモンテカルロアプローチ」[リンク](http://math.w3.kanazawa-u.ac.jp/wp/2022/11/17/kas99/)|
-  |2022年 10月27日| ポスター |大学院教育支援機構奨励研究員及びフェローシップ受給者によるポスター発表会・研究交流会 「UQと数理流体力学からはじめる学際研究の可能性」[リンク](https://www.kugd.k.kyoto-u.ac.jp/news/477.html)|
-  |2022年 10月15日| 口頭，招待 |応用数学フレッシュマンセミナー2022「UQと数理流体力学からはじめる学際研究の可能性」[リンク](https://sites.google.com/view/freshman-seminar2022) / [スライド](/math/pdf/freshman2022_slide.pdf)|
-  |2022年 9月8日| 口頭 |応用数理学会 2022年度年会 「HMCによるN点渦系の不変測度の構成」[リンク](https://jsiam.org/annual2022/)|
-  |2022年 8月2日| 口頭，招待 |第7回岡山応用数学セミナー「多様体上HMCの収束定理と乱流統計への応用」[リンク](https://jsiam.org/eguide02/3603/)|
-  |2022年 3月10日| 口頭 |応用数理学会　若手の会　第7回学生研究発表会 「流体力学へのUQ的アプローチの事例紹介」[リンク](http://wakate.jsiam.org/?p=68)|
-  |2021年 2月10日| 口頭，招待 |第12回 理研・京大データ同化研究会「ハミルトンモンテカルロ法の紹介」[リンク](http://www.data-assimilation.riken.jp/jp/events/ku_ws_202102/index.html) / [スライド](/math/pdf/intro_to_hmc_slide.pdf)|
+  |2023年 1月9日| ポスター，招待 |[East Asian Core Doctoral Forum on Mathematics 2023](https://www.mathsoc.jp/section/appliedmath/CAM/2022/), "Efficient sampling method on compact manifolds and its application to turbulent statistics on the unit sphere" at Taiwan National University |
+  |2022年 12月17日| 口頭 |2022年度応用数学合同研究集会「HMCによる球面上N点渦系不変測度の計算」|
+  |2022年 12月9日| 口頭，招待 |[第99回金沢解析セミナー](http://math.w3.kanazawa-u.ac.jp/wp/2022/11/17/kas99/)「球面上の平均場方程式に対するHMCを用いたモンテカルロアプローチ」|
+  |2022年 10月27日| ポスター |[大学院教育支援機構奨励研究員及びフェローシップ受給者によるポスター発表会・研究交流会](https://www.kugd.k.kyoto-u.ac.jp/news/477.html)「UQと数理流体力学からはじめる学際研究の可能性」|
+  |2022年 10月15日| 口頭，招待 |[応用数学フレッシュマンセミナー2022](https://sites.google.com/view/freshman-seminar2022)「UQと数理流体力学からはじめる学際研究の可能性」/ [スライド](/math/pdf/freshman2022_slide.pdf)|
+  |2022年 9月8日| 口頭 |[応用数理学会 2022年度年会](https://jsiam.org/annual2022/)「HMCによるN点渦系の不変測度の構成」|
+  |2022年 8月2日| 口頭，招待 |[第7回岡山応用数学セミナー](https://jsiam.org/eguide02/3603/)「多様体上HMCの収束定理と乱流統計への応用」|
+  |2022年 3月10日| 口頭 |[応用数理学会　若手の会　第7回学生研究発表会](http://wakate.jsiam.org/?p=68):「流体力学へのUQ的アプローチの事例紹介」|
+  |2021年 2月10日| 口頭，招待 |[第12回 理研・京大データ同化研究会](http://www.data-assimilation.riken.jp/jp/events/ku_ws_202102/index.html)「ハミルトンモンテカルロ法の紹介」 / [スライド](/math/pdf/intro_to_hmc_slide.pdf)|
 
   <!-- TODO: contributorリスト -->
 
