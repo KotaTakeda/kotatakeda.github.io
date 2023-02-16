@@ -70,6 +70,7 @@ UQ，数理流体力学，2次元乱流，トポロジカルフローデータ�
 
   |年月日|形式|内容|
   | --- | --- | --- |
+  |2023年 2月15日| 口頭，招待 |[第14回 理研・京大データ同化研究会](http://www.data-assimilation.riken.jp/jp/events/ku_ws_202302/) 「トポロジカルデータ同化理論の構築について」|
   |2023年 2月6日|ポスター|[The 5th R-CCS International Symposium](https://www.r-ccs.riken.jp/R-CCS-Symposium/2023/), "Computing the invariant measure of the N-vortex problem on the unit sphere" at R-CCS|
   |2023年 1月24日|口頭，招待|Conference 'Mathematical Structure in Quantum Fluids', "A Monte Carlo approach to the N-vortex problem on the unit sphere" at Osaka Metropolitan University|
   |2023年 1月9日| ポスター，招待 |[East Asian Core Doctoral Forum on Mathematics 2023](https://www.mathsoc.jp/section/appliedmath/CAM/2022/), "Efficient sampling method on compact manifolds and its application to turbulent statistics on the unit sphere" at Taiwan National University |
