@@ -30,6 +30,7 @@ description: "数学PDF"
 
 ## データ同化
 - [DA mathematical review](pdf/da_math.pdf)
+- [DA dynamical model](pdf/dynamical_model.pdf)
 - [Kalman Filter](pdf/kalman_filter.pdf)
 - [DA with Wasserstein distance](pdf/wasserstein_da.pdf)
 
