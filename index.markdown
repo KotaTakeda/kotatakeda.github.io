@@ -97,7 +97,7 @@ UQ，数理流体力学，2次元乱流，トポロジカルフローデータ�
 
   |年月日|内容|
   | --- | --- |
-  |2022年度~| SIAM Student Chapter Kyoto (President)| 
+  |2022年度~| [SIAM Student Chapter Kyoto](https://sites.google.com/view/siam-sc-kyoto/home) (President)| 
   |2021年 6月16日~3月31日| 京都大学 OA（JST未来社会創造事業 TFDA）|
   |2020年度 ~ 2021年度| 京都大学 数学TA|
   
