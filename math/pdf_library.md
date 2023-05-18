@@ -33,6 +33,7 @@ description: "数学PDF"
 - [DA dynamical model](pdf/dynamical_model.pdf)
 - [Kalman Filter](pdf/kalman_filter.pdf)
 - [DA with Wasserstein distance](pdf/wasserstein_da.pdf)
+- [Particle Filter and related methods](pdf/particle_filter.pdf)
 
 ## データ解析
 - [EDMD](pdf/edmd.pdf)
