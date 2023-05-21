@@ -12,6 +12,7 @@ description: "数学PDF"
 - [Spectral Expansions](pdf/chapter11.pdf)
 - [Stochastic Galerkin](pdf/chapter12.pdf)
 - [Markov Chain and Geometric Ergodicity](pdf/markov_chain.pdf)
+- [Stochastic Process and SDE](pdf/stochastic_process.pdf)
 - [Presentability of symmetric measures](pdf/presentability.pdf)
 
 ## 流体
