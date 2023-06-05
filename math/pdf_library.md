@@ -26,7 +26,7 @@ description: "数学PDF"
 - [Stochastic Gradient Hamiltonian Monte Carlo](pdf/sghmc.pdf)
 - [Monitoring of HMC Sampling](pdf/monitoring_hmc.pdf)
 - [Adaptive Tuning Parameters on HMC](pdf/adaptive_hmc.pdf)
-- スライド
+- slide:
   - [Slide of introduction to Hamiltonian Monte Carlo](pdf/intro_to_hmc_slide.pdf)
 
 ## データ同化
@@ -35,6 +35,8 @@ description: "数学PDF"
 - [Kalman Filter](pdf/kalman_filter.pdf)
 - [DA with Wasserstein distance](pdf/wasserstein_da.pdf)
 - [Particle Filter and related methods](pdf/particle_filter.pdf)
+- slide:
+  - [DA review slide on 20230311](pdf/da_math_slide20230311.pdf)
 
 ## データ解析
 - [EDMD](pdf/edmd.pdf)
