@@ -30,7 +30,7 @@ description: "数学PDF"
   - [Slide of introduction to Hamiltonian Monte Carlo](pdf/intro_to_hmc_slide.pdf)
 
 ## データ同化
-- [DA mathematical review](pdf/da_math.pdf)
+- [DA mathematical review](pdf/da_review.pdf)
 - [DA dynamical model](pdf/dynamical_model.pdf)
 - [Kalman Filter](pdf/kalman_filter.pdf)
 - [DA with Wasserstein distance](pdf/wasserstein_da.pdf)
