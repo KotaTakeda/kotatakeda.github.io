@@ -76,6 +76,7 @@ UQ，数理流体力学，2次元乱流，トポロジカルフローデータ�
 
   |年月日|形式|内容|
   | --- | --- | --- |
+  |2023年 11月6~8日(up coming)|口頭|[Twentieth International Conference on Flow Dynamics](https://www.ifs.tohoku.ac.jp/icfd/2023/index.html), "A Monte Carlo approach to the N-vortex problem on the unit sphere"|
   |2023年 8月22日(up coming)|口頭，招待|[ICIAM, SIAM Student Chapter Research Presentations](https://iciam2023.org/registered_data?id=00793), "Computing the invariant measure of the N-vortex problem on the sphere by Hamiltonian Monte Carlo" at Waseda University|
   |2023年 7月31日(up coming)|ポスター|[TDA week 2023](https://sites.google.com/view/tdaweek2023/home), "Topological Regularization in Numerical Simulation" at Kyoto University|
   |2023年 6月17日(up coming)|ポスター|[京大 応用数理 学生ポスター発表会](https://sites.google.com/view/siam-sc-kyoto/event/poster2023)「データ同化の数理」|
