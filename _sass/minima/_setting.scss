@@ -17,18 +17,29 @@ $spacing-unit:     30px !default;
 // UQ and MFD
 // $base-color: #fff;
 // $main-color: #227;
-// $accent-color: #fe6ce9;
+// $accent-color: #f9b5de;
+// summer
+$base-color: #fff;
+$main-color: #303050;
+$accent-color: #46cbc3;
 // cafe
 // $base-color: #f8f1ee;
 // $main-color: #614e45;
 // $accent-color: #f89d68;
 // winter
-$base-color: #fff;
-$main-color: #333;
-$accent-color: #59d;
-
+// $base-color: #fff;
+// $main-color: #333;
+// $accent-color: #59d;
+// dark-theme
+$is-dark-theme: false;
+// $base-color: #333;
+// $main-color: #7a90f5;
+// $accent-color: #46cbc3;
 
 $text-color:       #333 !default;
+@if $is-dark-theme {
+  $text-color:       #fff !default;
+}
 $background-color: $base-color !default;
 $brand-color:      $main-color !default;
 

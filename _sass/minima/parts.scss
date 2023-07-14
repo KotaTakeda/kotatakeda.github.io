@@ -19,16 +19,23 @@ table {
 
 .site-header{
   &.about-me {
-  background: url("../../assets/img/math/uq_picture.png");
-  background-color: lighten($main-color, 30%);
-  background-blend-mode: lighten;
-  position: relative;
-  width: 100%;
-  min-height: 15rem;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: scroll;
-  background-size: cover;
+    .site-header-bg {
+      position: relative;
+      margin-top: -2*$spacing-unit;
+      width: 100%;
+      min-height: 15rem;
+      opacity: 0.8;
+      background: url("../../assets/img/math/uq_picture.png");
+      background-color: lighten($main-color, 30%);
+      background-position: center;
+      background-repeat: no-repeat;
+      background-attachment: scroll;
+      background-size: cover;
+      background-blend-mode: lighten;
+      @if $is-dark-theme {
+        background-blend-mode: darken;
+      }
+    }
   }
 }
 
@@ -47,11 +54,14 @@ table {
 }
 
 .main-button {
-  border-radius: 5px;
+  border-radius: 3px;
   &:hover {
     @include with-shadow;
-    border: 1px solid #aaa;
+    // border: 1px solid #aaa;
     outline-offset: -1px;
+    border-bottom: 2px solid $main-color;
+    color: $main-color !important;
+    font-weight: bold;
   }
 }
 
@@ -98,6 +108,10 @@ table {
 .site-footer {
   background-image: url("../../assets/img/math/uq_picture.png");
   background-color: lighten($main-color, 30%);
-  background-blend-mode: luminosity;
+  // background-blend-mode: luminosity;
   background-size: cover;
+  background-blend-mode: screen;
+  @if $is-dark-theme {
+    background-blend-mode: difference;
+  }
 }

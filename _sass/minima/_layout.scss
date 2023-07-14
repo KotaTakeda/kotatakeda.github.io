@@ -5,10 +5,15 @@
   // border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
-  background-color: $header-color;
+  // background-color: $header-color;
   font-family: $accent-font-family;
   .site-header-content {
-    margin: 0 $spacing-unit;
+    z-index: 2;
+    position: relative;
+    height: $spacing-unit*2;
+    padding: 0 $spacing-unit;
+    background-color: $base-color;
+    opacity: 0.7;
   }
 }
 

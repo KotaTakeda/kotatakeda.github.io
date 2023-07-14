@@ -2,7 +2,6 @@
   <!-- !: todo default等に移動してglobal変数にする -->
   {%- assign lang = page.name | split: "." -%} <!-- 英語ページは filename.en.md となっているとする．-->
   {%- assign lang = lang[-2] -%}
-
   <div class="site-header-content">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
@@ -34,4 +33,5 @@
       </nav>
     {%- endif -%}
   </div>
+  <div class="site-header-bg"></div>
 </header>

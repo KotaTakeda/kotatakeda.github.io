@@ -121,7 +121,10 @@ a {
   text-decoration: none;
 
   &:visited {
-    color: darken($accent-color, 40%);
+    color: darken($accent-color, 20%);
+    @if $is-dark-theme {
+      color: lighten($accent-color, 10%);
+    }
   }
 
   &:hover {
