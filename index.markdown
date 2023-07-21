@@ -76,7 +76,7 @@ UQ，数理流体力学，2次元乱流，トポロジカルフローデータ�
   |年月日|形式|内容|
   | --- | --- | --- |
   |2023年 11月6~8日 **(up coming)**|口頭|[Twentieth International Conference on Flow Dynamics](https://www.ifs.tohoku.ac.jp/icfd/2023/index.html), "A Monte Carlo approach to the N-vortex problem on the unit sphere"|
-  |2023年8月30日 **(up coming)**|ポスター|[14th Data Assimilation workshop](http://www.data-assimilation.riken.jp/en/events/riken_da_ws_2023/index.html), "Ensemble filter with the optimal transport of gaussian mixture distributions", R-CCS, Kobe|
+  |2023年8月30日 **(up coming)**|ポスター|[14th Data Assimilation workshop](http://www.data-assimilation.riken.jp/en/events/riken_da_ws_2023/index.html), "Mathematical analysis of the ensemble transform Kalman filter with covariance inflation", R-CCS, Kobe|
   |2023年8月29日 **(up coming)**|口頭，招待|[IMT-Atlantique & Kyoto University & RIKEN joint Data Assimilation workshop](http://www.data-assimilation.riken.jp/en/events/imt_ku_ws_202308/index.html), "Ensemble filter with the optimal transport of gaussian mixture distributions", R-CCS, Kobe|
   |2023年 8月22日 **(up coming)**|口頭，招待|[ICIAM, SIAM Student Chapter Research Presentations](https://iciam2023.org/registered_data?id=00793), "Computing the invariant measure of the N-vortex problem on the sphere by Hamiltonian Monte Carlo" at Waseda University|
   |2023年 7月31日 **(up coming)**|ポスター|[TDA week 2023](https://sites.google.com/view/tdaweek2023/home), "Topological Regularization in Numerical Simulation" at Kyoto University|
@@ -99,7 +99,7 @@ UQ，数理流体力学，2次元乱流，トポロジカルフローデータ�
   <!-- TODO: contributorリスト -->
 
 ### Publications
-- K. Takeda and T. Sakajo, Geometric ergodicity for Hamiltonian Monte Carlo on compact manifolds, submitted (2022)
+- K. Takeda and T. Sakajo, Geometric ergodicity for Hamiltonian Monte Carlo on compact manifolds, in review (2022)
 
 
 ## 活動
@@ -127,6 +127,7 @@ UQ，数理流体力学，2次元乱流，トポロジカルフローデータ�
   |年月日|内容|
   | --- | --- |
   |2021年6月~|NPO法人 clack 高校生へのプログラミング教育支援 ボランティア|
+  |2023年8月5日|(up coming) ポスター発表 超異分野学会「データ同化の数理と応用」|
   |2023年5月15日|大阪府立住吉高校 探究活動TA|
   |2023年1月29日|サイエンスキャッスル2022 関西大会 ポスター発表審査員|
   |2022年10月20日|大阪府立住吉高校 講演「課題研究について」|
