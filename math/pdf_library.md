@@ -23,6 +23,7 @@ description: "数学PDF"
 - [Survey of Hamiltonian Monte Carlo](pdf/intro_to_hmc.pdf)
 - [Map of Hamiltonian Monte Carlo](pdf/map_of_hmc.pdf)
 - [Geometric Ergodicity of Hamiltnian Monte Carlo](pdf/geometric_ergodicity_hmc.pdf)
+- [Spherical HMC](pdf/spherical_hmc.pdf)
 - [Stochastic Gradient Hamiltonian Monte Carlo](pdf/sghmc.pdf)
 - [Monitoring of HMC Sampling](pdf/monitoring_hmc.pdf)
 - [Adaptive Tuning Parameters on HMC](pdf/adaptive_hmc.pdf)
