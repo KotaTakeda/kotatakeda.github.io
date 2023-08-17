@@ -194,8 +194,13 @@
     margin: $spacing-unit 0 $spacing-unit*2/3 0;
     border-bottom: solid 1px $grey-color;
   }
-  h3 {
-    /* color: lighten($main-color, 30%);*/
+  // h3 {
+  //   /* color: lighten($main-color, 30%);*/
+  // }
+
+  h4 {
+    // color: lighten($brand-color, 40);
+    font-weight: bold;
   }
 }
 
