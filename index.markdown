@@ -79,7 +79,7 @@ title: About me
   |2023年 9月6日 **(up coming)**|ポスター|RIKEN 2023 Summer School, "Mathematical Approach to Data Assimilation Problem"|
   |2023年 8月30日 **(up coming)**|ポスター|[14th Data Assimilation workshop](http://www.data-assimilation.riken.jp/en/events/riken_da_ws_2023/index.html), "Mathematical analysis of the ensemble transform Kalman filter with covariance inflation", R-CCS, Kobe|
   |2023年 8月29日 **(up coming)**|口頭，招待|[IMT-Atlantique & Kyoto University & RIKEN joint Data Assimilation workshop](http://www.data-assimilation.riken.jp/en/events/imt_ku_ws_202308/index.html), "Ensemble filter with the optimal transport of gaussian mixture distributions", R-CCS, Kobe|
-  |2023年 8月22日 **(up coming)**|口頭，招待|[ICIAM, SIAM Student Chapter Research Presentations](https://iciam2023.org/registered_data?id=00793), "Computing the invariant measure of the N-vortex problem on the sphere by Hamiltonian Monte Carlo" at Waseda University|
+  |2023年 8月22日|口頭，招待|[ICIAM, SIAM Student Chapter Research Presentations](https://iciam2023.org/registered_data?id=00793), "Computing the invariant measure of the N-vortex problem on the sphere by Hamiltonian Monte Carlo" at Waseda University|
   |2023年 7月31日|ポスター|[TDA week 2023](https://sites.google.com/view/tdaweek2023/home), "Topological Regularization in Numerical Simulation" at Kyoto University|
   |2023年 6月17日|ポスター|[京大 応用数理 学生ポスター発表会](https://sites.google.com/view/siam-sc-kyoto/event/poster2023)「データ同化の数理」|
   |2023年 3月17日|口頭|[日本数学会2023年度年会](http://www.mathsoc.jp/activity/meeting/chuo23mar/index.html)「HMC による球面上 N 点渦系不変測度の計算」|
