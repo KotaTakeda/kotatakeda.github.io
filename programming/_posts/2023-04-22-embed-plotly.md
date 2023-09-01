@@ -7,11 +7,6 @@ tags: "Python"
 description: "PlotlyをHTMLで出力しwebサイトに埋め込みます．"
 ---
 
-## 目次
-- [Key word](#key-word)
-- [はじめに](#はじめに)
-- [コード](#コード)
-<!-- - [参考](#参考) -->
 
 ## Key word
 - Plotly
