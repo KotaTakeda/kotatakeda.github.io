@@ -108,6 +108,16 @@
   }
 }
 
+/**
+  * Side bar
+  */
+
+@include media-query($on-palm) {
+  ul.sidebar-right {
+    display: none;
+  }
+}
+
 
 
 /**
