@@ -19,32 +19,9 @@ title: About me
 理化学研究所 計算科学研究センター データ同化研究チーム 大学院生リサーチ・アソシエイト\\
 *kota.takeda[at]riken.jp*
 
-<!-- ## 業績 -->
-
 ## 研究
-#UQ，#数理流体力学，#2次元乱流，#トポロジカルフローデータ解析(Topological Flow Data Analysis: TFDA)，#データ同化，#計算トポロジー，#学際的研究，#機械学習，#気象制御
+{% include_relative math/research_intro_jp.md %}
 
-**UQ（不確実性定量化: Uncertainty Quantification）**の数理流体力学への応用を主な研究対象としています．
-"UQ"は確率・統計理論の広い応用を指す言葉です．数理モデルに誤差・不確実性を導入し，誤差の時間発展や予測の不確実性を定量的に評価することを目的としています．\\
-数理流体力学は流体現象を数学の道具を使って調べる研究領域です．流体の運動は一般的な条件での数学解析の困難性，数値シミュレーションのコストの高さや初期値の誤差が発達するカオス性など理論から応用まで様々な課題を持っています．さらに，乱流のような統一的な定義が確立されておらず適切な問いを立てること自体が難しい現象もあります．\\
-このような数理流体力学上の課題に対して，確率・統計理論の道具を使ったUQ的アプローチの有効性を研究しています．複雑な流体現象をモデル化する道具としてUQが有効であると期待しています．
-
-### 具体的なテーマ
-#### 多様体上のHamiltonian Monte Carloのエルゴード性とその乱流統計への応用
-#サンプリング，#マルコフ連鎖，#ハミルトン系, #リーマン多様体，#離散変分，#平均場，#非粘性流体
-#### データ同化・ベイズ推定の数学解析
-#カオス，#アプリオリ評価，#分布の近似，#カルマンフィルター
-#### トポロジカルデータ解析を用いた数値計算の正則化やフィルターとそのデータ同化への応用，その数学的定式化．
-#TDA，#数値粘性・振動，#関数空間上のベイズ推定，#非凸最適化，#移流方程式
-#### Gaussian Mixtureと勾配流を用いたアンサンブルデータ同化
-#最適輸送，#勾配流，#微分幾何，#フォッカープランク
-
-### 開発
-主にPythonを使って数値解析（行列演算，モンテカルロ法，積分，画像処理，機械学習等）をします．必要に応じて高速な言語を使います．\\
-2021年の[理研R-CCSのインターンシップ](https://www.r-ccs.riken.jp/outreach/schools/200604/)では，スーパーコンピューター富岳を用いたFortran90による海洋シミュレーションを行い，Pythonで結果の解析をしました．
-最近はPythonライブラリ[psiclone](https://github.com/t-uda/psiclone)を用いた流線トポロジーデータ解析(TFDA)やパーシステントホモロジーを利用した最適化問題など計算トポロジーの流体問題への応用計算をしています．
-
-[プログラミング TOP >>](/programming/)
 
 ## C.V.
 ### 学歴
@@ -72,36 +49,16 @@ title: About me
 - 資格 : 2020年 9月 高等学校教諭一種免許状（数学） 取得
 
 ### 発表
+#### 国内
+{% include_relative profiles/presentations_domestic.md %}
 
-  |年月日|形式|内容|
-  | --- | --- | --- |
-  |2023年 11月6~8日 **(up coming)**|口頭|[Twentieth International Conference on Flow Dynamics](https://www.ifs.tohoku.ac.jp/icfd/2023/index.html), "A Monte Carlo approach to the N-vortex problem on the unit sphere"|
-  |2023年 9月6日 **(up coming)**|ポスター|RIKEN 2023 Summer School, "Mathematical Approach to Data Assimilation Problem"|
-  |2023年 8月30日|ポスター|[14th Data Assimilation workshop](http://www.data-assimilation.riken.jp/en/events/riken_da_ws_2023/index.html), "Mathematical analysis of the ensemble transform Kalman filter with covariance inflation", R-CCS, Kobe|
-  |2023年 8月29日|口頭，招待|[IMT-Atlantique & Kyoto University & RIKEN joint Data Assimilation workshop](http://www.data-assimilation.riken.jp/en/events/imt_ku_ws_202308/index.html), "Ensemble filter with the optimal transport of gaussian mixture distributions", R-CCS, Kobe|
-  |2023年 8月22日|口頭，招待|[ICIAM, SIAM Student Chapter Research Presentations](https://iciam2023.org/registered_data?id=00793), "Computing the invariant measure of the N-vortex problem on the sphere by Hamiltonian Monte Carlo" at Waseda University|
-  |2023年 7月31日|ポスター|[TDA week 2023](https://sites.google.com/view/tdaweek2023/home), "Topological Regularization in Numerical Simulation" at Kyoto University|
-  |2023年 6月17日|ポスター|[京大 応用数理 学生ポスター発表会](https://sites.google.com/view/siam-sc-kyoto/event/poster2023)「データ同化の数理」|
-  |2023年 3月17日|口頭|[日本数学会2023年度年会](http://www.mathsoc.jp/activity/meeting/chuo23mar/index.html)「HMC による球面上 N 点渦系不変測度の計算」|
-  |2023年 3月11日|ポスター|[応用数学若手の会 第8回 学生研究発表会](http://wakate.jsiam.org/)「データ同化の数学解析について」|
-  |2023年 2月15日| 口頭，招待 |[第14回 理研・京大データ同化研究会](http://www.data-assimilation.riken.jp/jp/events/ku_ws_202302/) 「トポロジカルデータ同化理論の構築について」|
-  |2023年 2月6日|ポスター|[The 5th R-CCS International Symposium](https://www.r-ccs.riken.jp/R-CCS-Symposium/2023/), "Computing the invariant measure of the N-vortex problem on the unit sphere" at R-CCS|
-  |2023年 1月24日|口頭，招待|Conference 'Mathematical Structure in Quantum Fluids', "A Monte Carlo approach to the N-vortex problem on the unit sphere" at Osaka Metropolitan University|
-  |2023年 1月9日| ポスター，招待 |[East Asian Core Doctoral Forum on Mathematics 2023](https://www.mathsoc.jp/section/appliedmath/CAM/2022/), "Efficient sampling method on compact manifolds and its application to turbulent statistics on the unit sphere" at Taiwan National University |
-  |2022年 12月17日| 口頭 |2022年度応用数学合同研究集会「HMCによる球面上N点渦系不変測度の計算」|
-  |2022年 12月9日| 口頭，招待 |[第99回金沢解析セミナー](http://math.w3.kanazawa-u.ac.jp/wp/2022/11/17/kas99/)「球面上の平均場方程式に対するHMCを用いたモンテカルロアプローチ」|
-  |2022年 10月27日| ポスター |[大学院教育支援機構奨励研究員及びフェローシップ受給者によるポスター発表会・研究交流会](https://www.kugd.k.kyoto-u.ac.jp/news/477.html)「UQと数理流体力学からはじめる学際研究の可能性」|
-  |2022年 10月15日| 口頭，招待 |[応用数学フレッシュマンセミナー2022](https://sites.google.com/view/freshman-seminar2022)「UQと数理流体力学からはじめる学際研究の可能性」/ [スライド](/math/pdf/freshman2022_slide.pdf)|
-  |2022年 9月8日| 口頭 |[応用数理学会 2022年度年会](https://jsiam.org/annual2022/)「HMCによるN点渦系の不変測度の構成」|
-  |2022年 8月2日| 口頭，招待 |[第7回岡山応用数学セミナー](https://jsiam.org/eguide02/3603/)「多様体上HMCの収束定理と乱流統計への応用」|
-  |2022年 3月10日| 口頭 |[応用数理学会　若手の会　第7回学生研究発表会](http://wakate.jsiam.org/?p=68):「流体力学へのUQ的アプローチの事例紹介」|
-  |2021年 2月10日| 口頭，招待 |[第12回 理研・京大データ同化研究会](http://www.data-assimilation.riken.jp/jp/events/ku_ws_202102/index.html)「ハミルトンモンテカルロ法の紹介」 / [スライド](/math/pdf/intro_to_hmc_slide.pdf)|
+#### 国際
+{% include_relative profiles/presentations_international.md %}
 
   <!-- TODO: contributorリスト -->
 
 ### Publications
-- K. Takeda and T. Sakajo, Geometric ergodicity for Hamiltonian Monte Carlo on compact manifolds, to be appeared (2023)
-
+{% include_relative profiles/publications.md %}
 
 ## 活動
 ### 数学

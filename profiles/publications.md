@@ -1,0 +1,1 @@
+- K. Takeda and T. Sakajo, Geometric ergodicity for Hamiltonian Monte Carlo on compact manifolds, to be appeared (2023)

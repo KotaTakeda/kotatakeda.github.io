@@ -18,11 +18,6 @@ Ph.D student, Department of mathematics, Graduate school of science, Kyoto Unive
 Junior Research Associate, Data Assimilation research team, RIKEN Center for Computational Science (R-CCS)\\
 *kota.takeda[at]riken.jp*
 
-## Contents
-- [Research Interests](#research-interests)
-- [C.V.](#cv)
-- [Activities](#activities)
-
 ## Research Interests
 The main concept in my research is approaching to complex and chaotic phenomena with mathematical tools, especially **UQ(Uncertainty Quantification)**.
 My research interests are mainly in understanding the effectiveness of UQ(Uncertainty Quantification) approach to mathematical fluid dynamics, in which complex and chaotic behaviors of fluid are studied.
@@ -55,10 +50,12 @@ Uncertainty Quantification(UQ), mathematical fluid dynamics, Topological Flow Da
 [in Japanese >>](/#研究費等採択)
 
 ### Presentations
+{% include_relative profiles/presentations_international.md %}
+
 [in Japanese >>](/#発表)
 
 ### Publications
-- K. Takeda and T. Sakajo, Geometric ergodicity for Hamiltonian Monte Carlo on compact manifolds, to be appeared (2023)
+{% include_relative profiles/publications.md %}
 
 ## Activities
 [in Japanese >>](/#活動)
