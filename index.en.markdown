@@ -57,6 +57,8 @@ Uncertainty Quantification(UQ), mathematical fluid dynamics, Topological Flow Da
 ### Presentations
 [in Japanese >>](/#発表)
 
+### Publications
+- K. Takeda and T. Sakajo, Geometric ergodicity for Hamiltonian Monte Carlo on compact manifolds, to be appeared (2023)
 
 ## Activities
 [in Japanese >>](/#活動)

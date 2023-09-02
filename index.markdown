@@ -100,7 +100,7 @@ title: About me
   <!-- TODO: contributorリスト -->
 
 ### Publications
-- K. Takeda and T. Sakajo, Geometric ergodicity for Hamiltonian Monte Carlo on compact manifolds, in review (2022)
+- K. Takeda and T. Sakajo, Geometric ergodicity for Hamiltonian Monte Carlo on compact manifolds, to be appeared (2023)
 
 
 ## 活動
