@@ -16,5 +16,3 @@ description: "綺麗な図のまとめ"
 
 #### 衝突
 ![3点渦衝突軌道](/assets/img/math/3vortex-col.png)
-
-<!-- ## 参考 -->
