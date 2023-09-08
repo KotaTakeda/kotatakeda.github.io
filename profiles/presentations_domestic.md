@@ -1,7 +1,7 @@
 
   |年月日|形式|内容|
   | --- | --- | --- |
-  |2023/9/6 **(up coming)**|ポスター|RIKEN 2023 Summer School, "Mathematical Approach to Data Assimilation Problem", Wako|
+  |2023/9/6 |ポスター|RIKEN 2023 Summer School, "Mathematical Approach to Data Assimilation Problem", Wako|
   |2023/6/17|ポスター|[京大 応用数理 学生ポスター発表会](https://sites.google.com/view/siam-sc-kyoto/event/poster2023)「データ同化の数理」|
   |2023/3/17|口頭|[日本数学会2023年度年会](http://www.mathsoc.jp/activity/meeting/chuo23mar/index.html)「HMC による球面上 N 点渦系不変測度の計算」|
   |2023/3/11|ポスター|[応用数学若手の会 第8回 学生研究発表会](http://wakate.jsiam.org/)「データ同化の数学解析について」|

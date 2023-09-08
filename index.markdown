@@ -36,12 +36,18 @@ title: About me
   - 2019年 9月~2022年3月 株式会社 activo webエンジニア
 
 ### 研究費等採択
-<!-- Awards and Achievements -->
 
 |制度|分野|研究課題名|期間|
 |---|---|---|---|
 |京都大学大学院教育支援機構プログラム 令和4年度（2022年度）|情報・AI|不確実性定量化の数理流体力学への包括的な応用 -渦力学とデータ同化を中心に-|2022年4月 ~ 2025年3月|
 |理化学研究所2022年度大学院生リサーチ・アソシエイト|数理科学（RCCS データ同化研究チーム）|トポロジカルデータ同化理論の構築|2022年4月~最大3年|
+
+
+### 受賞
+{% include_relative profiles/awards.md %}
+
+### Publications
+{% include_relative profiles/publications.md %}
 
 ### スキル
 - プログラミング言語 (数値計算) : Python (advanced), C (intermediate)
@@ -57,8 +63,6 @@ title: About me
 
   <!-- TODO: contributorリスト -->
 
-### Publications
-{% include_relative profiles/publications.md %}
 
 ## 活動
 ### 数学
