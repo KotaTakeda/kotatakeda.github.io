@@ -15,11 +15,8 @@ description: "データ同化関連の参考文献"
 ### Textbook
 - K. Law et al., Data assimilation: A mathematical introduction, 2015
 - S. Reich et al., Probabilistic Forecasting and Bayesian Data Assimilation, 2015
+- A. J. Majda and J. Harlim, Filtering Complex Turbulent Systems, 2012
 
 ### Review
 - P.J. van Leeuwen, Y. Cheng and S. Reich, Nonlinear Data Assimilation, 2015
 - P.J. van Leeuwen et al., Particle filters for high-dimensional geoscience applications: A review, 2019
-
-
-
-<!-- ## 参考 -->
