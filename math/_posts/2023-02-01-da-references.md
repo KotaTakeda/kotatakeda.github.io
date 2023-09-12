@@ -3,7 +3,7 @@ layout: post
 title: "データ同化関連の参考文献"
 date: 2023-02-01 18:57 +0900
 dir: /math/
-tags: "UQ"
+tags: ["UQ", "データ同化"]
 description: "データ同化関連の参考文献"
 ---
 
