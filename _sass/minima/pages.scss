@@ -135,13 +135,10 @@
 ul.sidebar-right {
   position: sticky;
   top: 0;
-  // margin-left: calc(-#{$spacing-unit} * 3 - 200px);
-  // float: left;
-  margin-right: calc(-#{$spacing-unit} * 3 - 200px);
+  margin-right: calc(-#{$spacing-unit} * 3 - 250px);
   float: right;
   padding: $spacing-unit;
   width: 200px;
-  // background-color: darken($background-color, 5);
 
   li {
     list-style: none;
@@ -159,20 +156,20 @@ ul.sidebar-right {
   top: 0;
   margin-left: calc(-#{$spacing-unit} * 3 - 200px);
   float: left;
-  padding: 10px;
+  padding: 20px;
   width: 200px;
-
-  // background-color: darken($background-color, 5);
+  text-align: center;
 }
 
 .personal-panel {
   h1 {
     text-align: center;
+    margin-top: 10px;
   }
   .small-text {
     font-size: small;
   }
   .social-icons {
-    padding: $spacing-unit 10px;
+    padding: $spacing-unit/2 10px;
   }
 }

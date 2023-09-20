@@ -7,8 +7,8 @@
     {%- include header.html -%}
 
     <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        <section class="personal-panel sidebar-left">
+      <div class="wrapper round-panel">
+        <section class="personal-panel sidebar-left round-panel">
           <div class="text-center">
             <h1 class="site-logo gradient-text">Kota Takeda</h1>
             <div class="small-text">Ph.D. student at Kyoto Univ. and JRA in R-CCS</div>
@@ -18,7 +18,7 @@
           </div>
         </section>
 
-        {% include toc.html html=content h_min=2 h_max=3 class="sidebar-right" %}
+        {% include toc.html html=content h_min=2 h_max=3 class="sidebar-right round-panel" %}
         <!-- とりあえず必要ないのでanchorBody="" -->
         {% include anchor_headings.html html=content anchorBody=""%}
       </div>
