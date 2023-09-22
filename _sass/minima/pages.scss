@@ -135,7 +135,7 @@
 ul.sidebar-right {
   position: sticky;
   top: 0;
-  margin-right: calc(-#{$spacing-unit} * 3 - 250px);
+  margin-right: calc(-#{$spacing-unit} * 2 - 250px);
   float: right;
   padding: $spacing-unit;
   width: 200px;
@@ -154,9 +154,9 @@ ul.sidebar-right {
 .sidebar-left {
   position: sticky;
   top: 0;
-  margin-left: calc(-#{$spacing-unit} * 3 - 200px);
+  margin-left: calc(-#{$spacing-unit} * 2 - 250px);
   float: left;
-  padding: 20px;
+  padding: $spacing-unit;
   width: 200px;
   text-align: center;
 }
