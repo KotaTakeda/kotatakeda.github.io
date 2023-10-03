@@ -19,4 +19,6 @@ description: "データ同化関連の参考文献"
 
 ### Review
 - P.J. van Leeuwen, Y. Cheng and S. Reich, Nonlinear Data Assimilation, 2015
-- P.J. van Leeuwen et al., Particle filters for high-dimensional geoscience applications: A review, 2019
+- P.J. van Leeuwen, et al., Particle filters for high-dimensional geoscience applications: A review, 2019
+- R. Sebastian, Data Assimilation: The Schrödinger Perspective, 2019
+- T. Pierre, et al. A Review of Innovation-Based Methods to Jointly Estimate Model and Observation Error Covariance Matrices in Ensemble Data Assimilation, 2020
