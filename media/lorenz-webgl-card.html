@@ -1,13 +1,19 @@
 <!DOCTYPE html>
-<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="twitter:player" content="https://kotatakeda.github.io/lorenz-webgl/index.html" />
-
-  <!-- <title>Document</title> -->
+  <meta name="twitter:card" content="player" />
+  <meta name="twitter:title" content="lorenz-webgl" />
+  <meta name="twitter:player" content="https://kotatakeda.github.io/lorenz-webgl/index.html" />
+  <meta name="twitter:player:height" content="300" />
+  <meta name="twitter:player:width" content="400" />
+  <script>
+    const params  = new URLSearchParams(location.search);
+    location.href = './content.html?' + params;
+  </script>
 </head>
-<!-- <body>
+<body>
   
-</body> -->
+</body>
 </html>
