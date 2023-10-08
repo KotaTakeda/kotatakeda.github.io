@@ -200,6 +200,10 @@
   padding: $spacing-unit 0;
   flex: 1;
   background-color: lighten($brand-color, 70%);
+  h1 {
+    margin-top: 0;
+    padding-top: $spacing-unit;
+  }
   h2 {
     color: $main-color;
     margin: $spacing-unit 0 $spacing-unit*2/3 0;

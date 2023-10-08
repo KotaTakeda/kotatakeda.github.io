@@ -7,4 +7,6 @@ tags: "presentation"
 description: "ice breaker pdf"
 ---
 
+<iframe src="/math/pdf/ice_breaker.pdf" width="100%" height="500px"></iframe>
+
 [ice breaker pdf](/math/pdf/ice_breaker.pdf)
