@@ -49,3 +49,4 @@ description: "数学PDF"
 - [Geometric Measure Theory](pdf/geometric_measure_theory.pdf)
 - [Rademacherの定理](pdf/rademacher.pdf)
 - [Optimal Transport](pdf/ot.pdf)
+- [Vector Identities](pdf/vector_identities)
