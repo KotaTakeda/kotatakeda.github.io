@@ -49,10 +49,11 @@ title: About me
 ### Publications
 {% include_relative profiles/publications.md %}
 
-### スキル
+### スキル・経験
+- 資格 : 2020年 9月 高等学校教諭一種免許状（数学） 取得
 - プログラミング言語 (数値計算) : Python (advanced), C (intermediate)
 - プログラミング言語 (Web開発) : Ruby (advanced), Javascript (advanced)
-- 資格 : 2020年 9月 高等学校教諭一種免許状（数学） 取得
+- 京都大学 数学TA : 2020年 線形代数学A演義，微分積分学B演義，2021年 数学質問コーナー，解析学演習．
 
 ### 発表
 #### 国内
@@ -71,7 +72,6 @@ title: About me
   | --- | --- |
   |2022年度~| [SIAM Student Chapter Kyoto](https://sites.google.com/view/siam-sc-kyoto/home) (President)| 
   |2021年 6月16日~3月31日| 京都大学 OA（JST未来社会創造事業 TFDA）|
-  |2020年度 ~ 2021年度| 京都大学 数学TA|
   
 ### 計算
 
