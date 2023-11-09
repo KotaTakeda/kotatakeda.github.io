@@ -4,18 +4,18 @@ strong {
   // font-weight: $base-font-weight*2;
 }
 
-table {
-  font-size: 12px;
-  tr td {
-    &:first-child {
-      min-width: 110px;
-    }
-    &:nth-child(2) {
-      min-width: 95px;
-    }
-  }
+// table {
+//   font-size: 12px;
+//   tr td {
+//     &:first-child {
+//       min-width: 110px;
+//     }
+//     &:nth-child(2) {
+//       min-width: 95px;
+//     }
+//   }
 
-}
+// }
 
 .site-header{
   &.about-me {
@@ -54,7 +54,7 @@ table {
 }
 
 .round-panel {
-  background-color: white;
+  // background-color: white;
   border-radius: 10px;
 }
 

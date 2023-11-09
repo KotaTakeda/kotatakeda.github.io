@@ -1,5 +1,4 @@
 
-  |dates|format|about|
   | --- | --- | --- |
   |2023/12/9 **(up coming)**|invited|[NCTS-Kyoto Mathematics Symposium](https://ncts.ntu.edu.tw/events_2_detail.php?nid=427), "TBA", National Center for Theoretical Science, Taiwan.|
   |2023/12/7 **(up coming)**|oral|[Dynamics Days 2023 Kagurazaka](https://sites.google.com/view/dynamicsdays23/), "Ensemble data assimilation to infinite-dimensional nonlinear dynamics with noisy observations", Tokyo, 12/4-8.|
