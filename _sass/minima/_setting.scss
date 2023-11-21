@@ -21,6 +21,7 @@ $spacing-unit:     30px !default;
 // summer
 $base-color: #fff;
 $main-color: #303050;
+// $main-color: #00205b;
 $accent-color: #46cbc3;
 // cafe
 // $base-color: #f8f1ee;
@@ -58,7 +59,7 @@ $table-text-align: left !default;
 $content-width:    800px !default;
 
 $on-palm:          600px !default;
-$on-laptop:        800px !default;
+$on-laptop:        1200px !default;
 
 @mixin with-shadow {
   box-shadow: 0px 4px 5px -3px rgba(0,0,0,0.014), 0px 5px 6px 1px rgba(0,0,0,0.02);
