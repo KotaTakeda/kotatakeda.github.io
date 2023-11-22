@@ -144,16 +144,22 @@
   color: $main-color;
 }
 
+.footer-wrapper {
+  margin: 0 $spacing-unit*3;
+}
+
 .footer-col-wrapper {
   @include relative-font-size(0.9375);
   // color: $grey-color;
   color: $text-color;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
+  display: flex;
+  flex-direction: row;
 }
 
 .footer-col {
-  float: left;
+  flex: auto;
   margin-bottom: $spacing-unit / 2;
   padding-left: $spacing-unit / 2;
 }
