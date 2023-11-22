@@ -64,12 +64,11 @@ strong {
       bottom: -150px;
       border-radius: 70% 60% 50% 50% / 50% 60% 70% 80%;
       animation: animate2 25s linear infinite;
-      // &:nth-child(even) {
-      //   animation: animate1 25s linear infinite;
-      // }
-      // &:nth-child(odd) {
-      //   animation: animate2 25s linear infinite;
-      // }
+      
+      &:hover {
+        transform: scale(1, 1.2);
+        background: rgba(255, 255, 255, 0.7);
+      }
 
       &:nth-child(1){
         left: 25%;
@@ -253,13 +252,26 @@ strong {
 
 .main-button {
   border-radius: 3px;
+  // border: 0.5px solid $grey-color-light;
+  text-transform: uppercase;
+  position: relative;
+  transition: .3s;
+  &:after {
+    position: absolute;
+    transition: .3s;
+    content: '';
+    width: 0;
+    left: 50%;
+    bottom: 0;
+    height: 1px;
+    background: $grey-color;
+  }
   &:hover {
-    @include with-shadow;
-    // border: 1px solid #aaa;
-    outline-offset: -1px;
-    border-bottom: 2px solid $main-color;
-    color: $main-color !important;
-    font-weight: bold;
+    cursor: pointer;
+    &:after {
+      width: 100%;
+      left: 0;
+    }
   }
 }
 
