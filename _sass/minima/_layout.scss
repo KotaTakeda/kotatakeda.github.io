@@ -177,6 +177,14 @@
 .footer-col-3 {
   width: -webkit-calc(45% - (#{$spacing-unit} / 2));
   width:         calc(45% - (#{$spacing-unit} / 2));
+  
+  .page-links {
+    display: flex;
+    flex-direction: column;
+    a {
+      margin-bottom: $spacing-unit/2;
+    }
+  }
 }
 
 @include media-query($on-laptop) {

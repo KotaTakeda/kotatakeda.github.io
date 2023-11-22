@@ -33,9 +33,9 @@
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title and my_page.title == "数学" or my_page.title == "プログラミング" -%} <!-- プロフィールへのリンク隠す 2022/05/04 -->
               {%- if lang == "en" -%}
-                <a class="page-link main-button" href="{{ my_page.url | relative_url }}">{{ my_page.dir | replace: "/", ""}}</a>
+                <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.dir | replace: "/", ""}}</a>
               {%- else -%}
-                <a class="page-link main-button" href="{{ my_page.url | relative_url }}">{{ my_page.title }}</a>
+                <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title }}</a>
               {%- endif -%}
             {%- endif -%}
           {%- endfor -%}
