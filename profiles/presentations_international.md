@@ -1,8 +1,8 @@
 
   | --- | --- | --- |
   |2023/2/27-3/1 **(up coming)**|poster|[SIAM UQ24](https://www.siam.org/conferences/cm/conference/uq24), "Rigorous analysis of the ensemble transform Kalman filter for chaotic dynamical models", Trieste, 2/27-3/1.|
-  |2023/12/9 **(up coming)**|invited|[NCTS-Kyoto Mathematics Symposium](https://ncts.ntu.edu.tw/events_2_detail.php?nid=427), "Mathematical Analysis of Data Assimilation to Chaotic Dynamics", National Center for Theoretical Science, Taiwan.|
-  |2023/12/7 **(up coming)**|oral|[Dynamics Days 2023 Kagurazaka](https://sites.google.com/view/dynamicsdays23/), "Ensemble data assimilation to infinite-dimensional nonlinear dynamics with noisy observations", Tokyo, 12/4-8.|
+  |2023/12/9|invited|[NCTS-Kyoto Mathematics Symposium](https://ncts.ntu.edu.tw/events_2_detail.php?nid=427), "Mathematical Analysis of Data Assimilation to Chaotic Dynamics", National Center for Theoretical Science, Taiwan.|
+  |2023/12/7|oral|[Dynamics Days 2023 Kagurazaka](https://sites.google.com/view/dynamicsdays23/), "Ensemble data assimilation to infinite-dimensional nonlinear dynamics with noisy observations", Tokyo, 12/4-8.|
   |2023/11/8|oral|[Twentieth International Conference on Flow Dynamics](https://www.ifs.tohoku.ac.jp/icfd/2023/index.html), "A Monte Carlo approach to the N-vortex problem on the unit sphere", Sendai, 11/6-8.|
   |2023/8/30|poster|[14th Data Assimilation workshop](http://www.data-assimilation.riken.jp/en/events/riken_da_ws_2023/index.html), "Mathematical analysis of the ensemble transform Kalman filter with covariance inflation", R-CCS, Kobe.|
   |2023/8/29|oral, invited|[IMT-Atlantique & Kyoto University & RIKEN joint Data Assimilation workshop](http://www.data-assimilation.riken.jp/en/events/imt_ku_ws_202308/index.html), "Ensemble filter with the optimal transport of gaussian mixture distributions", R-CCS, Kobe.|
