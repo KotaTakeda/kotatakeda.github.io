@@ -1,6 +1,6 @@
 
   | --- | --- | --- |
-  |2023/12/15 |口頭|[2022年度応用数学合同研究集会](https://www.mathsoc.jp/section/appliedmath/CAM/2023/)「無限次元非線形力学系のデータ同化	」, 龍谷大学, 12/14-16.|
+  |2023/12/15 |口頭|[2023年度応用数学合同研究集会](https://www.mathsoc.jp/section/appliedmath/CAM/2023/)「無限次元非線形力学系のデータ同化	」, 龍谷大学, 12/14-16.|
   |2023/11/01 |ポスター|[大学院教育支援機構奨励研究員及びフェローシップ受給者によるポスター発表会・研究交流会](https://www.kugd.k.kyoto-u.ac.jp/%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88/1588.html) <br>"Mathematical Approach to Data Assimilation Problem", 京都大学.|
   |2023/9/6 |ポスター|RIKEN 2023 Summer School, "Mathematical Approach to Data Assimilation Problem", Wako, 2023/9/6-7.|
   |2023/6/17|ポスター|[京大 応用数理 学生ポスター発表会](https://sites.google.com/view/siam-sc-kyoto/event/poster2023)「データ同化の数理」, 京都大学.|
