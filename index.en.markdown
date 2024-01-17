@@ -19,12 +19,15 @@ Junior Research Associate, Data Assimilation research team, RIKEN Center for Com
 *kota.takeda[at]riken.jp*
 
 ## Research Interests
-The main concept in my research is approaching to complex and chaotic phenomena with mathematical tools, especially **UQ(Uncertainty Quantification)**.
-My research interests are mainly in understanding the effectiveness of UQ(Uncertainty Quantification) approach to mathematical fluid dynamics, in which complex and chaotic behaviors of fluid are studied.
-I am also interested in interdisciplinary studies, where I would like to connect many researchers in different fields by using mathematics. Since I am good at constructing mathematical models and analyzing data, these skills can help to make progress on study in some fields except mathematics.
+My research focuses on applying mathematical tools to analyze complex and chaotic phenomena, utilizing both theoretical and numerical methods.
+In particular, I'm working on **UQ(Uncertainty Quantification)** approaches to mathematical fluid dynamics.
+
+I am also interested in interdisciplinary studies, where I would like to interact with many researchers in different fields by using mathematics. 
+<!-- Since I am good at constructing mathematical models and analyzing data, these skills can help to make progress on study in some fields except mathematics. -->
 
 ### specific themes
 - Computing a stationary flow of 2D Euler equation with Hamiltonian Monte Carlo
+- Mathematical analysis of data assimilation
 - Creating the fundamental framework of data assimilation with topological data
 
 ### keywords
