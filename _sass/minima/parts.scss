@@ -236,7 +236,7 @@ strong {
     z-index: 0;
 
     position: absolute;
-    bottom: $spacing-unit;
+    bottom: $spacing-unit/2;
     right: 3vw;
     padding: $spacing-unit;
     background: white;
@@ -259,7 +259,7 @@ strong {
         border: 1px solid $main-color;
         border-radius: 5px;
         margin-bottom: 5px;
-        .paper-title {
+        .paper-title, .paper-link {
           overflow: hidden;
           text-overflow: ellipsis;
           white-space: nowrap;
@@ -272,8 +272,8 @@ strong {
       position: absolute;
       right: 5vw;
       left: 5vw;
-      padding: $spacing-unit;
-      .paper-list > .paper-item > .paper-title {
+      padding: $spacing-unit/2;
+      .paper-list > .paper-item > .paper-title, .paper-link {
         max-width: 65vw;
       }
     }
