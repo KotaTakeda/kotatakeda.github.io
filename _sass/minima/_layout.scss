@@ -115,8 +115,8 @@
   * Side bar
   */
 
-@include media-query($on-palm) {
-  ul.sidebar-right {
+@include media-query($on-tab) {
+  .sidebar-left, .sidebar-right {
     display: none;
   }
 }

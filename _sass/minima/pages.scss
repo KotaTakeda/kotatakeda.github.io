@@ -135,10 +135,14 @@
 ul.sidebar-right {
   position: sticky;
   top: $spacing-unit + 10px;
-  margin-right: calc(-#{$spacing-unit} * 2 - 250px);
+  margin-right: calc(-#{$spacing-unit} * 2 - 150px);
   float: right;
-  padding: $spacing-unit;
-  width: 200px;
+  padding: $spacing-unit/2;
+  width: 150px;
+  @include media-query($on-laptop) {
+    margin-right: calc(-#{$spacing-unit} * 2 - 80px);
+    width: 100px;
+  }
 
   li {
     list-style: none;
