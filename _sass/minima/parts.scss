@@ -35,7 +35,10 @@ strong {
       font-size: 30px;
       // margin-left: 30%;
     }
-  
+    
+    @include media-query($on-palm) {
+      top:10%;
+    }
   }
 
   .area{
