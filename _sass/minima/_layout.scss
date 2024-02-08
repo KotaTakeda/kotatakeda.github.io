@@ -156,6 +156,7 @@
   @extend %clearfix;
   display: flex;
   flex-direction: row;
+
 }
 
 .footer-col {
@@ -201,6 +202,9 @@
 }
 
 @include media-query($on-palm) {
+  .footer-col-wrapper {
+    flex-direction: column;
+  }
   .footer-col {
     float: none;
     width: -webkit-calc(100% - (#{$spacing-unit} / 2));
