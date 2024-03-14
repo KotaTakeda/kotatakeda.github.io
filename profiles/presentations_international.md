@@ -1,6 +1,6 @@
 
   | --- | --- | --- |
-  |2024/3/14 **(up coming)**|oral, invited|DA Seminary at IMT Atlantique, "TBA", Brest, France.|
+  |2024/3/14|oral, invited|DA Seminary at IMT Atlantique, "Theoretical aspect of the ETKF and covariance inflation", Brest, France.|
   |2024/2/28|poster|[SIAM UQ24](https://www.siam.org/conferences/cm/conference/uq24), "Rigorous analysis of the ensemble transform Kalman filter for chaotic dynamical models", Trieste, 2/27-3/1.|
   |2024/1/29|poster|[The 6th R-CCS International Symposium](https://www.r-ccs.riken.jp/R-CCS-Symposium/2024/), "Mathematical analysis of the ensemble transform Kalman filter for chaotic dynamics with multiplicative inflation", Kobe, 1/29-1/30.|
   |2023/12/9|invited, poster|[NCTS-Kyoto Mathematics Symposium](https://ncts.ntu.edu.tw/events_2_detail.php?nid=427), "Mathematical Analysis of Data Assimilation to Chaotic Dynamics", National Center for Theoretical Science, Taiwan.|
