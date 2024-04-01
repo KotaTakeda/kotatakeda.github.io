@@ -34,6 +34,8 @@
     {%- endif -%}
   </div>
   <!-- <div class="site-header-bg"></div> -->
-  {%- include animated-bg.html -%}
-  {%- include recent-news.html -%}
+  {%- if page.title == 'About me' -%}
+    {%- include animated-bg.html -%}
+    {%- include recent-news.html -%}
+  {%- endif -%}
 </header>
