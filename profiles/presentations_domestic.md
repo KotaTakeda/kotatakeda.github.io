@@ -5,7 +5,7 @@
   |2023/12/15 |口頭|[2023年度応用数学合同研究集会](https://www.mathsoc.jp/section/appliedmath/CAM/2023/)「無限次元非線形力学系のデータ同化	」, 龍谷大学, 12/14-16.|
   |2023/11/01 |ポスター|[大学院教育支援機構奨励研究員及びフェローシップ受給者によるポスター発表会・研究交流会](https://www.kugd.k.kyoto-u.ac.jp/%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88/1588.html) <br>"Mathematical Approach to Data Assimilation Problem", 京都大学.|
   |2023/9/6 |ポスター|RIKEN 2023 Summer School, "Mathematical Approach to Data Assimilation Problem", Wako, 2023/9/6-7.|
-  |2023/6/17|ポスター|[京大 応用数理 学生ポスター発表会](https://sites.google.com/view/siam-sc-kyoto/event/poster2023)「データ同化の数理」, 京都大学.|
+  |2023/6/17|ポスター|[京大 応用数理 学生ポスター発表会](https://sites.google.com/view/siam-sc-kyoto/event/poster-presentation-2023)「データ同化の数理」, 京都大学.|
   |2023/3/17|口頭|[日本数学会2023年度年会](http://www.mathsoc.jp/activity/meeting/chuo23mar/index.html)「HMC による球面上 N 点渦系不変測度の計算」, 中央大学, 3/15-18.|
   |2023/3/11|ポスター|[応用数学若手の会 第8回 学生研究発表会](http://wakate.jsiam.org/)「データ同化の数学解析について」, 岡山理科大学.|
   |2023/2/15| 口頭，招待 |[第14回 理研・京大データ同化研究会](http://www.data-assimilation.riken.jp/jp/events/ku_ws_202302/) 「トポロジカルデータ同化理論の構築について」, R-CCS, 神戸.|
