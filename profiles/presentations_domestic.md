@@ -1,7 +1,7 @@
 
   | --- | --- | --- |
   |2024/4/19 |口頭，招待|[AIMR Math Group Hybrid Seminar](https://www.wpi-aimr.tohoku.ac.jp/mathematics_unit/english/seminar/20240419.html), "Uniform error bounds of the ensemble transform Kalman filter for infinite-dimensional dynamics with multiplicative covariance inflation", 東北大学AIMR. [スライド](/math/pdf/aimr_seminar_handout20240419.pdf)|
-  |2024/4/12 |口頭，招待|[Prediction Science Seminar](https://prediction.riken.jp/events/ps_seminar/20240412/index_en.html), "Uniform error bounds of the ensemble transform Kalman filter with multiplicative covariance inflation for chaotic dynamics	", R-CCS, 神戸|
+  |2024/4/12 |口頭，招待|[25th Prediction Science Seminar](https://prediction.riken.jp/events/ps_seminar/20240412/index_en.html), "Uniform error bounds of the ensemble transform Kalman filter with multiplicative covariance inflation for chaotic dynamics	", R-CCS, 神戸|
   |2023/12/15 |口頭|[2023年度応用数学合同研究集会](https://www.mathsoc.jp/section/appliedmath/CAM/2023/)「無限次元非線形力学系のデータ同化	」, 龍谷大学, 12/14-16.|
   |2023/11/01 |ポスター|[大学院教育支援機構奨励研究員及びフェローシップ受給者によるポスター発表会・研究交流会](https://www.kugd.k.kyoto-u.ac.jp/%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88/1588.html) <br>"Mathematical Approach to Data Assimilation Problem", 京都大学.|
   |2023/9/6 |ポスター|RIKEN 2023 Summer School, "Mathematical Approach to Data Assimilation Problem", Wako, 2023/9/6-7.|
