@@ -12,7 +12,7 @@ description: "データ同化のエッセンスを理解するための資料を
 
 ### スライド
 
-<iframe src="https://slides.com/kotatakeda/da#/embed" width="576" height="420" title="Essence of Data Assimilation" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://slides.com/kotatakeda/da_essence#/embed" width="576" height="420" title="Essence of Data Assimilation" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ### ノート
 <iframe src="/math/pdf/siam-sc-kyoto-seminar-20240517_note.pdf" width="100%" height="500px"></iframe>
