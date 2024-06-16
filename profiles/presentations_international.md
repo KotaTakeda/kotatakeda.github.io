@@ -2,7 +2,7 @@
   | --- | --- | --- |
   |2024/10/(21-25?) **(upcoming)**| ? |[10th International Symposium on Data Assimilation](https://www.data-assimilation.riken.jp/isda2024/#15/34.65479/135.22148), "Uniform error bounds of the ensemble transform Kalman filter with multiplicative covariance inflation for chaotic dynamics", Kobe, 2024/10/21-25.
   |2024/9/(16-20?) **(upcoming)**|poster|[The CRC International Summer School](https://www.sfb1294.de/events/event/spring-school-2024), "TBD", Boltenhagen, 2024/9/16-20.|
-  |2024/(6/28-7/1?) **(upcoming)**|oral|The 17th SIAM East Asia Section Conference, "Mathematical Analysis of the Ensemble Kalman filter", Macao SAR.|
+  |2024/7/2 **(upcoming)**|oral|The 17th SIAM East Asia Section Conference, "Mathematical Analysis of the Ensemble Kalman filter", Macao SAR, 6/28-7/1.|
   |2024/3/14|oral, invited|DA Seminary at IMT Atlantique, "Theoretical aspect of the ETKF and covariance inflation", Brest, France.|
   |2024/2/28|poster|[SIAM UQ24](https://www.siam.org/conferences/cm/conference/uq24), "Rigorous analysis of the ensemble transform Kalman filter for chaotic dynamical models", Trieste, 2/27-3/1.|
   |2024/1/29|poster|[The 6th R-CCS International Symposium](https://www.r-ccs.riken.jp/R-CCS-Symposium/2024/), "Mathematical analysis of the ensemble transform Kalman filter for chaotic dynamics with multiplicative inflation", Kobe, 1/29-1/30.|
