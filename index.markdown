@@ -77,10 +77,12 @@ title: About me
   | --- | --- |
   |2022-| President of [SIAM Student Chapter Kyoto](https://sites.google.com/view/siam-sc-kyoto/home).|
   |2024/11/20-21|(organizer) The 1st MMS (Mathematics and Mathematical Sciences) Workshop for Young Researchers, Kyoto University.|
-  |2024/6/28-7/1|(organizer of MS) *SIAM Student Chapter Research Presentations* at The 17th SIAM East Asia Section Conference, Macao SAR.|
+  |2024/11/2-4|(organizer) Applied Mathematics Freshman Seminar 2024, Kyoto University.|
+  |2024/9/13|(organizer) [The 1st Kyoto and Waseda SIAM Student Chapter Conference](https://sites.google.com/view/siam-sc-kyoto/event/kyoto-waseda-first), Kyoto University.|
+  |2024/6/28-7/1|(organizer of MS) *SIAM Student Chapter Research Presentations* at [The 17th SIAM East Asia Section Conference](https://www.easiam2024.org/), Macao SAR.|
   |2024/2/28|(organizer) [第2回 京大 応用数理 学生発表会](https://sites.google.com/view/siam-sc-kyoto/event/poster-presentation-2024).|
   |2023/6/17|(organizer) [第1回 京大 応用数理 学生ポスター発表会](https://sites.google.com/view/siam-sc-kyoto/event/poster2023).|
-  |2021 6/16-3/31| 京都大学 OA（[JST未来社会創造事業 TFDA](https://tfda.jp/).|
+  |2021 6/16-3/31| 京都大学 OA ([JST未来社会創造事業 TFDA](https://tfda.jp/)).|
   
 ### 計算
 
