@@ -213,9 +213,11 @@ strong {
       height: 100vh;
       object-fit: cover;
       opacity: 1;
-      // background: url("../../assets/img/math/uq_picture.png");
-      // background: url("../../programming/code/demo/img/night_momiji_river.png");
-      background: url("../../programming/code/demo/img/night_garden_momiji.png");
+      // background: url("../../assets/img/math/uq_picture.png"); //
+      // background: url("../../assets/img/cover/img/night_momiji_river.png"); //
+      // background: url("../../assets/img/cover/img/night_garden_momiji.png"); //
+      background: url("../../assets/img/cover/pond.png"); // summer
+      // background: url("../../assets/img/cover/trieste_math.jpg"); // gold
       // background-color: lighten($main-color, 30%);
       background-position: center;
       background-repeat: no-repeat;
