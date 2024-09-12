@@ -78,6 +78,7 @@ title: About me
   |2022-| President of [SIAM Student Chapter Kyoto](https://sites.google.com/view/siam-sc-kyoto/home).|
   |2024/11/20-21|(organizer) The 1st MMS (Mathematics and Mathematical Sciences) Workshop for Young Researchers, Kyoto University.|
   |2024/11/2-4|(organizer) [Applied Mathematics Freshman Seminar 2024](https://sites.google.com/view/app-math-freshman-seminar-2024/home), Kyoto University.|
+  |2024/10/21-25|(organizer) [The 10th International Symposium on Data Assimilation](https://www.data-assimilation.riken.jp/isda2024/#15/34.65479/135.22148), Kobe.|
   |2024/9/13|(organizer) [The 1st Kyoto and Waseda SIAM Student Chapter Conference](https://sites.google.com/view/siam-sc-kyoto/event/kyoto-waseda-first), Kyoto University.|
   |2024/6/28-7/1|(organizer of MS) *SIAM Student Chapter Research Presentations* at [The 17th SIAM East Asia Section Conference](https://www.easiam2024.org/), Macao SAR.|
   |2024/2/28|(organizer) [第2回 京大 応用数理 学生発表会](https://sites.google.com/view/siam-sc-kyoto/event/poster-presentation-2024).|
@@ -87,10 +88,10 @@ title: About me
 ### 計算
 
   | --- | --- |
-  |2022 9/30| OLCF Hands-On HPC course, SIAM Conference MDS22, SanDiego 修了|
-  |2022 7/11-15| Short Course on Data Assimilation, Imperial College London, online 修了|
+  |2022 9/30| OLCF Hands-On HPC course, SIAM Conference MDS22 修了, SanDiego|
+  |2022 7/11-15| Short Course on Data Assimilation, Imperial College London 修了, online|
   |2021 2/22-3/12 | RIKEN R-CCS 計算科学インターンシップ・プログラム 2020 参加 ([詳細](https://www.r-ccs.riken.jp/library/event/200604/))|
-  |2020 9/2-30 | RCCS DAオンラインスクール受講・修了|
+  |2020 9/2-30 | RCCS DAオンラインスクール修了|
 
 ### アウトリーチ
 
