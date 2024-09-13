@@ -1,7 +1,7 @@
 
   | --- | --- | --- |
   |3/(11-15?) **(upcoming)**|oral, invited|[Synergies of Machine Learning and Numerics](https://conf.rupp.ink/osaka25/), "TBA", Osaka, 2024/3/11-15.|
-  |2024/9/(16-20?) **(upcoming)**|poster|[The CRC International Summer School](https://www.sfb1294.de/events/event/spring-school-2024), "Error analysis of the ensemble square root filters with multiplicative inflation for dissipative dynamical systems", Boltenhagen, 2024/9/16-20.|
+  |2024/9/16 **(upcoming)**|poster|[The CRC International Summer School](https://www.sfb1294.de/events/event/spring-school-2024), "Error analysis of the ensemble square root filters with multiplicative inflation for dissipative dynamical systems", Boltenhagen, 2024/9/16-20.|
   |2024/6/30 |oral|The 17th SIAM East Asia Section Conference, "Mathematical Analysis of the Ensemble Kalman filter", Macao SAR, 2024/6/28-7/1. [slide](https://slides.com/kotatakeda/easiam2024-06-30)|
   |2024/3/14|oral, invited|DA Seminary at IMT Atlantique, "Theoretical aspect of the ETKF and covariance inflation", Brest, France.|
   |2024/2/28|poster|[SIAM UQ24](https://www.siam.org/conferences/cm/conference/uq24), "Rigorous analysis of the ensemble transform Kalman filter for chaotic dynamical models", Trieste, 2/27-3/1.|
