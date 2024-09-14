@@ -2,7 +2,7 @@
   | --- | --- | --- |
   |2024/10/24 **(upcoming)**|口頭,招待|[RIMS共同研究 (公開型) 計算科学に資する数値解析学の展開](https://na.nuap.nagoya-u.ac.jp/~rims2024/)「データ同化の数学解析と数値解析的な課題」, 京都大学数理解析研究所, 2024/10/23-25.|
   |2024/10/19 **(upcoming)**|ポスター|[数学・数理科学専攻若手研究者のための異分野・異業種研究交流会](https://jsiam.org/jsiam_archive/kr/career2024/)「Error analysis of the ensemble Kalman filter」, 東京工業大学(東京科学大学).|
-  |2024/09/13 **(upcoming)** |口頭|[The 1st Kyoto and Waseda SIAM Student Chapter Conference](https://sites.google.com/view/siam-sc-kyoto/event/kyoto-waseda-first)「データ同化の数理」, 京都大学.|
+  |2024/09/13 |口頭|[The 1st Kyoto and Waseda SIAM Student Chapter Conference](https://sites.google.com/view/siam-sc-kyoto/event/kyoto-waseda-first)「データ同化の数理」, 京都大学.|
   |2024/09/06|口頭|[日本数学会2024年度秋季総合分科会](https://www.mathsoc.jp/activity/meeting/osaka24sept/index.html)「Uniform error bounds of the ensemble transform Kalman filter for chaotic dynamics with multiplicative covariance inflation」, 大阪大学, 09/03-06. [slide](https://slides.com/kotatakeda/msj-autumn-2024)|
   |2023/9/2 |ポスター|RIKEN 2024 Summer School「Mathematical Analysis of Data Assimilation for Dissipative Dynamical Systems」, Kobe, 2023/9/2-3.|
   |2024/5/17 |口頭,招待|[The 1st SIAM Student Chapter Kyoto Seminar](https://sites.google.com/view/siam-sc-kyoto/event/seminar-2024/first-seminar)「The Essence of Data Assimilation」, Kyoto University. [資料]({% link math/_posts/2024-05-15-da-introduction.md %})|
