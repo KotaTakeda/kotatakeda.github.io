@@ -74,7 +74,7 @@ title: About me
 #### 国際
 {% include_relative profiles/presentations_international.md %}
 
-  <!-- TODO: contributorリスト -->
+<!-- TODO: contributorリスト -->
 
 
 ## 活動
