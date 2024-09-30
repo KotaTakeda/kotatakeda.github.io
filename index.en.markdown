@@ -39,9 +39,9 @@ Uncertainty Quantification(UQ), mathematical fluid dynamics, Topological Flow Da
 
 ## C.V.
 ### Educational History
-- 2016-2020 Undergraduate student, Faculty of science, Kyoto University.
-- 2020-2022 Graduate student, Graduate school of science, Kyoto University.
 - 2022- Graduate student in Ph.D program, Graduate school of science, Kyoto University
+- 2020-2022 Graduate student, Graduate school of science, Kyoto University.
+- 2016-2020 Undergraduate student, Faculty of science, Kyoto University.
 
 ### Professional History
 - Apr. 2022- Kyoto University Graduate Division Fellow [Kyoto University Division of Graduate Studies](https://www.kugd.k.kyoto-u.ac.jp/en/program)
@@ -49,7 +49,7 @@ Uncertainty Quantification(UQ), mathematical fluid dynamics, Topological Flow Da
 
 [in Japanese >>](/#cv)
 
-### Funding and Awards
+### Funds and Awards
 [in Japanese >>](/#研究費等採択)
 
 ### Presentations
