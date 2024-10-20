@@ -247,7 +247,9 @@ strong {
     align-items: center;
     border-radius: 5px;
     h1 {
+      font-size: larger;
       margin-top: 0;
+      margin-bottom: 5px;
     }
     .paper-list {
       display: flex;
@@ -261,7 +263,7 @@ strong {
         margin: auto;
         border: 1px solid $main-color;
         border-radius: 5px;
-        margin-bottom: 5px;
+        margin-bottom: 15px;
         .paper-title, .paper-link {
           overflow: hidden;
           text-overflow: ellipsis;
