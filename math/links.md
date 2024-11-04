@@ -3,6 +3,9 @@ layout: page
 title: "リンク集"
 description: "リンク集"
 ---
+## プロジェクト
+- [SFB1294](https://www.sfb1294.de) ([Research Area A02](https://www.sfb1294.de/research/research-area-a/a02))
+
 ## 論文・書籍検索
 - [MathSciNet](https://mathscinet.ams.org/mathscinet)
 - [Google Scholar](https://scholar.google.co.jp/schhp?hl=ja)
