@@ -2,7 +2,7 @@
   | --- | --- | --- |
   |3/(11-15?) **(upcoming)**|oral, invited|[Synergies of Machine Learning and Numerics](https://conf.rupp.ink/osaka25/), "TBA", Osaka, 2024/3/11-15.|
   |2024/11/20 **(upcoming)**|oral,invited|[The 1st MMS Workshop for Young Researchers](https://www.math.kyoto-u.ac.jp/ja/event/conference/5525), "Uniform error bounds of the ensemble square root filter for chaotic dynamics with multiplicative covariance inflation", Kyoto, 2024/11/20-21.|
-  |2024/11/3 |oral,invited|[Applied Mathematics Freshman Seminar 2024](https://sites.google.com/view/app-math-freshman-seminar-2024/home), "Mathematical analysis of data assimilation and related topics", Kyoto University, 2024/11/2-4.|
+  |2024/11/3 |oral,invited|[Applied Mathematics Freshman Seminar 2024](https://sites.google.com/view/app-math-freshman-seminar-2024/home), "Mathematical analysis of data assimilation and related topics", Kyoto University, 2024/11/2-4. [slide](https://slides.com/kotatakeda/app-math-freshman2024)|
   |2024/9/16|poster|[The CRC International Summer School](https://www.sfb1294.de/events/event/spring-school-2024), "Error analysis of the ensemble square root filters with multiplicative inflation for dissipative dynamical systems", Boltenhagen, 2024/9/16-20.|
   |2024/6/30 |oral|The 17th SIAM East Asia Section Conference, "Mathematical Analysis of the Ensemble Kalman filter", Macao SAR, 2024/6/28-7/1.|
   |2024/3/14|oral, invited|DA Seminary at IMT Atlantique, "Theoretical aspect of the ETKF and covariance inflation", Brest, France.|
