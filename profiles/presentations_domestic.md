@@ -1,6 +1,6 @@
 
   | --- | --- | --- |
-  |2023/12/? **(upcoming)**|口頭|[2024年度応用数学合同研究集会](https://www.mathsoc.jp/section/appliedmath/CAM/2024/)「ノイズを含む部分観測に対するEnsemble Kalman Filterの誤差解析」, 龍谷大学, 12/5-7.|
+  |2023/12/5 **(upcoming)**|口頭|[2024年度応用数学合同研究集会](https://www.mathsoc.jp/section/appliedmath/CAM/2024/)「ノイズを含む部分観測に対するEnsemble Kalman Filterの誤差解析」, 龍谷大学, 12/5-7.|
   |2024/10/30, 31, 11/29 **(upcoming)**|ポスター|[大学院教育支援機構奨励研究員及びフェローシップ受給者によるポスター発表会・研究交流会](https://www.kugd.k.kyoto-u.ac.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/3151.html), "Mathematical analysis of Data Assimilation", 京都大学.|
   |2024/10/24|口頭,招待|[RIMS共同研究 (公開型) 計算科学に資する数値解析学の展開](https://na.nuap.nagoya-u.ac.jp/~rims2024/)「データ同化の数学解析と数値解析的な課題」, 京都大学数理解析研究所, 2024/10/23-25. [スライド](https://slides.com/kotatakeda/rims-na-20241024)|
   |2024/10/19|ポスター|[数学・数理科学専攻若手研究者のための異分野・異業種研究交流会](https://jsiam.org/jsiam_archive/kr/career2024/)「Error analysis of the ensemble Kalman filter」, 東京工業大学(東京科学大学).|
