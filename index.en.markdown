@@ -38,7 +38,7 @@ Uncertainty Quantification(UQ), mathematical fluid dynamics, Topological Flow Da
 [in Japanese >>](/#開発) -->
 
 
-## C.V. ([Japanese ver. >>](/#cv))
+## C.V.
 ### Education
 - 2022- Graduate Student in Ph.D Program, Graduate School of Science, Kyoto University
 - 2020-2022 Master of Science from Graduate School of Science, Kyoto University.
@@ -68,10 +68,10 @@ Uncertainty Quantification(UQ), mathematical fluid dynamics, Topological Flow Da
 |2024/3|IMT Atlantique, France (host: Prof. [Pierre Tandeo](https://tandeo.wordpress.com/)).|
 
 
-### Publications
+## Publications
 {% include_relative profiles/publications.md %}
 
-### Presentations
+## Presentations
 {% include_relative profiles/presentations_international.md %}
 
 [in Japanese >>](/#発表)

@@ -56,9 +56,6 @@ title: About me
 ### 受賞
 {% include_relative profiles/awards.md %}
 
-### Publications
-{% include_relative profiles/publications.md %}
-
 ### スキル・経験
 
 |---|---|
@@ -67,11 +64,16 @@ title: About me
 |プログラミング言語 (数値計算) |Python (advanced), C (intermediate)|
 |プログラミング言語 (Web開発) |Ruby (advanced), Javascript (advanced)|
 
-### 発表
-#### 国内
+
+## Publications
+{% include_relative profiles/publications.md %}
+
+
+## 発表
+### 国内
 {% include_relative profiles/presentations_domestic.md %}
 
-#### 国際
+### 国際
 {% include_relative profiles/presentations_international.md %}
 
 <!-- TODO: contributorリスト -->
