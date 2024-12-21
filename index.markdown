@@ -46,7 +46,7 @@ title: About me
 |2024/2-3, 9-10|The University of Potsdam, Germany (host: Prof. [Sebastian Reich](https://www.math.uni-potsdam.de/~sreich/)).|
 |2024/3|IMT Atlantique, France (host: Prof. [Pierre Tandeo](https://tandeo.wordpress.com/)).|
 
-### 研究費等採択
+### 研究費
 
 |---|---|
 |2022 - 2025|**不確実性定量化の数理流体力学への包括的な応用 -渦力学とデータ同化を中心に-**　<br> 京都大学大学院教育支援機構プログラム 令和4年度（2022年度）|
