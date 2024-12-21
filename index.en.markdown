@@ -50,15 +50,20 @@ Uncertainty Quantification(UQ), mathematical fluid dynamics, Topological Flow Da
 [in Japanese >>](/#cv)
 
 ### Funds and Awards
+
+|---|---|
+|2022 - 2025|**Comprehensive application of uncertainty quantification to mathematical fluid dynamics - with a focus on vortex dynamics and data assimilation**　<br> Support for Pioneering Research Initiated by the Next Generation program operated by the Japan Science and Technology Agency（2022）|
+|2022 - 2025|**Constructing topological data assimilation theory**<br>2022 RIKEN Junior Research Associate Program, Mathematical Science <br>（RIKEN R-CCS Data assimilation research team）|
+
 [in Japanese >>](/#研究費等採択)
+
+### Publications
+{% include_relative profiles/publications.md %}
 
 ### Presentations
 {% include_relative profiles/presentations_international.md %}
 
 [in Japanese >>](/#発表)
-
-### Publications
-{% include_relative profiles/publications.md %}
 
 ## Activities
 [in Japanese >>](/#活動)
