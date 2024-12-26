@@ -7,7 +7,7 @@
   |2024/10/19|ポスター|[数学・数理科学専攻若手研究者のための異分野・異業種研究交流会](https://jsiam.org/jsiam_archive/kr/career2024/)「Error analysis of the ensemble Kalman filter」, 東京工業大学(東京科学大学).|
   |2024/09/13 |口頭, 招待|[The 1st Kyoto and Waseda SIAM Student Chapter Conference](https://sites.google.com/view/siam-sc-kyoto/event/kyoto-waseda-first)「データ同化の数理」, 京都大学.|
   |2024/09/06|口頭|[日本数学会2024年度秋季総合分科会](https://www.mathsoc.jp/activity/meeting/osaka24sept/index.html)「Uniform error bounds of the ensemble transform Kalman filter for chaotic dynamics with multiplicative covariance inflation」, 大阪大学, 09/03-06.|
-  |2023/9/2 |ポスター|2024 RIKEN Summer School「Mathematical Analysis of Data Assimilation for Dissipative Dynamical Systems」, Kobe, 2023/9/2-3.|
+  |2024/9/2 |ポスター|2024 RIKEN Summer School「Mathematical Analysis of Data Assimilation for Dissipative Dynamical Systems」, Kobe, 2024/9/2-3.|
   |2024/5/17 |口頭,招待|[The 1st SIAM Student Chapter Kyoto Seminar](https://sites.google.com/view/siam-sc-kyoto/event/seminar-2024/first-seminar)「The Essence of Data Assimilation」, Kyoto University. [資料]({% link math/_posts/2024-05-15-da-introduction.md %})|
   |2024/4/19 |口頭,招待|[AIMR Math Group Hybrid Seminar](https://www.wpi-aimr.tohoku.ac.jp/mathematics_unit/english/seminar/20240419.html)「Uniform error bounds of the ensemble transform Kalman filter for infinite-dimensional dynamics with multiplicative covariance inflation」, 東北大学AIMR. [スライド](/math/pdf/aimr_seminar_handout20240419.pdf)|
   |2024/4/12 |口頭,招待|[25th Prediction Science Seminar](https://prediction.riken.jp/events/ps_seminar/20240412/index_en.html)「Uniform error bounds of the ensemble transform Kalman filter with multiplicative covariance inflation for chaotic dynamics	」, R-CCS, 神戸.|
