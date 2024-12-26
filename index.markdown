@@ -51,6 +51,7 @@ title: About me
 |---|---|
 |2022 - 2025|**不確実性定量化の数理流体力学への包括的な応用 -渦力学とデータ同化を中心に-**　<br> 京都大学大学院教育支援機構プログラム 令和4年度（2022年度）|
 |2022 - 2025|**トポロジカルデータ同化理論の構築**<br>理化学研究所2022年度大学院生リサーチ・アソシエイト数理科学 <br>（理研R-CCS データ同化研究チーム）|
+|2024 | **カオス力学系の不安定性に基づくアンサンブルデータ同化への新アプローチ** <br>第63回リバネス研究費 incu・be賞 (奨励賞)|
 
 
 ### 受賞
@@ -84,9 +85,9 @@ title: About me
 
   | --- | --- |
   |2022/10-| President of [SIAM Student Chapter Kyoto](https://sites.google.com/view/siam-sc-kyoto/home).|
-  |2024/11/20-21|(organizer) The 1st MMS (Mathematics and Mathematical Sciences) Workshop for Young Researchers, Kyoto University.|
+  |2024/11/20-21|(organizer) [The 1st MMS Workshop for Young Researchers](https://www.math.kyoto-u.ac.jp/ja/event/conference/5525), Kyoto University.|
   |2024/11/2-4|(organizer) [Applied Mathematics Freshman Seminar 2024](https://sites.google.com/view/app-math-freshman-seminar-2024/home), Kyoto University.|
-  |2024/10/21-25|(organizer) [The 10th International Symposium on Data Assimilation](https://www.data-assimilation.riken.jp/isda2024/#15/34.65479/135.22148), Kobe.|
+  |2024/10/21-25|(organizer) [The 10th International Symposium on Data Assimilation](https://www.data-assimilation.riken.jp/isda2024/), Kobe.|
   |2024/9/16-20|[The CRC International Summer School 2024](https://www.sfb1294.de/events/event/spring-school-2024), Boltenhagen.|
   |2024/9/13|(organizer) [The 1st Kyoto and Waseda SIAM Student Chapter Conference](https://sites.google.com/view/siam-sc-kyoto/event/kyoto-waseda-first), Kyoto University.|
   |2024/6/28-7/1|(organizer of MS) *SIAM Student Chapter Research Presentations* at [The 17th SIAM East Asia Section Conference](https://www.easiam2024.org/), Macao SAR.|
