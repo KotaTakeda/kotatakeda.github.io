@@ -9,7 +9,7 @@
 layout: page
 title: About me
 ---
-<!-- ## main -->
+
 
 [English page >>](/en)
 
