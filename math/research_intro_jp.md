@@ -23,6 +23,13 @@
 #### 最適輸送理論・勾配流のアンサンブルデータ同化への応用
 #最適輸送，#勾配流，#微分幾何学，#フォッカープランク方程式
 
-### 最近の興味
+#### 最近の興味
 #(局所)リアプノフ解析，#データ同化と数値解析，#確率制御と非線形フィルター理論，
 #クープマン作用素と量子データ同化理論，#生成モデル
+
+
+### 博士論文
+*Error Analysis of the Ensemble Square Root Filter for Dissipative Dynamical Systems*
+
+- [博士論文](/math/pdf/thesis.pdf)
+- [学位審査公開講演 2025/01/23 スライド](https://slides.com/kotatakeda/thesis-presentation)

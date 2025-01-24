@@ -25,10 +25,16 @@ In particular, I'm working on **UQ(Uncertainty Quantification)** approaches to m
 I am also interested in interdisciplinary studies, where I would like to interact with many researchers in different fields by using mathematics. 
 <!-- Since I am good at constructing mathematical models and analyzing data, these skills can help to make progress on study in some fields except mathematics. -->
 
+### Ph.D Thesis
+*Error Analysis of the Ensemble Square Root Filter for Dissipative Dynamical Systems*
+
+- [Thesis paper](/math/pdf/thesis.pdf)
+- [Thesis defense 2025/01/23 slide](https://slides.com/kotatakeda/thesis-presentation)
+
 ### Specific themes
-- Computing a stationary flow of 2D Euler equation with Hamiltonian Monte Carlo
 - Mathematical analysis of data assimilation
-- Creating the fundamental framework of data assimilation with topological data
+- Building the fundamental framework of data assimilation with topological data
+- Computing a stationary flow of the 2D Euler equation with Hamiltonian Monte Carlo
 
 ### Keywords
 Uncertainty Quantification(UQ), mathematical fluid dynamics, Topological Flow Data Analysis(TFDA), data assimilation, interdisciplinary studies, machine learning, weather forecasting
