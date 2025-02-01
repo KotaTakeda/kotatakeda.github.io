@@ -46,9 +46,14 @@ Uncertainty Quantification(UQ), mathematical fluid dynamics, Topological Flow Da
 
 ## C.V.
 ### Education
-- 2022- Graduate Student in Ph.D Program, Graduate School of Science, Kyoto University
-- 2020-2022 Master of Science from Graduate School of Science, Kyoto University.
-- 2016-2020 Bachelor of Science from Faculty of Science, Kyoto University.
+
+|---|---|
+|2022- |Graduate Student in Ph.D Program, Graduate School of Science, Kyoto University.|
+|2022/3 |Master of Science from Graduate School of Science, Kyoto University.<br>Supervisor: Professor Takashi Sakajo (Kyoto University)|
+|2020/3 |Bachelor of Science from Faculty of Science, Kyoto University.<br>Supervisor: Professor Takashi Sakajo (Kyoto University)|
+
+<!-- TODO -->
+<!-- |2025/3 |Doctor of Science from Graduate School of Science, Kyoto University.<br>Thesis：Error Analysis of the Ensemble Square Root Filter for Dissipative Dynamical Systems<br>Supervisors: Professor Takashi Sakajo (Kyoto University), Professor Takemasa Miyoshi (Kyoto University & RIKEN), Professor Sebastian Reich (University of Potsdam| -->
 
 ### Employment
 - Apr. 2022- Kyoto University Graduate Division Fellow [Kyoto University Division of Graduate Studies](https://www.kugd.k.kyoto-u.ac.jp/en/program)
