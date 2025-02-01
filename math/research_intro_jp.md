@@ -32,4 +32,5 @@
 *Error Analysis of the Ensemble Square Root Filter for Dissipative Dynamical Systems*
 
 - [博士論文](/math/pdf/thesis.pdf)
+- [博士論文(日本語版)](/math/pdf/thesis_jp.pdf)
 - [学位審査公開講演 2025/01/23 スライド](https://slides.com/kotatakeda/thesis-presentation)
