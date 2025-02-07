@@ -17,4 +17,4 @@
   |2023/7/31|poster|[TDA week 2023](https://sites.google.com/view/tdaweek2023/home), "Topological Regularization in Numerical Simulation" at Kyoto University, 7/31-8/4.|
   |2023/2/6|poster|[The 5th R-CCS International Symposium](https://www.r-ccs.riken.jp/R-CCS-Symposium/2023/), "Computing the invariant measure of the N-vortex problem on the unit sphere" at R-CCS, Kobe.|
   |2023/1/24|oral, invited|Conference 'Mathematical Structure in Quantum Fluids', "A Monte Carlo approach to the N-vortex problem on the unit sphere" at Osaka Metropolitan University, 1/23-25.|
-  |2023/1/9|poster, invited |[East Asian Core Doctoral Forum on Mathematics 2023](https://ncts.ntu.edu.tw/templet3/index.php?nid=359), "Efficient sampling method on compact manifolds and its application to turbulent statistics on the unit sphere" at Taiwan National University, 1/9-12.|
+  |2023/1/9|poster, invited |[East Asian Core Doctoral Forum on Mathematics 2023](https://ncts.ntu.edu.tw/templet3/index.php?nid=359), "Efficient sampling method on compact manifolds and its application to turbulent statistics on the unit sphere" at National Taiwan University, 1/9-12.|
