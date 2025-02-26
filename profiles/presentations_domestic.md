@@ -1,6 +1,6 @@
 
   | --- | --- | --- |
-  |2025/3/17 **upcoming**|ポスター,招待|数学と諸分野の連携にむけた若手数学者交流会2025 Session "Young Mathematicians' Challenge" 2025「移流方程式の数値計算におけるトポロジー正則化」, JST東京本部別館（市ヶ谷）, 2025/3/16-17.|
+  |2025/3/17 **upcoming**|ポスター,招待|[数学と諸分野の連携にむけた若手数学者交流会2025 Session "Young Mathematicians' Challenge" 2025](https://www.jst.go.jp/kisoken/aip/result/event/YMC2025/)「移流方程式の数値計算におけるトポロジー正則化」, JST東京本部別館（市ヶ谷）, 2025/3/16-17.|
   |2025/3/8 **upcoming**|ポスター|[日本応用数理学会　若手の会　第10回学生研究発表会](http://wakate.jsiam.org/)「移流方程式の数値計算におけるトポロジー正則化」, 岡山国際交流センター, 2025/3/8.|
   |2024/12/5|口頭|[2024年度応用数学合同研究集会](https://www.mathsoc.jp/section/appliedmath/CAM/2024/)「ノイズを含む部分観測に対するEnsemble Kalman Filterの誤差解析」, 龍谷大学, 12/5-7. [スライド(private)](https://slides.com/kotatakeda/msjcam2024)|
   |2024/10/30, 31, 11/29|ポスター|[大学院教育支援機構奨励研究員及びフェローシップ受給者によるポスター発表会・研究交流会](https://www.kyoto-u.ac.jp/ja/news/2024-12-18-0), "Mathematical analysis of Data Assimilation", 京都大学, 12/5-7.|
