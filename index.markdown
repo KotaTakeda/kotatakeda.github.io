@@ -32,8 +32,10 @@ title: About me
 |2020/3 |京都大学 理学部 数学系 卒業<br>指導教員：坂上貴之教授|
 |2016/3 | 大阪府立住吉高等学校 卒業|
 
-<!-- TODO -->
-<!-- |2025/3 |京都大学 大学院理学研究科 数学・数理解析専攻　博士後期課程　修了<br>博士論文：Error Analysis of the Ensemble Square Root Filter for Dissipative Dynamical Systems<br>指導教員：坂上貴之教授，三好建正チームリーダー，Sebastian Reich教授| -->
+<!-- |2025/3 |京都大学 大学院理学研究科 数学・数理解析専攻　博士後期課程　修了<br>博士論文：Error Analysis of the Ensemble Square Root Filter for Dissipative Dynamical Systems<br>指導教員：坂上貴之教授，三好建正チームリーダー，Sebastian Reich教授|
+|2025/3 | [京都大学 大学院理学研究科 スーパーグローバルコース（数学分野）](https://www.math.kyoto-u.ac.jp/ja/ktgu/ktgu) 修了|
+|2025/3 | [京都大学 大学院理学研究科 数学・数理科学イノベーション人材育成強化コース 数理人材強化プログラム（展開）](https://www.math.kyoto-u.ac.jp/ja/ktgu/innovation) 修了|
+|2025/3 | [京都大学 大学院理学研究科 数学・数理科学イノベーション人材育成強化コース 数理人材強化プログラム（国際）](https://www.math.kyoto-u.ac.jp/ja/ktgu/innovation) 修了| -->
 
 ### 職歴など
 
