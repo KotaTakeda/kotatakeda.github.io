@@ -13,11 +13,9 @@ title: About me
 
 [English page >>](/en)
 
-京都大学 大学院理学研究科 数学・数理解析専攻 数学系 博士後期課程\\
-*takeda.kota.53r[at]st.kyoto-u.ac.jp*
-
-理化学研究所 計算科学研究センター データ同化研究チーム 大学院生リサーチ・アソシエイト\\
-*kota.takeda[at]riken.jp*
+名古屋大学 大学院工学研究科 応用物理学専攻 量子物理工学講座
+数理工学研究グループ 張研究室 助教\\
+*takeda[at]na.nuap.nagoya-u.ac.jp*
 
 ## 研究
 {% include_relative math/research_intro_jp.md %}

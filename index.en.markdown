@@ -12,11 +12,9 @@ permalink: /en/
 ---
 Welcome to Kota Takeda's home page! [Japanese page >>](/)
 
-Ph.D student, Department of mathematics, Graduate school of science, Kyoto University\\
-*takeda.kota.53r[at]st.kyoto-u.ac.jp*
+Assistant Professor, Department of Applied Physics, Graduate School of Engineering, Nagoya University\\
+*takeda[at]na.nuap.nagoya-u.ac.jp*
 
-Junior Research Associate, Data Assimilation research team, RIKEN Center for Computational Science (R-CCS)\\
-*kota.takeda[at]riken.jp*
 
 ## Research Interests
 My research focuses on applying mathematical tools to analyze complex and chaotic phenomena, utilizing both theoretical and numerical methods.
