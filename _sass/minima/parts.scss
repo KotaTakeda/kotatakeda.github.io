@@ -23,6 +23,7 @@ strong {
     width: 100%;
     position: absolute;
     top:30%;
+    text-shadow: 1px 1px 5px black;
     h1 {
       text-align: center;
       color: #fff;
@@ -214,19 +215,20 @@ strong {
       object-fit: cover;
       opacity: 1;
       // background: url("../../assets/img/math/uq_picture.png"); //
+      background: url("../../assets/img/cover/cherry_blossom1.jpeg"); // spring
       // background: url("../../assets/img/cover/night_momiji_river.jpg"); //
       // background: url("../../assets/img/cover/night_garden_momiji.jpg"); //
-      background: url("../../assets/img/cover/pond.jpg"); // summer
+      // background: url("../../assets/img/cover/pond.jpg"); // summer
       // background: url("../../assets/img/cover/trieste_math.jpg"); // gold
-      // background-color: lighten($main-color, 30%);
+      background-color: darken($base-color, 30%);
       background-position: center;
       background-repeat: no-repeat;
       background-attachment: scroll;
       background-size: cover;
-      background-blend-mode: darken;
-      @if $is-dark-theme {
-        background-blend-mode: darken;
-      }
+      background-blend-mode: hard-light;
+      // @if $is-dark-theme {
+      //   background-blend-mode: darken;
+      // }
     }
 
     .animated-bg {
@@ -243,7 +245,7 @@ strong {
     right: 3vw;
     padding: $spacing-unit;
     background: white;
-    opacity: 70%;
+    opacity: 85%;
     align-items: center;
     border-radius: 5px;
     h1 {
