@@ -64,11 +64,7 @@ Uncertainty Quantification(UQ), mathematical fluid dynamics, Topological Flow Da
 |2022 - 2025|**Constructing topological data assimilation theory**<br>2022 RIKEN Junior Research Associate Program, Mathematical Science <br>（RIKEN R-CCS Data assimilation research team）|
 
 ### Awards
-
-|---|---|
-|2024 | 63th Leave a Nest incu-be award from Leave a Nest Co., Ltd.|
-|2023 | The 20th International Conference on Flow Dynamics Best Presentation Award for Young Researcher.|
-|2023 | Poster Award Mathematical Science Prize at RIKEN summer school 2023.|
+{% include_relative profiles/awards_en.md %}
 
 ### Visit
 

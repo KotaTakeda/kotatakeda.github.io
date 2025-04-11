@@ -53,7 +53,7 @@ title: About me
 
 
 ### 受賞
-{% include_relative profiles/awards.md %}
+{% include_relative profiles/awards_ja.md %}
 
 ### スキル・経験
 
