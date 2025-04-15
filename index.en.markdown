@@ -46,7 +46,7 @@ Uncertainty Quantification(UQ), mathematical fluid dynamics, Topological Flow Da
 ### Education
 
 |---|---|
-|2022- |Graduate Student in Ph.D Program, Graduate School of Science, Kyoto University.|
+|2022- |Docter of Science from Graduate School of Science, Kyoto University.<br>Supervisor: Professor Takashi Sakajo (Kyoto University), Doctor Takemasa Miyoshi (RIKEN Team Leader), Professor Sebastian Reich (University of Potsdam)|
 |2022/3 |Master of Science from Graduate School of Science, Kyoto University.<br>Supervisor: Professor Takashi Sakajo (Kyoto University)|
 |2020/3 |Bachelor of Science from Faculty of Science, Kyoto University.<br>Supervisor: Professor Takashi Sakajo (Kyoto University)|
 
