@@ -46,16 +46,13 @@ Uncertainty Quantification(UQ), mathematical fluid dynamics, Topological Flow Da
 ### Education
 
 |---|---|
-|2022- |Docter of Science from Graduate School of Science, Kyoto University.<br>Supervisor: Professor Takashi Sakajo (Kyoto University), Doctor Takemasa Miyoshi (RIKEN Team Leader), Professor Sebastian Reich (University of Potsdam)|
+|2022- |Docter of Science from Graduate School of Science, Kyoto University.<br>Thesis：Error Analysis of the Ensemble Square Root Filter for Dissipative Dynamical Systems<br>Supervisor: Professor Takashi Sakajo (Kyoto University), Professor Takemasa Miyoshi (Kyoto University & RIKEN), Professor Sebastian Reich (University of Potsdam)|
 |2022/3 |Master of Science from Graduate School of Science, Kyoto University.<br>Supervisor: Professor Takashi Sakajo (Kyoto University)|
 |2020/3 |Bachelor of Science from Faculty of Science, Kyoto University.<br>Supervisor: Professor Takashi Sakajo (Kyoto University)|
 
-<!-- TODO -->
-<!-- |2025/3 |Doctor of Science from Graduate School of Science, Kyoto University.<br>Thesis：Error Analysis of the Ensemble Square Root Filter for Dissipative Dynamical Systems<br>Supervisors: Professor Takashi Sakajo (Kyoto University), Professor Takemasa Miyoshi (Kyoto University & RIKEN), Professor Sebastian Reich (University of Potsdam| -->
-
 ### Employment
-- Apr. 2022- Kyoto University Graduate Division Fellow [Kyoto University Division of Graduate Studies](https://www.kugd.k.kyoto-u.ac.jp/en/program)
-- Apr. 2022- RIKEN Junior Research Associate at R-CCS Data Assimilation research team [JRA 2022](https://www.riken.jp/en/careers/programs/jra/jra2022/index.html)
+- Apr. 2022 - Mar. 2025 Kyoto University Graduate Division Fellow [Kyoto University Division of Graduate Studies](https://www.kugd.k.kyoto-u.ac.jp/en/program)
+- Apr. 2022 - Mar. 2025 RIKEN Junior Research Associate at R-CCS Data Assimilation research team [JRA 2022](https://www.riken.jp/en/careers/programs/jra/jra2022/index.html)
 
 ### Funds  
 
