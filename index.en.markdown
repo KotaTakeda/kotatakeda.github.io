@@ -46,9 +46,9 @@ Uncertainty Quantification(UQ), mathematical fluid dynamics, Topological Flow Da
 ### Education
 
 |---|---|
-|2022- |Docter of Science from Graduate School of Science, Kyoto University.<br>Thesis：Error Analysis of the Ensemble Square Root Filter for Dissipative Dynamical Systems<br>Supervisor: Professor Takashi Sakajo (Kyoto University), Professor Takemasa Miyoshi (Kyoto University & RIKEN), Professor Sebastian Reich (University of Potsdam)|
-|2022/3 |Master of Science from Graduate School of Science, Kyoto University.<br>Supervisor: Professor Takashi Sakajo (Kyoto University)|
-|2020/3 |Bachelor of Science from Faculty of Science, Kyoto University.<br>Supervisor: Professor Takashi Sakajo (Kyoto University)|
+|Mar. 2025|Docter of Science from Graduate School of Science, Kyoto University.<br>Thesis：Error Analysis of the Ensemble Square Root Filter for Dissipative Dynamical Systems<br>Supervisor: Professor Takashi Sakajo (Kyoto University), Professor Takemasa Miyoshi (Kyoto University & RIKEN), Professor Sebastian Reich (University of Potsdam)|
+|Mar. 2022 |Master of Science from Graduate School of Science, Kyoto University.<br>Supervisor: Professor Takashi Sakajo (Kyoto University)|
+|Mar. 2020 |Bachelor of Science from Faculty of Science, Kyoto University.<br>Supervisor: Professor Takashi Sakajo (Kyoto University)|
 
 ### Employment
 - Apr. 2022 - Mar. 2025 Kyoto University Graduate Division Fellow [Kyoto University Division of Graduate Studies](https://www.kugd.k.kyoto-u.ac.jp/en/program)
@@ -66,8 +66,8 @@ Uncertainty Quantification(UQ), mathematical fluid dynamics, Topological Flow Da
 ### Visit
 
 |---|---|
-|2024/2-3, 9-10|The University of Potsdam, Germany (host: Prof. [Sebastian Reich](https://www.math.uni-potsdam.de/~sreich/)).|
-|2024/3|IMT Atlantique, France (host: Prof. [Pierre Tandeo](https://tandeo.wordpress.com/)).|
+|Feb.-Mar., Sep.-Oct. 2024|The University of Potsdam, Germany (host: Prof. [Sebastian Reich](https://www.math.uni-potsdam.de/~sreich/)).|
+|Mar. 2024|IMT Atlantique, France (host: Prof. [Pierre Tandeo](https://tandeo.wordpress.com/)).|
 
 
 ## Publications
