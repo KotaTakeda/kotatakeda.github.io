@@ -18,7 +18,7 @@ Assistant Professor, Department of Applied Physics, Graduate School of Engineeri
 
 ## Research Interests
 My research focuses on applying mathematical tools to analyze complex and chaotic phenomena, utilizing both theoretical and numerical methods.
-In particular, I'm working on **UQ(Uncertainty Quantification)** approaches to mathematical fluid dynamics.
+In particular, I'm working on **UQ(Uncertainty Quantification)** approaches to mathematical fluid mechanics.
 
 I am also interested in interdisciplinary studies, where I would like to interact with many researchers in different fields by using mathematics. 
 <!-- Since I am good at constructing mathematical models and analyzing data, these skills can help to make progress on study in some fields except mathematics. -->
@@ -35,7 +35,7 @@ I am also interested in interdisciplinary studies, where I would like to interac
 - Computing a stationary flow of the 2D Euler equation with Hamiltonian Monte Carlo
 
 ### Keywords
-Uncertainty Quantification(UQ), mathematical fluid dynamics, Topological Flow Data Analysis(TFDA), data assimilation, interdisciplinary studies, machine learning, weather forecasting
+Uncertainty Quantification(UQ), mathematical fluid mechanics, Topological Flow Data Analysis(TFDA), data assimilation, interdisciplinary studies, machine learning, weather forecasting
 
 <!-- 
 ### Developments
@@ -57,7 +57,7 @@ Uncertainty Quantification(UQ), mathematical fluid dynamics, Topological Flow Da
 ### Funds  
 
 |---|---|
-|2022 - 2025|**Comprehensive application of uncertainty quantification to mathematical fluid dynamics - with a focus on vortex dynamics and data assimilation**　<br> Support for Pioneering Research Initiated by the Next Generation program operated by the Japan Science and Technology Agency（2022）|
+|2022 - 2025|**Comprehensive application of uncertainty quantification to mathematical fluid mechanics - with a focus on vortex dynamics and data assimilation**　<br> Support for Pioneering Research Initiated by the Next Generation program operated by the Japan Science and Technology Agency（2022）|
 |2022 - 2025|**Constructing topological data assimilation theory**<br>2022 RIKEN Junior Research Associate Program, Mathematical Science <br>（RIKEN R-CCS Data assimilation research team）|
 
 ### Awards
