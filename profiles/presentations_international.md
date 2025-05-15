@@ -1,6 +1,6 @@
 
   | --- | --- | --- |
-  |2025/7/(8-10?) **(upcoming)**|oral|[The Third HKSIAM Biennial Conference](https://www.math.cuhk.edu.hk/conference/hksiam2025/index.php), Error analysis of the ensemble Kalman filter for chaotic dynamical systems with covariance inflation techniques, Hong Kong, 2025/7/7-11.|
+  |2025/7/9 **(upcoming)**|oral|[The Third HKSIAM Biennial Conference](https://www.math.cuhk.edu.hk/conference/hksiam2025/index.php), Error analysis of the ensemble Kalman filter for chaotic dynamical systems with covariance inflation techniques, Hong Kong, 2025/7/7-11.|
   |2025/7/(14-18?) **(upcoming)**|oral, invited|[Efficient Sampling Algorithms for Complex Models 1](https://ims.nus.edu.sg/events/efficient-sampling-algorithms-complex-models/), TBA, Singapore, 2025/7/14-18.|
   |2025/3/13|oral, invited|[Synergies of Machine Learning and Numerics](https://conf.rupp.ink/osaka25/), "Error analysis and numerical issues in data assimilation", Osaka, 2025/3/11-13.|
   |2024/11/20 |oral,invited|[The 1st MMS Workshop for Young Researchers](https://www.math.kyoto-u.ac.jp/ja/event/conference/5525), "Uniform error bounds of the ensemble square root filter for chaotic dynamics with multiplicative covariance inflation", Kyoto, 2024/11/20-21. [slide](https://slides.com/kotatakeda/mms_workshop)|
