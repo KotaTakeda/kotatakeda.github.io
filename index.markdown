@@ -58,8 +58,9 @@ title: About me
 ### スキル・経験
 
 |---|---|
-|高等学校教諭一種免許状（数学） | 2020/9 取得|
-|京都大学 数学TA |2020年 線形代数学A演義，微分積分学B演義，<br>2021年 数学質問コーナー，解析学演習．|
+|高等学校教諭一種免許状（数学） | 2020年9月 取得|
+|京都大学 数学 Teaching Assistant |2020年 線形代数学A演義，微分積分学B演義，<br>2021年 数学質問コーナー，解析学演習．|
+|京都大学 Office Assistant|2021年6月16日-3月31日 ([JST未来社会創造事業 TFDA](https://tfda.jp/)).|
 |プログラミング言語 (数値計算) |Python (advanced), C (intermediate)|
 |プログラミング言語 (Web開発) |Ruby (advanced), Javascript (advanced)|
 
@@ -81,26 +82,25 @@ title: About me
 
 |年度|期間|科目|対象|内容|
 |2025|前期 月4|数学1及び演習（演習担当）|物理工学科2年生|ベクトル解析・常微分方程式|
-||後期 火1|数学2及び演習（演習担当）|物理工学科2年生|フーリエ解析・偏微分方程式|
+|    |後期 火1|数学2及び演習（演習担当）|物理工学科2年生|フーリエ解析・偏微分方程式|
 
 ## 活動
-### 数学
+### 学会
 
   | --- | --- |
   |2022/10-| President of [SIAM Student Chapter Kyoto](https://sites.google.com/view/siam-sc-kyoto/home).|
   |2024/11/20-21|(organizer) [The 1st MMS Workshop for Young Researchers](https://www.math.kyoto-u.ac.jp/ja/event/conference/5525), Kyoto University.|
   |2024/11/2-4|(organizer) [Applied Mathematics Freshman Seminar 2024](https://sites.google.com/view/app-math-freshman-seminar-2024/home), Kyoto University.|
   |2024/10/21-25|(organizer) [The 10th International Symposium on Data Assimilation](https://www.data-assimilation.riken.jp/isda2024/), Kobe.|
-  |2024/9/16-20|[The CRC International Summer School 2024](https://www.sfb1294.de/events/event/spring-school-2024), Boltenhagen.|
   |2024/9/13|(organizer) [The 1st Kyoto and Waseda SIAM Student Chapter Conference](https://sites.google.com/view/siam-sc-kyoto/event/kyoto-waseda-first), Kyoto University.|
   |2024/6/28-7/1|(organizer of MS) *SIAM Student Chapter Research Presentations* at [The 17th SIAM East Asia Section Conference](https://www.easiam2024.org/), Macao SAR.|
   |2024/2/28|(organizer) [第2回 京大 応用数理 学生発表会](https://sites.google.com/view/siam-sc-kyoto/event/poster-presentation-2024).|
   |2023/6/17|(organizer) [第1回 京大 応用数理 学生ポスター発表会](https://sites.google.com/view/siam-sc-kyoto/event/poster2023).|
-  |2021 6/16-3/31| 京都大学 OA ([JST未来社会創造事業 TFDA](https://tfda.jp/)).|
   
-### 計算
+### スクールなど
 
   | --- | --- |
+  |2024/9/16-20|[The CRC International Summer School 2024](https://www.sfb1294.de/events/event/spring-school-2024), Boltenhagen.|
   |2022 9/30| OLCF Hands-On HPC course, SIAM Conference MDS22 修了, SanDiego|
   |2022 7/11-15| Short Course on Data Assimilation, Imperial College London 修了, online|
   |2021 2/22-3/12 | RIKEN R-CCS 計算科学インターンシップ・プログラム 2020 参加 ([詳細](https://www.r-ccs.riken.jp/library/event/200604/))|
