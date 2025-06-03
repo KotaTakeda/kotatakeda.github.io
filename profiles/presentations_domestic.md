@@ -1,9 +1,10 @@
 
   | --- | --- | --- |
-  |2025/9/(7-11?) **(upcoming)**|口頭|[2025年度 統計関連学会連合大会](https://pub.confit.atlas.jp/ja/event/jfssa2025), 非線形カオス力学系の時系列状態推定と誤差解析, 関西大学, 9/7-11.|
+  |2025/9/(16-19?) **(upcoming)**|口頭|[日本数学会2025年度秋季総合分科会](https://www.mathsoc.jp/activity/meeting/nagoya25sept/index.html)「ノイズを含む部分観測に対するEnsemble Kalman Filter の誤差解析」, 名古屋大学, 2025/9/16-19.|
+  |2025/9/(7-11?) **(upcoming)**|口頭|[2025年度 統計関連学会連合大会](https://pub.confit.atlas.jp/ja/event/jfssa2025)「非線形カオス力学系の時系列状態推定と誤差解析」, 関西大学, 9/7-11.|
   |2025/6/(12-13?) **(upcoming)**|口頭, 招待|[ワークショップ 数理・計算・データに基づく流体解析の最前線](https://joint.imi.kyushu-u.ac.jp/post-18110/)「Lorenz96モデルのノイズを含む部分観測に対するEnsemble Kalman Filterの誤差解析」, 九州大学, 6/12-13.|
-  |2025/3/17|ポスター,招待|[数学と諸分野の連携にむけた若手数学者交流会2025 Session "Young Mathematicians' Challenge" 2025](https://www.jst.go.jp/kisoken/aip/result/event/YMC2025/)「移流方程式の数値計算におけるトポロジー正則化」, AP市ヶ谷, 3/16-17.|
-  |2025/3/8|ポスター|[日本応用数理学会　若手の会　第10回学生研究発表会](http://wakate.jsiam.org/)「移流方程式の数値計算におけるトポロジー正則化」, 岡山国際交流センター.|
+  |2025/3/17|ポスター,招待|[数学と諸分野の連携にむけた若手数学者交流会2025 Session "Young Mathematicians' Challenge" 2025](https://www.jst.go.jp/kisoken/aip/result/event/YMC2025/)「移流方程式の数値計算におけるトポロジー正則化」, AP市ヶ谷, 2025/3/16-17.|
+  |2025/3/8|ポスター|[日本応用数理学会　若手の会　第10回学生研究発表会](http://wakate.jsiam.org/)「移流方程式の数値計算におけるトポロジー正則化」, 岡山国際交流センター, 2025/3/8.|
   |2024/12/5|口頭|[2024年度応用数学合同研究集会](https://www.mathsoc.jp/section/appliedmath/CAM/2024/)「ノイズを含む部分観測に対するEnsemble Kalman Filterの誤差解析」, 龍谷大学, 12/5-7. [スライド(private)](https://slides.com/kotatakeda/msjcam2024)|
   |2024/10/30, 31, 11/29|ポスター|[大学院教育支援機構奨励研究員及びフェローシップ受給者によるポスター発表会・研究交流会](https://www.kyoto-u.ac.jp/ja/news/2024-12-18-0)「Mathematical analysis of Data Assimilation」, 京都大学, 10/30,31,11/29.|
   |2024/10/24|口頭,招待|[RIMS共同研究 (公開型) 計算科学に資する数値解析学の展開](https://na.nuap.nagoya-u.ac.jp/~rims2024/)「データ同化の数学解析と数値解析的な課題」, 京都大学数理解析研究所, 2024/10/23-25. [スライド(private)](https://slides.com/kotatakeda/rims-na-20241024)|
