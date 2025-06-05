@@ -17,6 +17,7 @@ title: About me
 数理工学研究グループ 張研究室 助教\\
 *takeda[at]na.nuap.nagoya-u.ac.jp*
 
+
 ## 研究
 {% include_relative math/research_intro_jp.md %}
 
