@@ -28,6 +28,7 @@ I am also interested in interdisciplinary studies, where I would like to interac
 
 - [Thesis paper](/math/pdf/thesis.pdf)
 - [Thesis defense 2025/01/23 slide](https://slides.com/kotatakeda/thesis-presentation)
+- [Code for thesis](https://github.com/KotaTakeda/thesis)
 
 ### Specific themes
 - Mathematical analysis of data assimilation
