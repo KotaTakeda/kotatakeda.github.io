@@ -21,7 +21,6 @@ My research focuses on applying mathematical tools to analyze complex and chaoti
 In particular, I'm working on **UQ(Uncertainty Quantification)** approaches to mathematical fluid mechanics.
 
 I am also interested in interdisciplinary studies, where I would like to interact with many researchers in different fields by using mathematics. 
-<!-- Since I am good at constructing mathematical models and analyzing data, these skills can help to make progress on study in some fields except mathematics. -->
 
 ### Ph.D Thesis
 *Error Analysis of the Ensemble Square Root Filter for Dissipative Dynamical Systems*
