@@ -89,7 +89,7 @@ title: About me
 ### 学会
 
   | --- | --- |
-  |2022/10-| President of [SIAM Student Chapter Kyoto](https://sites.google.com/view/siam-sc-kyoto/home).|
+  |2022/10-2025/3| President of [SIAM Student Chapter Kyoto](https://sites.google.com/view/siam-sc-kyoto/home).|
   |2024/11/20-21|(organizer) [The 1st MMS Workshop for Young Researchers](https://www.math.kyoto-u.ac.jp/ja/event/conference/5525), Kyoto University.|
   |2024/11/2-4|(organizer) [Applied Mathematics Freshman Seminar 2024](https://sites.google.com/view/app-math-freshman-seminar-2024/home), Kyoto University.|
   |2024/10/21-25|(organizer) [The 10th International Symposium on Data Assimilation](https://www.data-assimilation.riken.jp/isda2024/), Kobe.|
