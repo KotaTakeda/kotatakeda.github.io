@@ -35,6 +35,9 @@ title: About me
 ### 職歴など
 
 |---|---|
+|2025/7 - 現在 |理化学研究所 計算科学研究センター [データ同化研究チーム 客員研究員](https://www.data-assimilation.riken.jp/jp/member/index.html)|
+|2025/4 - 現在 |名古屋大学 大学院工学研究科 応用物理学専攻 量子物理工学講座
+数理工学研究グループ [張研究室 助教](https://na.nuap.nagoya-u.ac.jp/)|
 |2022/4 - 2025/3 |理化学研究所 計算科学研究センター データ同化研究チーム 大学院生リサーチ・アソシエイト(JRA) [JRA 2022](https://www.riken.jp/careers/programs/jra/jra2022/index.html)|
 |2022/4 - 2025/3 |京都大学大学院教育支援機構 奨励研究員 [京都大学 大学院教育支援機構プログラム](https://www.kugd.k.kyoto-u.ac.jp/program)|
 |2019/9 - 2022/3 |株式会社 activo webエンジニア|
@@ -44,6 +47,7 @@ title: About me
 |---|---|
 |2024/2-3, 9-10|The University of Potsdam, Germany (host: Prof. [Sebastian Reich](https://www.math.uni-potsdam.de/~sreich/)).|
 |2024/3|IMT Atlantique, France (host: Prof. [Pierre Tandeo](https://tandeo.wordpress.com/)).|
+
 
 ### 研究費等
 
@@ -55,6 +59,14 @@ title: About me
 
 ### 受賞
 {% include_relative profiles/awards_ja.md %}
+
+### プロジェクト等
+
+|---|---|
+|2021/6-現在|[JST未来社会創造事業「未来医療を創出する4次元トポロジカルデータ解析数理共通基盤](https://tfda.jp/)|
+|2025/4-2026/3|[京都大学 MACS教育プログラム SG2025-12「外れ値でみる理学」参加教員](https://sci.kyoto-u.ac.jp/ja/academics/programs/macs/sg/sg2025-12)|
+
+<!-- |2025/6- |[Moonshot8 小槻プロジェクト](https://www.jst.go.jp/moonshot/program/goal8/89_kotsuki.html)| -->
 
 ### スキル・経験
 
