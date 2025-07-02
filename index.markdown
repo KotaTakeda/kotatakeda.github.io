@@ -36,8 +36,7 @@ title: About me
 
 |---|---|
 |2025/7 - 現在 |理化学研究所 計算科学研究センター [データ同化研究チーム 客員研究員](https://www.data-assimilation.riken.jp/jp/member/index.html)|
-|2025/4 - 現在 |名古屋大学 大学院工学研究科 応用物理学専攻 量子物理工学講座
-数理工学研究グループ [張研究室 助教](https://na.nuap.nagoya-u.ac.jp/)|
+|2025/4 - 現在 |名古屋大学 大学院工学研究科 応用物理学専攻 量子物理工学講座 数理工学研究グループ [張研究室 助教](https://na.nuap.nagoya-u.ac.jp/)|
 |2022/4 - 2025/3 |理化学研究所 計算科学研究センター データ同化研究チーム 大学院生リサーチ・アソシエイト(JRA) [JRA 2022](https://www.riken.jp/careers/programs/jra/jra2022/index.html)|
 |2022/4 - 2025/3 |京都大学大学院教育支援機構 奨励研究員 [京都大学 大学院教育支援機構プログラム](https://www.kugd.k.kyoto-u.ac.jp/program)|
 |2019/9 - 2022/3 |株式会社 activo webエンジニア|
