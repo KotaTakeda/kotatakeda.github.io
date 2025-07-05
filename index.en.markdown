@@ -12,9 +12,10 @@ permalink: /en/
 ---
 Welcome to Kota Takeda's home page! [Japanese page >>](/)
 
-Assistant Professor, Department of Applied Physics, Graduate School of Engineering, Nagoya University\\
+**Assistant Professor**, Department of Applied Physics, Graduate School of Engineering, Nagoya University\\
 *takeda[at]na.nuap.nagoya-u.ac.jp*
 
+**Visiting Researcher**, Data Assimilation research team, RIKEN Center for Computational Science
 
 ## Research Interests
 My research focuses on applying mathematical tools to analyze complex and chaotic phenomena, utilizing both theoretical and numerical methods.
@@ -51,6 +52,8 @@ Uncertainty Quantification(UQ), mathematical fluid mechanics, Topological Flow D
 |Mar. 2020 |Bachelor of Science from Faculty of Science, Kyoto University.<br>Supervisor: Professor Takashi Sakajo (Kyoto University)|
 
 ### Employment
+- Jul. 2025 - Visiting Researcher, Data Assimilation research team, RIKEN Center for Computational Science
+- Apr. 2025 - Assistant Professor, Department of Applied Physics, Graduate School of Engineering, Nagoya University
 - Apr. 2022 - Mar. 2025 Kyoto University Graduate Division Fellow [Kyoto University Division of Graduate Studies](https://www.kugd.k.kyoto-u.ac.jp/en/program)
 - Apr. 2022 - Mar. 2025 RIKEN Junior Research Associate at R-CCS Data Assimilation research team [JRA 2022](https://www.riken.jp/en/careers/programs/jra/jra2022/index.html)
 
