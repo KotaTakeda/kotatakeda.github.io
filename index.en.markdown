@@ -47,7 +47,7 @@ Uncertainty Quantification(UQ), mathematical fluid mechanics, Topological Flow D
 ### Education
 
 |---|---|
-|Mar. 2025|Docter of Science from Graduate School of Science, Kyoto University.<br>Thesis：Error Analysis of the Ensemble Square Root Filter for Dissipative Dynamical Systems<br>Supervisor: Professor Takashi Sakajo (Kyoto University), Professor Takemasa Miyoshi (Kyoto University & RIKEN), Professor Sebastian Reich (University of Potsdam)|
+|Mar. 2025|Doctor of Science from Graduate School of Science, Kyoto University.<br>Thesis：Error Analysis of the Ensemble Square Root Filter for Dissipative Dynamical Systems<br>Supervisor: Professor Takashi Sakajo (Kyoto University), Professor Takemasa Miyoshi (Kyoto University & RIKEN), Professor Sebastian Reich (University of Potsdam)|
 |Mar. 2022 |Master of Science from Graduate School of Science, Kyoto University.<br>Supervisor: Professor Takashi Sakajo (Kyoto University)|
 |Mar. 2020 |Bachelor of Science from Faculty of Science, Kyoto University.<br>Supervisor: Professor Takashi Sakajo (Kyoto University)|
 
