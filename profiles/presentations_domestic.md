@@ -1,6 +1,6 @@
 
   | --- | --- | --- |
-  |2025/10/(8-10?) **(upcoming)**|口頭,招待|[RIMS共同研究 (公開型) 数値解析が切り開く新たな情報社会 〜データ駆動型から「富岳NEXT」〜](https://www.hpc.itc.nagoya-u.ac.jp/rims2025/)「TBA」, 京都大学, 2025/10/8|
+  |2025/10/(8-10?) **(upcoming)**|口頭,招待|[RIMS共同研究 (公開型) 数値解析が切り開く新たな情報社会 〜データ駆動型から「富岳NEXT」〜](https://www.hpc.itc.nagoya-u.ac.jp/rims2025/)「データ同化における推定誤差解析の現状と課題」, 京都大学, 2025/10/8|
   |2025/9/(16-19?) **(upcoming)**|口頭|[日本数学会2025年度秋季総合分科会](https://www.mathsoc.jp/activity/meeting/nagoya25sept/index.html)「ノイズを含む部分観測に対するEnsemble Kalman Filter の誤差解析」, 名古屋大学, 2025/9/16-19.|
   |2025/9/9 **(upcoming)**|口頭|[2025年度 統計関連学会連合大会](https://pub.confit.atlas.jp/ja/event/jfssa2025)「非線形カオス力学系の時系列状態推定と誤差解析」, 関西大学, 9/7-11.|
   |2025/9/(1-4?) **(upcoming)**|口頭|[応用数理学会 2025年度年会](https://jsiam.org/jsiam_archive/past_meetings/annual2025/)「力学系の不安定性とアンサンブルカルマンフィルタによる状態推定メカニズムの関係について」, 東京理科大学, 2025/9/1-4.|
