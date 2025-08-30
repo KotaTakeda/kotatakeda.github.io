@@ -9,4 +9,3 @@ description: "このサイトについて"
 
 ### Contact
 - takeda11.kl[at]outlook.jp
-- takeda.kota.53r[at]st.kyoto-u.ac.jp
