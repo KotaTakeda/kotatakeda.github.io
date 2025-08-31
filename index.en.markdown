@@ -60,6 +60,9 @@ Uncertainty Quantification(UQ), mathematical fluid mechanics, Topological Flow D
 ### Funds  
 
 |---|---|
+|2025 (-2028)|2025 RIKEN Special Postdoctoral Researcher (SPDR), awarded but declined|
+|2025 (-2028)|2025 JSPS Postdoctoral Fellowship (PD), awarded but declined|
+|2024| **A novel approach to ensemble data assimilation based on the instability of chaotic dynamical systems** <br>The 63rd Leave a Nest incu-be award from Leave a Nest Co., Ltd.|
 |2022 - 2025|**Comprehensive application of uncertainty quantification to mathematical fluid mechanics - with a focus on vortex dynamics and data assimilation**　<br> Support for Pioneering Research Initiated by the Next Generation program operated by the Japan Science and Technology Agency（2022）|
 |2022 - 2025|**Constructing topological data assimilation theory**<br>2022 RIKEN Junior Research Associate Program, Mathematical Science <br>（RIKEN R-CCS Data assimilation research team）|
 
