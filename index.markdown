@@ -20,6 +20,14 @@ title: About me
 理化学研究所 計算科学研究センター データ同化研究チーム **客員研究員**
 
 
+<!-- 臨時start -->
+## 講演資料
+2025/9/9 [2025年度 統計関連学会連合大会](https://pub.confit.atlas.jp/ja/event/jfssa2025)\\
+「非線形カオス力学系の時系列状態推定と誤差解析」, [slide](https://slides.com/kotatakeda/jfssa2025)
+<iframe src="https://slides.com/kotatakeda/jfssa2025/embed" width="576" height="420" title="⾮線形カオス⼒学系の時系列状態推定と誤差解析" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<!-- 臨時end -->
+
+
 ## 研究
 {% include_relative math/research_intro_jp.md %}
 
