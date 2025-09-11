@@ -112,6 +112,7 @@ title: About me
 ### 学会
 
   | --- | --- |
+  |2025/9/9|(organizer of MS)|2025年度 統計関連学会連合大会 企画セッション「予測・予兆検知に向けた統計・数理・データサイエンス」|
   |2022/10-2025/3| President of [SIAM Student Chapter Kyoto](https://sites.google.com/view/siam-sc-kyoto/home).|
   |2024/11/20-21|(organizer) [The 1st MMS Workshop for Young Researchers](https://www.math.kyoto-u.ac.jp/ja/event/conference/5525), Kyoto University.|
   |2024/11/2-4|(organizer) [Applied Mathematics Freshman Seminar 2024](https://sites.google.com/view/app-math-freshman-seminar-2024/home), Kyoto University.|

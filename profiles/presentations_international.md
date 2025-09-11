@@ -1,6 +1,6 @@
 
   | --- | --- | --- |
-  |2025/9/(23-25?) **(upcoming)**|oral, invited|The 2025 Dalian International Conference on Mathematics, TBA, Dalian, China, 9/21-25.|
+  |2025/9/(23-25?) **(upcoming)**|oral, invited|The 2025 Dalian International Conference on Mathematics, "Error analysis of the ensemble Kalman filter for chaotic dynamical systems with covariance inflation techniques", Dalian, China, 9/21-25.|
   |2025/7/14 |oral, invited|[Workshop on Sampling Methods for Problems Involving Differential Equations and Physical Sciences, Efficient Sampling Algorithms for Complex Models 1](https://ims.nus.edu.sg/events/efficient-sampling-algorithms-complex-models/), "Uniform error bounds of the ensemble square root filter for chaotic dynamics with  multiplicative covariance inflation", National University of Singapore, Singapore, 7/14-18.|
   |2025/7/10|oral|[The Third HKSIAM Biennial Conference](https://www.math.cuhk.edu.hk/conference/hksiam2025/index.php), "Error analysis of the ensemble Kalman filter for chaotic dynamical systems with covariance inflation techniques", The Chinese University of Hong Kong, Hong Kong, 7/7-11.|
   |2025/3/13|oral, invited|[Synergies of Machine Learning and Numerics](https://conf.rupp.ink/osaka25/), "Error analysis and numerical issues in data assimilation", Osaka University, Japan, 3/11-13.|
