@@ -112,10 +112,12 @@ title: About me
 ### 学会
 
   | --- | --- |
-  |2025/9/9|(organizer of MS)|2025年度 統計関連学会連合大会 企画セッション「予測・予兆検知に向けた統計・数理・データサイエンス」|
+  |2025/12/22-23|(organizer) RIKEN-Nagoya Univ.(Zhang lab) Joint Workshop on Prediction Science, Nagoya University.|
+  |2025/11/7-9|(chair) [応用数学フレッシュマンセミナー2025](https://sites.google.com/view/app-math-freshman-seminar-2025), 京都大学.|
+  |2025/9/9|(organizer of MS) 2025年度 統計関連学会連合大会 企画セッション「予測・予兆検知に向けた統計・数理・データサイエンス」|
   |2022/10-2025/3| President of [SIAM Student Chapter Kyoto](https://sites.google.com/view/siam-sc-kyoto/home).|
   |2024/11/20-21|(organizer) [The 1st MMS Workshop for Young Researchers](https://www.math.kyoto-u.ac.jp/ja/event/conference/5525), Kyoto University.|
-  |2024/11/2-4|(organizer) [Applied Mathematics Freshman Seminar 2024](https://sites.google.com/view/app-math-freshman-seminar-2024/home), Kyoto University.|
+  |2024/11/2-4|(chair) [Applied Mathematics Freshman Seminar 2024](https://sites.google.com/view/app-math-freshman-seminar-2024/home), Kyoto University.|
   |2024/10/21-25|(organizer) [The 10th International Symposium on Data Assimilation](https://www.data-assimilation.riken.jp/isda2024/), Kobe.|
   |2024/9/13|(organizer) [The 1st Kyoto and Waseda SIAM Student Chapter Conference](https://sites.google.com/view/siam-sc-kyoto/event/kyoto-waseda-first), Kyoto University.|
   |2024/6/28-7/1|(organizer of MS) *SIAM Student Chapter Research Presentations* at [The 17th SIAM East Asia Section Conference](https://www.easiam2024.org/), Macao SAR.|
