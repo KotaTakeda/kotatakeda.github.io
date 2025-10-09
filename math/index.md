@@ -8,6 +8,7 @@ description: "数学に関する記事をまとめています．"
 
 - [PDFライブラリ>>](/math/pdf_library)
 - [リンク集>>](/math/links)
+- [教科書](/math/book)
 
 ## 研究
 {% include_relative research_intro_jp.md %}
