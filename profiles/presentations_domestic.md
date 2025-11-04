@@ -1,6 +1,7 @@
 
   | --- | --- | --- |
   |2025/12/(18-20?) **(upcoming)**|口頭|[2025年度応用数学合同研究集会](https://www.mathsoc.jp/section/appliedmath/CAM/2025/), 「アンサンブルカルマンフィルタの非モンテカルロ的な解析について」, 龍谷大学, 2025/12/18-20.|
+  |2025/12/13 **(upcoming)**|口頭|[2025年度数値解析研究会](https://sites.google.com/view/numerical-analysis2025), 「データ同化問題と新しい方向性について」, 筑波大学.|
   |2025/10/8|口頭,招待|[RIMS共同研究 (公開型) 数値解析が切り開く新たな情報社会 〜データ駆動型から「富岳NEXT」〜](https://www.hpc.itc.nagoya-u.ac.jp/rims2025/)「データ同化における推定誤差解析の現状と課題」, 京都大学, 2025/10/8-10.|
   |2025/9/19|口頭|[日本数学会2025年度秋季総合分科会](https://www.mathsoc.jp/activity/meeting/nagoya25sept/index.html)「ノイズを含む部分観測に対するEnsemble Kalman Filter の誤差解析」, 名古屋大学, 2025/9/16-19.|
   |2025/9/9|口頭|[2025年度 統計関連学会連合大会](https://pub.confit.atlas.jp/ja/event/jfssa2025)「非線形カオス力学系の時系列状態推定と誤差解析」, 関西大学, 9/7-11. [slide](https://slides.com/kotatakeda/jfssa2025)|
