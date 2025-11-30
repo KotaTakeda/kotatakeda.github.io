@@ -17,6 +17,14 @@ Welcome to Kota Takeda's home page! [Japanese page >>](/)
 
 **Visiting Researcher**, Data Assimilation research team, RIKEN Center for Computational Science
 
+## Shared Contents
+### SIAM activities
+[Link to post]({% link math/_posts/2025-11-24-siam-activities.md %})
+
+### Slide
+[2025 KSIAM Annual Meeting](https://ksiam.org/Conference/ConferenceView.asp?AC=0&CODE=CC20250901&CpPage=#CONF), "Ensemble Data Assimilation in High-Dimensional Chaotic Systems: Exploiting Low-Dimensional Structures", Gyeonjyu, Korea, 11/27-30.
+<iframe src="https://slides.com/kotatakeda/ksiam2025/embed" width="576" height="420" title="Ensemble Data Assimilation in High-Dimensional Chaotic Systems: Exploiting Low-Dimensional Structures" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ## Research Interests
 My research focuses on applying mathematical tools to analyze complex and chaotic phenomena, utilizing both theoretical and numerical methods.
 In particular, I'm working on **UQ(Uncertainty Quantification)** approaches to mathematical fluid mechanics.
