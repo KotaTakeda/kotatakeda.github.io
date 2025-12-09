@@ -17,4 +17,6 @@ description: "データ同化に関する発表資料をまとめて共有しま
 <iframe src="https://slides.com/kotatakeda/jfssa2025/embed" width="576" height="420" title="⾮線形カオス⼒学系の時系列状態推定と誤差解析" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ### 部分観測 (Partial observation)
-準備中
+参考論文: 
+K. Takeda, **Error analysis of the projected PO method with additive inflation for the partially observed Lorenz 96 model**, arXiv preprint.  [![arXiv](https://img.shields.io/badge/arXiv-2507.23199-red)](http://arxiv.org/abs/2507.23199)
+<iframe src="https://slides.com/kotatakeda/msjcam2024/embed" width="576" height="420" title="ノイズを含む部分観測に対するEnsemble Kalman Filterの誤差解析" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
