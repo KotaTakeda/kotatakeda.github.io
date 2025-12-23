@@ -1,5 +1,6 @@
 
 |---|---|
+|2025 | [第42回井上研究奨励賞](https://www.inoue-zaidan.or.jp/b-01.html?eid=00061), 井上科学振興財団.|
 |2025 | Certificate of Recognition, Student Chapters, Society for Industrial and Applied Mathematics|
 |2025 | [R-CCS表彰「表彰・受賞」枠 Best Presentation Award for Young Researcher /The 20th International Conference on Flow Dynamics](https://www.data-assimilation.riken.jp/jp/achievements/index.html)|
 |2025 | [日本数学会応用数学研究奨励賞](https://www.mathsoc.jp/publicity/appmath2024.html)|
