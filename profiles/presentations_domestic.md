@@ -1,6 +1,6 @@
 
   | --- | --- | --- |
-  |2026/02/02 **upcoming**|口頭,招待|[Data Assimilation Seminar](https://www.data-assimilation.riken.jp/en/events/da_seminar/index.html), "Quantifying the minimum ensemble size for asymptotic accuracy of the ensemble Kalman filter using the degrees of instability", RIKEN RCCS.|
+  |2026/02/02|口頭,招待|[Data Assimilation Seminar](https://www.data-assimilation.riken.jp/en/events/da_seminar/index.html), "Quantifying the minimum ensemble size for asymptotic accuracy of the ensemble Kalman filter using the degrees of instability", RIKEN RCCS.|
   |2025/12/20|口頭|[2025年度応用数学合同研究集会](https://www.mathsoc.jp/section/appliedmath/CAM/2025/), 「アンサンブルカルマンフィルタの非モンテカルロ的な解析について」, 龍谷大学, 2025/12/18-20.|
   |2025/12/13|口頭|[2025年度数値解析研究会](https://sites.google.com/view/numerical-analysis2025), 「データ同化問題と新しい方向性について」, 筑波大学.|
   |2025/10/8|口頭,招待|[RIMS共同研究 (公開型) 数値解析が切り開く新たな情報社会 〜データ駆動型から「富岳NEXT」〜](https://www.hpc.itc.nagoya-u.ac.jp/rims2025/)「データ同化における推定誤差解析の現状と課題」, 京都大学, 2025/10/8-10.|
