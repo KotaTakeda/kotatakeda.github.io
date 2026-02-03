@@ -105,6 +105,7 @@ title: About me
 ### 学会
 
   | --- | --- |
+  |2026-|(Referee) SIAM/ASA Journal on Uncertainty Quantification|
   |2025/12/22-23|(organizer) RIKEN-Nagoya Univ.(Zhang lab) Joint Workshop on Prediction Science, Nagoya University.|
   |2025/11/7-9|(chair) [応用数学フレッシュマンセミナー2025](https://sites.google.com/view/app-math-freshman-seminar-2025), 京都大学.|
   |2025/9/9|(organizer of MS) 2025年度 統計関連学会連合大会 企画セッション「予測・予兆検知に向けた統計・数理・データサイエンス」|
@@ -116,6 +117,7 @@ title: About me
   |2024/6/28-7/1|(organizer of MS) *SIAM Student Chapter Research Presentations* at [The 17th SIAM East Asia Section Conference](https://www.easiam2024.org/), Macao SAR.|
   |2024/2/28|(organizer) [第2回 京大 応用数理 学生発表会](https://sites.google.com/view/siam-sc-kyoto/event/poster-presentation-2024).|
   |2023/6/17|(organizer) [第1回 京大 応用数理 学生ポスター発表会](https://sites.google.com/view/siam-sc-kyoto/event/poster2023).|
+
   
 ### スクールなど
 
@@ -129,7 +131,9 @@ title: About me
 ### アウトリーチ
 
   | --- | --- |
-  |2021/6 -|NPO法人 clack 高校生へのプログラミング教育支援 ボランティア|
+  |2025/1/31|探究フェスティバル |
+  |2025/2/1|探究フェスティバル 学生アドバイザー|
+  |2021/6 - 2025/3|NPO法人 clack 高校生へのプログラミング教育支援 ボランティア|
   |2024/8/31|ポスター発表 [超異分野学会](https://hic.lne.st/schedule/osaka2024/)「データ同化：次世代の科学のパラダイム」|
   |2024/2/2|探究フェスティバル 学生アドバイザー|
   |2024/9/28|探究カフェ 学生アドバイザー|
