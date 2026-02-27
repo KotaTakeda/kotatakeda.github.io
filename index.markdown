@@ -106,6 +106,7 @@ title: About me
 
   | --- | --- |
   |2026-|(Referee) SIAM/ASA Journal on Uncertainty Quantification|
+  |2026/03/24**(upcoming)**|(chair) [CP7](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=87932) of [SIAM Conference on Uncertainty Quantification (UQ26)](https://www.siam.org/conferences-events/siam-conferences/uq26/?_ga=2.262688524.160102306.1763166158-871875650.1756404424), Minnesota, U.S.|
   |2025/12/22-23|(organizer) RIKEN-Nagoya Univ.(Zhang lab) Joint Workshop on Prediction Science, Nagoya University.|
   |2025/11/7-9|(chair) [応用数学フレッシュマンセミナー2025](https://sites.google.com/view/app-math-freshman-seminar-2025), 京都大学.|
   |2025/9/9|(organizer of MS) 2025年度 統計関連学会連合大会 企画セッション「予測・予兆検知に向けた統計・数理・データサイエンス」|
