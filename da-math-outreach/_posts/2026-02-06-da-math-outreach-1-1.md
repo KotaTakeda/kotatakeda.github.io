@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "データ同化超入門1-1: 予測の不確かさ"
+title: "データ同化超入門1-1"
 date: 2026-02-05 9:00 +0900
 dir: /da-math-outreach/
-tags: ["データ同化"]
+tags: ["データ同化", "データ同化超入門"]
 description: ""
 ---
 
