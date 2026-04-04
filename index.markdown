@@ -68,9 +68,11 @@ title: About me
 
 |---|---|
 |2021/6-現在|[JST未来社会創造事業「未来医療を創出する4次元トポロジカルデータ解析数理共通基盤](https://tfda.jp/)|
-|2025/4-2026/3|[京都大学 MACS教育プログラム SG2025-12「外れ値でみる理学」参加教員](https://sci.kyoto-u.ac.jp/ja/academics/programs/macs/sg/sg2025-12)|
+|2025/4-2027/3|[京都大学 MACS教育プログラム SG2025-12「外れ値でみる理学」参加教員](https://sci.kyoto-u.ac.jp/ja/academics/programs/macs/sg/sg2026-12)|
+|2026/4-2027/3|[京都大学 MACS教育プログラム SG2025-14「カオスから法則へ：アンサンブルシミュレーションを用いた自然現象の構造理解」参加教員](https://sci.kyoto-u.ac.jp/ja/academics/programs/macs/sg/sg2026-14)|
 
 <!-- |2025/6- |[Moonshot8 小槻プロジェクト](https://www.jst.go.jp/moonshot/program/goal8/89_kotsuki.html)| -->
+<!-- |2026年度?|Moonshot10 宮武プロジェクト -->
 
 ### スキル・経験
 
