@@ -44,6 +44,7 @@ description: "数学PDF"
 
 ## 基礎
 - [線形作用素](pdf/linear_operator.pdf)
+- [微分の一般化について](pdf/derivative.pdf)
 - [多様体論](pdf/mfd.pdf)
 - [多様体上の構造保存型スキーム](pdf/integrator_on_mfd.pdf)
 - [Geometric Measure Theory](pdf/geometric_measure_theory.pdf)
