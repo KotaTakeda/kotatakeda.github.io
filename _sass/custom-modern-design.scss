@@ -4,17 +4,17 @@
    ========================================================================== */
 
 :root {
-  --cmd-bg: #f8fafc;
+  --cmd-bg: #fafbfc;
   --cmd-surface: #ffffff;
-  --cmd-text: #172033;
-  --cmd-muted: #64748b;
-  --cmd-border: rgba(15, 23, 42, 0.12);
+  --cmd-text: #3f4a53;
+  --cmd-muted: #7a8491;
+  --cmd-border: rgba(52, 60, 72, 0.1);
 
-  --cmd-link: #1d4ed8;
-  --cmd-link-hover: #0f172a;
+  --cmd-link: #2d5a8c;
+  --cmd-link-hover: #1e3a52;
 
-  --cmd-accent: #2563eb;
-  --cmd-accent-soft: rgba(37, 99, 235, 0.08);
+  --cmd-accent: #2a5093;
+  --cmd-accent-soft: rgba(42, 80, 147, 0.08);
 
   --cmd-radius: 10px;
 
@@ -179,8 +179,8 @@ pre code {
 
 // Override Rouge dark theme for light theme
 .highlight {
-  background: #f1f5f9 !important;
-  color: #0f172a !important;
+  background: #f5f6f8 !important;
+  color: #3f4a53 !important;
   
   .k,
   .kc,
@@ -188,7 +188,7 @@ pre code {
   .kn,
   .kp,
   .kr,
-  .kt { color: #c41e3a; font-weight: 600; } // Keywords: red
+  .kt { color: #8b3a3a; font-weight: 600; } // Keywords: muted red
   
   .s,
   .sa,
@@ -199,7 +199,7 @@ pre code {
   .se,
   .sh,
   .si,
-  .sx { color: #1b7c2c; } // Strings: green
+  .sx { color: #2d6a4f; } // Strings: muted green
   
   .n,
   .na,
@@ -210,7 +210,7 @@ pre code {
   .ni,
   .nl,
   .nn,
-  .nx { color: #0f172a; } // Names: default
+  .nx { color: #3f4a53; } // Names: default
   
   .m,
   .mb,
@@ -218,18 +218,18 @@ pre code {
   .mh,
   .mi,
   .il,
-  .mo { color: #2d5fb8; } // Numbers: blue
+  .mo { color: #2a5093; } // Numbers: muted blue
   
   .o,
-  .ow { color: #555; } // Operators: gray
+  .ow { color: #6b7280; } // Operators: gray
   
   .c,
   .ch,
   .cm,
   .c1,
-  .cs { color: #999; font-style: italic; } // Comments: gray italic
+  .cs { color: #9ca3af; font-style: italic; } // Comments: gray italic
   
-  .p { color: #0f172a; } // Punctuation
+  .p { color: #3f4a53; } // Punctuation
 }
 
 table {
