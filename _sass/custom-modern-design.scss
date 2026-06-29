@@ -1,0 +1,373 @@
+/* ==========================================================================
+   Custom Modern Design
+   Minimal academic design layer for Jekyll minima
+   ========================================================================== */
+
+:root {
+  --cmd-bg: #fafbfc;
+  --cmd-surface: #ffffff;
+  --cmd-text: #3f4a53;
+  --cmd-muted: #7a8491;
+  --cmd-border: rgba(52, 60, 72, 0.1);
+
+  --cmd-link: #2d5a8c;
+  --cmd-link-hover: #1e3a52;
+
+  --cmd-accent: #2a5093;
+  --cmd-accent-soft: rgba(42, 80, 147, 0.08);
+
+  --cmd-radius: 10px;
+
+  --cmd-content-width: 960px;
+  --cmd-text-width: 780px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  color: var(--cmd-text);
+  background: var(--cmd-bg);
+  line-height: 1.75;
+  overflow-x: hidden;
+}
+
+.wrapper {
+  max-width: var(--cmd-content-width);
+}
+
+.page-content {
+  padding: 2.8rem 0 3.5rem;
+}
+
+.post,
+.home,
+.page {
+  max-width: var(--cmd-text-width);
+  margin-inline: auto;
+}
+
+.site-header {
+  border-bottom: 1px solid var(--cmd-border);
+  background: rgba(248, 250, 252, 0.96);
+}
+
+.site-header.about-me {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.site-title {
+  color: var(--cmd-text) !important;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.site-nav .page-link {
+  color: var(--cmd-muted);
+  font-weight: 600;
+}
+
+.site-nav .page-link:hover {
+  color: var(--cmd-text);
+  text-decoration: none;
+}
+
+.page-content h1:first-child,
+.post-title,
+.page-heading {
+  margin-top: 0;
+  color: var(--cmd-text);
+  font-weight: 800;
+  letter-spacing: -0.04em;
+  line-height: 1.12;
+}
+
+.page-content h1:first-child::after,
+.post-title::after,
+.page-heading::after {
+  content: "";
+  display: block;
+  width: 3.6rem;
+  height: 3px;
+  margin-top: 0.9rem;
+  border-radius: 999px;
+  background: var(--cmd-accent);
+}
+
+.sidebar-left h1:first-child:after {
+  display: none;
+}
+
+.page-content h2,
+.post-content h2 {
+  margin-top: 2.6rem;
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid var(--cmd-border);
+  color: var(--cmd-text);
+  font-weight: 750;
+  letter-spacing: -0.025em;
+}
+
+.page-content h3,
+.post-content h3 {
+  margin-top: 2rem;
+  color: var(--cmd-text);
+  font-weight: 700;
+}
+
+p {
+  line-height: 1.85;
+}
+
+a {
+  color: var(--cmd-link);
+  text-underline-offset: 0.18em;
+}
+
+a:hover {
+  color: var(--cmd-link-hover);
+}
+
+.post-content p a,
+.post-content li a,
+.page-content p a,
+.page-content li a {
+  font-weight: 600;
+}
+
+.post-list {
+  margin-left: 0;
+}
+
+.post-list > li {
+  padding: 0.9rem 0;
+  border-bottom: 1px solid var(--cmd-border);
+}
+
+.post-link {
+  color: var(--cmd-text);
+  font-weight: 700;
+}
+
+.post-meta {
+  color: var(--cmd-muted);
+}
+
+pre,
+code {
+  background: #f1f5f9;
+  color: #0f172a;
+  border: 1px solid rgba(15, 23, 42, 0.10);
+  border-radius: 7px;
+}
+
+code {
+  padding: 0.1rem 0.28rem;
+}
+
+pre {
+  padding: 0.95rem 1rem;
+  overflow-x: auto;
+}
+
+pre code {
+  padding: 0;
+  border: 0;
+  background: transparent;
+}
+
+// Override Rouge dark theme for light theme
+.highlight {
+  background: #f5f6f8 !important;
+  color: #3f4a53 !important;
+  
+  .k,
+  .kc,
+  .kd,
+  .kn,
+  .kp,
+  .kr,
+  .kt { color: #8b3a3a; font-weight: 600; } // Keywords: muted red
+  
+  .s,
+  .sa,
+  .sb,
+  .sc,
+  .s1,
+  .s2,
+  .se,
+  .sh,
+  .si,
+  .sx { color: #2d6a4f; } // Strings: muted green
+  
+  .n,
+  .na,
+  .nb,
+  .nc,
+  .no,
+  .nf,
+  .ni,
+  .nl,
+  .nn,
+  .nx { color: #3f4a53; } // Names: default
+  
+  .m,
+  .mb,
+  .mf,
+  .mh,
+  .mi,
+  .il,
+  .mo { color: #2a5093; } // Numbers: muted blue
+  
+  .o,
+  .ow { color: #6b7280; } // Operators: gray
+  
+  .c,
+  .ch,
+  .cm,
+  .c1,
+  .cs { color: #9ca3af; font-style: italic; } // Comments: gray italic
+  
+  .p { color: #3f4a53; } // Punctuation
+}
+
+table {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 0.65rem 0.8rem;
+  border: 1px solid var(--cmd-border);
+}
+
+th {
+  background: var(--cmd-accent-soft);
+}
+
+blockquote {
+  margin-left: 0;
+  padding: 0.8rem 1rem;
+  background: var(--cmd-accent-soft);
+  border-left: 4px solid var(--cmd-accent);
+}
+
+.recent-news {
+  background: var(--cmd-surface);
+  border: 1px solid var(--cmd-border);
+  border-radius: var(--cmd-radius);
+  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.06);
+  // opacity: 100% !important;
+
+  h1 {
+    color: var(--cmd-text);
+    font-weight: 700;
+    font-size: 1.35rem;
+    margin-top: 0;
+    margin-bottom: 1.2rem;
+    letter-spacing: -0.025em;
+
+    &::after {
+      display: none;
+    }
+  }
+}
+
+.paper-list {
+  margin-left: 0;
+  list-style: none;
+}
+
+.paper-item {
+  padding: 1.1rem;
+  margin-bottom: 0.8rem;
+  // background: var(--cmd-bg);
+  border: 1px solid var(--cmd-border);
+  border-radius: 8px;
+  transition: all 0.2s ease-in-out;
+
+  &:hover {
+    background: var(--cmd-accent-soft);
+    border-color: var(--cmd-accent);
+  }
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.paper-title {
+  color: var(--cmd-text);
+  font-weight: 600;
+  margin-bottom: 0.6rem;
+  line-height: 1.4;
+  font-size: 0.95rem;
+}
+
+.paper-link {
+  color: var(--cmd-link);
+  font-weight: 600;
+  text-decoration: none;
+
+  &:hover {
+    color: var(--cmd-link-hover);
+  }
+}
+
+img,
+iframe {
+  max-width: 100%;
+}
+
+mjx-container,
+.MathJax,
+.katex-display {
+  max-width: 100%;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+.post-content,
+.page-content {
+  overflow-wrap: anywhere;
+}
+
+.site-footer {
+  border-top: 1px solid var(--cmd-border);
+}
+
+@media screen and (max-width: 700px) {
+  .page-content {
+    padding: 1.6rem 0 2.6rem;
+  }
+
+  .wrapper {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  table {
+    font-size: 0.86rem;
+  }
+}
+
+@media print {
+  .site-header,
+  .site-footer {
+    display: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    transition-duration: 0.001ms !important;
+    animation-duration: 0.001ms !important;
+  }
+}
