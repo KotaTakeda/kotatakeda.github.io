@@ -1,6 +1,6 @@
 
   | --- | --- | --- |
-  |2026/9/(14-17?) | oral, invited| [ICMASE 2026](https://icmase.com/invited-speakers), "Ensemble Data Assimilation in High-Dimensional Chaotic Systems: Exploiting Low-Dimensional Structures", Nagoya University, Japan, 2026/9/14-17.|
+  |2026/9/14 **(upcoming)** | oral, invited| [ICMASE 2026](https://icmase.com/invited-speakers), "Ensemble Data Assimilation in High-Dimensional Chaotic Systems: Exploiting Low-Dimensional Structures", Nagoya University, Japan, 2026/9/14-17.|
   |2026/7/8|oral, invited|International Workshop on Numerical Analysis and Applications, "Error analysis on data assimilation for chaotic dynamical systems", Northwest Normal University, China, 2026/7/7-10.|
   |2026/3/24 | oral | [SIAM Conference on Uncertainty Quantification (UQ26)](https://www.siam.org/conferences-events/siam-conferences/uq26/), "Error Analysis of the Projected Po Method with Additive Inflation for the Partially Observed Lorenz 96 Model", Minneapolis, Minnesota, U.S., 3/22-25.|
   |2025/11/28|oral, invited|[2025 KSIAM Annual Meeting](https://ksiam.org/Conference/ConferenceView.asp?AC=0&CODE=CC20250901&CpPage=#CONF), "Ensemble Data Assimilation in High-Dimensional Chaotic Systems: Exploiting Low-Dimensional Structures", Gyeonjyu, Korea, 11/27-30. [Slide](https://slides.com/kotatakeda/ksiam2025)|
