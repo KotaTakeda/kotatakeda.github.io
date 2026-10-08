@@ -333,6 +333,44 @@ blockquote {
   font-size: 0.95rem;
 }
 
+.publication-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 4px;
+}
+
+.publication-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  min-height: 26px;
+  padding: 2px 8px;
+  border: 1px solid currentColor;
+  border-radius: 3px;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 1.4;
+
+  &,
+  &:visited {
+    color: var(--cmd-text);
+    text-decoration: none;
+  }
+
+  &:hover {
+    color: var(--cmd-text);
+    background: var(--cmd-accent-soft);
+    text-decoration: none;
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--cmd-accent);
+    outline-offset: 3px;
+  }
+}
+
 .paper-link {
   color: var(--cmd-link);
   font-weight: 600;
