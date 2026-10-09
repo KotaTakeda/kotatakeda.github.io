@@ -1,5 +1,6 @@
 
   | --- | --- | --- |
+  |2026/12/4-5 (upcoming) |oral<br><span class="presentation-invited">Invited</span>|Topology and Data: Theory, Machine Learning and Applications, "TBD", KIAS, Korea, 12/4-12/5.|
   |2026/11/27 (upcoming)|oral<br><span class="presentation-invited">Invited</span>|[2nd Workshop on Learning Dynamical System (WLDS2)](https://wlds-2-workshop.ishikawa-isao-5s.chatgpt.site/), "Ensemble Data Assimilation in High-Dimensional Chaotic Systems: Exploiting Low-Dimensional Structures", RIKEN AIP, Tokyo, Japan, 2026/11/25-27.|
   |2026/9/14 | oral<br><span class="presentation-invited">Invited</span>| [ICMASE 2026](https://icmase.com/invited-speakers), "Ensemble Data Assimilation in High-Dimensional Chaotic Systems: Exploiting Low-Dimensional Structures", Nagoya University, Japan, 2026/9/14-17.|
   |2026/7/8|oral<br><span class="presentation-invited">Invited</span>|International Workshop on Numerical Analysis and Applications, "Error analysis on data assimilation for chaotic dynamical systems", Northwest Normal University, China, 2026/7/7-10.|
