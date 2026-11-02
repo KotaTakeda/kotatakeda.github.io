@@ -108,6 +108,7 @@ title: About me
 ### 学会
 
   | --- | --- |
+  |2026-|(referee) Japan Journal of Industrial and Applied Mathematics (1件)|
   |2026-|(referee) SIAM/ASA Journal on Uncertainty Quantification (2件)|
   |2026/10/31-11/1|(chair of organizers) [応用数学フレッシュマンセミナー2026](https://sites.google.com/view/app-math-freshman-seminar-2026), 京都大学.|
   |2026/03/24|(chair of a session) CP7, SIAM Conference on Uncertainty Quantification, Minneapolis, U.S.|
