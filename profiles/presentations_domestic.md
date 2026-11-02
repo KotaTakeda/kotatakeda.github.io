@@ -1,7 +1,8 @@
 
   | --- | --- | --- |
+  |2026/12/12|口頭<br><span class="presentation-invited">招待</span> **(upcoming)**|[2026年度数値解析研究会](https://sites.google.com/view/2026-numerical-analysis/), "トポロジー最適化とその周辺について", 名古屋大学.|
   |2026/02/02|口頭<br><span class="presentation-invited">招待</span>|[Data Assimilation Seminar](https://www.data-assimilation.riken.jp/en/events/da_seminar/index.html), "Quantifying the minimum ensemble size for asymptotic accuracy of the ensemble Kalman filter using the degrees of instability", RIKEN RCCS.|
-  |2025/12/20|口頭|[2025年度応用数学合同研究集会](https://www.mathsoc.jp/section/appliedmath/CAM/2025/), 「アンサンブルカルマンフィルタの非モンテカルロ的な解析について」, 龍谷大学, 2025/12/18-20.|
+  |2025/12/20|口頭<br><span class="presentation-invited">招待</span>|[2025年度応用数学合同研究集会](https://www.mathsoc.jp/section/appliedmath/CAM/2025/), 「アンサンブルカルマンフィルタの非モンテカルロ的な解析について」, 龍谷大学, 2025/12/18-20.|
   |2025/12/13|口頭|[2025年度数値解析研究会](https://sites.google.com/view/numerical-analysis2025), 「データ同化問題と新しい方向性について」, 筑波大学.|
   |2025/10/8|口頭<br><span class="presentation-invited">招待</span>|[RIMS共同研究 (公開型) 数値解析が切り開く新たな情報社会 〜データ駆動型から「富岳NEXT」〜](https://www.hpc.itc.nagoya-u.ac.jp/rims2025/)「データ同化における推定誤差解析の現状と課題」, 京都大学, 2025/10/8-10.|
   |2025/9/19|口頭|[日本数学会2025年度秋季総合分科会](https://www.mathsoc.jp/activity/meeting/nagoya25sept/index.html)「ノイズを含む部分観測に対するEnsemble Kalman Filter の誤差解析」, 名古屋大学, 2025/9/16-19.|
